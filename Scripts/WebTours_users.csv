@@ -1,0 +1,11 @@
+Login,password,firstName,lastName,pass1,address1,address2,depart,arrive,creditCard,expDate
+dart,veyder,Dart,Veyder,Dart Veyder,kalarash,Moscow,Moscow,Frankfurt,1234567812345678,01/02
+obi,kenobi,Obi,Kenobi,Obi Kenobi,popova,Frankfurt,Frankfurt,London,8765432187654321,02/03
+padme,amidala,Padme,Amidala,Padme Amidala,zelenaya,London,London,Paris,1234123456785678,03/04
+boba,fett,Boba,Fett,Boba Fett,krasnaya,Paris,Paris,Portland,9876987654325432,04/05
+han,solo,Han,Solo,Han Solo,vinogradnaya,Portland,Portland,Zurich,9087123443217809,05/06
+graf,duku,Graf,Duku,Graf Duku,centralnaya,Zurich,Zurich,Sydney,1357246875318642,07/08
+meis,windu,Meis,Windu,Meis Windu,sadovaya,Sydney,Sydney,Denver,1827372367643236,08/09
+django,fett,Django,Fett,Django Fett,komsomolskaya,Denver,Denver,Seattle,5432112345678900,09/10
+moff,gideon,Moff,Gideon,Moff Gideon,oktyabrskaya,Seattle,Seattle,Los Angeles,9876543210123456,10/11
+paz,vizsla,Paz,Vizsla,Paz Vizsla,vasilkovaya,Los Angeles,Los Angeles,Moscow,9876544567890011,11/12
