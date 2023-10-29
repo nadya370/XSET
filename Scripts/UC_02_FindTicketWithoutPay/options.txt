@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\Надя\OneDrive\Документы\VuGen\Scripts\UC_02_FindTicketWithoutPay
+-IC:\Program Files (x86)\Micro Focus\LoadRunner\include
+-ec:\users\надя\onedrive\документы\vugen\scripts\uc_02_findticketwithoutpay\\logfile.log
+c:\users\надя\onedrive\документы\vugen\scripts\uc_02_findticketwithoutpay\\combined_UC_02_FindTicketWithoutPay.c
+c:\users\надя\onedrive\документы\vugen\scripts\uc_02_findticketwithoutpay\\pre_cci.c

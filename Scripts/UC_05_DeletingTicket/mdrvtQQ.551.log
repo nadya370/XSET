@@ -1,0 +1,2607 @@
+Start auto log messages stack - Iteration 24.	[MsgId: MMSG-10545]
+Action.c(88): t=2674105ms: 8-byte chunked response overhead for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1.2, Internal ID=520)
+Action.c(88):     \r\n
+Action.c(88):     1000\r\n
+Action.c(88): t=2674105ms: 12263-byte chunked response body for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1.2, Internal ID=520)
+Action.c(88):     <Table width="80%" cellspacing="0" > <tr> <td>\n
+Action.c(88):               Draco Malfoy\n
+Action.c(88):     <br/>\n
+Action.c(88):               Wiltshire<br/>\n
+Action.c(88):               Great Britain<br/>\n
+Action.c(88):               <br/>\n
+Action.c(88):               Total Charge: $ 861 <BR/> (CC: x-1234)\n
+Action.c(88):           </td> </tr> </table>\n
+Action.c(88):           </center>\n
+Action.c(88):       </TD>\n
+Action.c(88):     </TR>\n
+Action.c(88):     <TR bgcolor="#EFF2F7">\n
+Action.c(88):       <TD COLSPAN="3">\n
+Action.c(88):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(88):       02/17/2023\n
+Action.c(88):      :  8am : Flight 530 leaves Portland  for Los Angeles.<br>  </center>\n
+Action.c(88):       </TD>\n
+Action.c(88):     </TR>\n
+Action.c(88):     \n
+Action.c(88):     <TR bgcolor="#EFF2F7">\n
+Action.c(88):       <TD COLSPAN="4">\n
+Action.c(88):       <hr/>\n
+Action.c(88):       </TD>\n
+Action.c(88):     </TR>\n
+Action.c(88):     \n
+Action.c(88):     <!-- Flight #1 -->\n
+Action.c(88):     <TR bgcolor="#EFF2F7">\n
+Action.c(88):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+Action.c(88):     <b>\n
+Action.c(88):     <label><input type="checkbox" name="62" value="on" /></label></font></b>\n
+Action.c(88):     <input type="hidden" name="flightID" value="45713734-47755-DM"  />\n
+Action.c(88):       </TD>\n
+Action.c(88):       <TD width="45%" valign="top">\n
+Action.c(88):           <b>&nbsp;&nbsp;A Business class ticket for :</b><br/>\n
+Action.c(88):           <center><table border="0" width="85%"><tr><td>\n
+Action.c(88):           <li><i>DracoMalfoy\n
+Action.c(88):           <li><i></i>\n
+Action.c(88):           </td></tr></table></center>\n
+Action.c(88):       </TD>\n
+Action.c(88):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+Action.c(88):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+Action.c(88):           <center>\n
+Action.c(88):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+Action.c(88):               Draco Malfoy\n
+Action.c(88):     <br/>\n
+Action.c(88):               Wiltshire<br/>\n
+Action.c(88):               Great Britain<br/>\n
+Action.c(88):               <br/>\n
+Action.c(88):               Total Charge: $ 819 <BR/> (CC: x-1234)\n
+Action.c(88):           </td> </tr> </table>\n
+Action.c(88):           </center>\n
+Action.c(88):       </TD>\n
+Action.c(88):     </TR>\n
+Action.c(88):     <TR bgcolor="#EFF2F7">\n
+Action.c(88):       <TD COLSPAN="3">\n
+Action.c(88):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(88):       02/17/2023\n
+Action.c(88):      :  8am : Flight 270 leaves London  for Seattle.<br>  </center>\n
+Action.c(88):       </TD>\n
+Action.c(88):     </TR>\n
+Action.c(88):     \n
+Action.c(88):     <TR bgcolor="#EFF2F7">\n
+Action.c(88):       <TD COLSPAN="4">\n
+Action.c(88):       <hr/>\n
+Action.c(88):       </TD>\n
+Action.c(88):     </TR>\n
+Action.c(88):     \n
+Action.c(88):     <!-- Flight #1 -->\n
+Action.c(88):     <TR bgcolor="#EFF2F7">\n
+Action.c(88):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+Action.c(88):     <b>\n
+Action.c(88):     <label><input type="checkbox" name="63" value="on" /></label></font></b>\n
+Action.c(88):     <input type="hidden" name="flightID" value="45725248-484725-DM"  />\n
+Action.c(88):       </TD>\n
+Action.c(88):       <TD width="45%" valign="top">\n
+Action.c(88):           <b>&nbsp;&nbsp;2 Coach class tickets for :</b><br/>\n
+Action.c(88):           <center><table border="0" width="85%"><tr><td>\n
+Action.c(88):           <li><i>DracoMalfoy      <li><i>DracoMalfoy\n
+Action.c(88):           <li><i></i>\n
+Action.c(88):           </td></tr></table></center>\n
+Action.c(88):       </TD>\n
+Action.c(88):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+Action.c(88):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+Action.c(88):           <center>\n
+Action.c(88):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+Action.c(88):               Draco Malfoy\n
+Action.c(88):     <br/>\n
+Action.c(88):               Wiltshire<br/>\n
+Action.c(88):               Great Britain<br/>\n
+Action.c(88):               <br/>\n
+Action.c(88):               Total Charge: $ 1434 <BR/> (CC: x-1234)\n
+Action.c(88):           </td> </tr> </table>\n
+Action.c(88):           </center>\n
+Action.c(88):       </TD>\n
+Action.c(88):     </TR>\n
+Action.c(88):     <TR bgcolor="#EFF2F7">\n
+Action.c(88):       <TD COLSPAN="3">\n
+Action.c(88):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(88):       02/17/2023\n
+Action.c(88):      :  1pm : Flight 581 leaves Portland  for Sydney.<br>  </center>\n
+Action.c(88):       </TD>\n
+Action.c(88):     </TR>\n
+Action.c(88):     \n
+Action.c(88):     <TR bgcolor="#EFF2F7">\n
+Action.c(88):       <TD COLSPAN="4">\n
+Action.c(88):       <hr/>\n
+Action.c(88):       </TD>\n
+Action.c(88):     </TR>\n
+Action.c(88):     \n
+Action.c(88):     <!-- Flight #1 -->\n
+Action.c(88):     <TR bgcolor="#EFF2F7">\n
+Action.c(88):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+Action.c(88):     <b>\n
+Action.c(88):     <label><input type="checkbox" name="64" value="on" /></label></font></b>\n
+Action.c(88):     <input type="hidden" name="flightID" value="45731522-49272-DM"  />\n
+Action.c(88):       </TD>\n
+Action.c(88):       <TD width="45%" valign="top">\n
+Action.c(88):           <b>&nbsp;&nbsp;5 First class tickets for :</b><br/>\n
+Action.c(88):           <center><table border="0" width="85%"><tr><td>\n
+Action.c(88):           <li><i>DracoMalfoy      <li><i>DracoMalfoy      <li><i>DracoMalfoy      <li><i>     
+Action.c(88):      <li><i>\n
+Action.c(88):           <li><i></i>\n
+Action.c(88):           </td></tr></table></center>\n
+Action.c(88):       </TD>\n
+Action.c(88):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+Action.c(88):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+Action.c(88):           <center>\n
+Action.c(88):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+Action.c(88):               Draco Malfoy\n
+Action.c(88):     <br/>\n
+Action.c(88):               Wiltshire<br/>\n
+Action.c(88):               Great Britain<br/>\n
+Action.c(88):               <br/>\n
+Action.c(88):               Total Charge: $ 540 <BR/> (CC: x-1234)\n
+Action.c(88):           </td> </tr> </table>\n
+Action.c(88):           </center>\n
+Action.c(88):       </TD>\n
+Action.c(88):     </TR>\n
+Action.c(88):     <TR bgcolor="#EFF2F7">\n
+Action.c(88):       <TD COLSPAN="3">\n
+Action.c(88):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(88):       02/17/2023\n
+Action.c(88):      :  1pm : Flight 751 leaves Seattle  for Portland.<br>  </center>\n
+Action.c(88):       </TD>\n
+Action.c(88):     </TR>\n
+Action.c(88):     \n
+Action.c(88):     <TR bgcolor="#EFF2F7">\n
+Action.c(88):       <TD COLSPAN="4">\n
+Action.c(88):       <hr/>\n
+Action.c(88):       </TD>\n
+Action.c(88):     </TR>\n
+Action.c(88):     \n
+Action.c(88):     <!-- Flight #1 -->\n
+Action.c(88):     <TR bgcolor="#EFF2F7">\n
+Action.c(88):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+Action.c(88):     <b>\n
+Action.c(88):     <label><input type="checkbox" name="65" value="on" /></label></font></b>\n
+Action.c(88):     <input type="hidden" name="flightID" value="45725607-500094-DM"  />\n
+Action.c(88):       </TD>\n
+Action.c(88):       <TD width="45%" valign="top">\n
+Action.c(88):           <b>&nbsp;&nbsp;3 Coach class tickets for :</b><br/>\n
+Action.c(88):           <center><table border="0" width="85%"><tr><td>\n
+Action.c(88):           <li><i>DracoMalfoy      <li><i>DracoMalfoy      <li><i>DracoMalfoy\n
+Action.c(88):           <li><i></i>\n
+Action.c(88):           </td></tr></table></center>\n
+Action.c(88):       </TD>\n
+Action.c(88):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+Action.c(88):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+Action.c(88):           <center>\n
+Action.c(88):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+Action.c(88):               Draco Malfoy\n
+Action.c(88):     <br/>\n
+Action.c(88):               Wiltshire<br/>\n
+Action.c(88):               Great Britain<br/>\n
+Action.c(88):               <br/>\n
+Action.c(88):               Total Charge: $ 1233 <BR/> (CC: x-1234)\n
+Action.c(88):           </td> </tr> </table>\n
+Action.c(88):           </center>\n
+Action.c(88):       </TD>\n
+Action.c(88):     </TR>\n
+Action.c(88):     <TR bgcolor="#EFF2F7">\n
+Action.c(88):       <TD COLSPAN="3">\n
+Action.c(88):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(88):       02/17/2023\n
+Action.c(88):      :  1pm : Flight 591 leaves Portland  for Zurich.<br>  </center>\n
+Action.c(88):       </TD>\n
+Action.c(88):     </TR>\n
+Action.c(88):     \n
+Action.c(88):     <TR bgcolor="#EFF2F7">\n
+Action.c(88):       <TD COLSPAN="4">\n
+Action.c(88):       <hr/>\n
+Action.c(88):       </TD>\n
+Action.c(88):     </TR>\n
+Action.c(88):     \n
+Action.c(88):     <!-- Flight #1 -->\n
+Action.c(88):     <TR bgcolor="#EFF2F7">\n
+Action.c(88):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+Action.c(88):     <b>\n
+Action.c(88):     <label><input type="checkbox" name="66" value="on" /></label></font></b>\n
+Action.c(88):     <input type="hidden" name="flightID" value="45708197-507771-DM"  />\n
+Action.c(88):       </TD>\n
+Action.c(88):       <TD width="45%" valign="top">\n
+Action.c(88):           <b>&nbsp;&nbsp;3 Business class tickets for :</b><br/>\n
+Action.c(88):           <center><table border="0" width="85%"><tr><td>\n
+Action.c(88):           <li><i>DracoMalfoy      <li><i>DracoMalfoy      <li><i>DracoMalfoy\n
+Action.c(88):           <li><i></i>\n
+Action.c(88):           </td></tr></table></center>\n
+Action.c(88):       </TD>\n
+Action.c(88):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+Action.c(88):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+Action.c(88):           <center>\n
+Action.c(88):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+Action.c(88):               Draco Malfoy\n
+Action.c(88):     <br/>\n
+Action.c(88):               Wiltshire<br/>\n
+Action.c(88):               Great Britain<br/>\n
+Action.c(88):               <br/>\n
+Action.c(88):               Total Charge: $ 1029 <BR/> (CC: x-1234)\n
+Action.c(88):           </td> </tr> </table>\n
+Action.c(88):           </center>\n
+Action.c(88):       </TD>\n
+Action.c(88):     </TR>\n
+Action.c(88):     <TR bgcolor="#EFF2F7">\n
+Action.c(88):       <TD COLSPAN="3">\n
+Action.c(88):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(88):       02/17/2023\n
+Action.c(88):      :  1pm : Flight 121 leaves Frankfurt  for London.<br>  </center>\n
+Action.c(88):       </TD>\n
+Action.c(88):     </TR>\n
+Action.c(88):     \n
+Action.c(88):     <TR bgcolor="#EFF2F7">\n
+Action.c(88):       <TD COLSPAN="4">\n
+Action.c(88):       <hr/>\n
+Action.c(88):       </TD>\n
+Action.c(88):     </TR>\n
+Action.c(88):     \n
+Action.c(88):     <!-- Flight #1 -->\n
+Action.c(88):     <TR bgcolor="#EFF2F7">\n
+Action.c(88):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+Action.c(88):     <b>\n
+Action.c(88):     <label><input type="checkbox" name="67" value="on" /></label></font></b>\n
+Action.c(88):     <input type="hidden" name="flightID" value="45737820-51551-DM"  />\n
+Action.c(88):       </TD>\n
+Action.c(88):       <TD width="45%" valign="top">\n
+Action.c(88):           <b>&nbsp;&nbsp;A Coach class ticket for :</b><br/>\n
+Action.c(88):           <center><table border="0" width="85%"><tr><td>\n
+Action.c(88):           <li><i>DracoMalfoy\n
+Action.c(88):           <li><i></i>\n
+Action.c(88):           </td></tr></table></center>\n
+Action.c(88):       </TD>\n
+Action.c(88):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+Action.c(88):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+Action.c(88):           <center>\n
+Action.c(88):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+Action.c(88):               Draco Malfoy\n
+Action.c(88):     <br/>\n
+Action.c(88):               Wiltshire<br/>\n
+Action.c(88):               Great Britain<br/>\n
+Action.c(88):               <br/>\n
+Action.c(88):               Total Charge: $ 166 <BR/> (CC: x-1234)\n
+Action.c(88):           </td> </tr> </table>\n
+Action.c(88):           </center>\n
+Action.c(88):       </TD>\n
+Action.c(88):     </TR>\n
+Action.c(88):     <TR bgcolor="#EFF2F7">\n
+Action.c(88):       <TD COLSPAN="3">\n
+Action.c(88):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(88):       02/17/2023\n
+Action.c(88):      :  1pm : Flight 921 leaves Zurich  for London.<br>  </center>\n
+Action.c(88):       </TD>\n
+Action.c(88):     </TR>\n
+Action.c(88):     \n
+Action.c(88):     <TR bgcolor="#EFF2F7">\n
+Action.c(88):       <TD COLSPAN="4">\n
+Action.c(88):       <hr/>\n
+Action.c(88):       </TD>\n
+Action.c(88):     </TR>\n
+Action.c(88):     \n
+Action.c(88):     <!-- Flight #1 -->\n
+Action.c(88):     <TR bgcolor="#EFF2F7">\n
+Action.c(88):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+Action.c(88):     <b>\n
+Action.c(88):     <label><input type="checkbox" name="68" value="on" /></label></font></b>\n
+Action.c(88):     <input type="hidden" name="flightID" value="457337465-523682-DM"  />\n
+Action.c(88):       </TD>\n
+Action.c(88):       <TD width="45%" valign="top">\n
+Action.c(88):           <b>&nbsp;&nbsp;5 Business class tickets for :</b><br/>\n
+Action.c(88):           <center><table border="0" width="85%"><tr><td>\n
+Action.c(88):           <li><i>DracoMalfoy      <li><i>DracoMalfoy      <li><i>DracoMalfoy      <li><i>     
+Action.c(88):      <li><i>\n
+Action.c(88):           <li><i></i>\n
+Action.c(88):           </td></tr></table></center>\n
+Action.c(88):       </TD>\n
+Action.c(88):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+Action.c(88):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+Action.c(88):           <center>\n
+Action.c(88):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+Action.c(88):               Draco Malfoy\n
+Action.c(88):     <br/>\n
+Action.c(88):               Wiltshire<br/>\n
+Action.c(88):               Great Britain<br/>\n
+Action.c(88):               <br/>\n
+Action.c(88):               Total Charge: $ 7875 <BR/> (CC: x-1234)\n
+Action.c(88):           </td> </tr> </table>\n
+Action.c(88):           </center>\n
+Action.c(88):       </TD>\n
+Action.c(88):     </TR>\n
+Action.c(88):     <TR bgcolor="#EFF2F7">\n
+Action.c(88):       <TD COLSPAN="3">\n
+Action.c(88):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(88):       02/17/2023\n
+Action.c(88):      :  1pm : Flight 811 leaves Sydney  for Frankfurt.<br>  </center>\n
+Action.c(88):       </TD>\n
+Action.c(88):     </TR>\n
+Action.c(88):     \n
+Action.c(88):     <TR bgcolor="#EFF2F7">\n
+Action.c(88):       <TD COLSPAN="4">\n
+Action.c(88):       <hr/>\n
+Action.c(88):       </TD>\n
+Action.c(88):     </TR>\n
+Action.c(88):     \n
+Action.c(88):     <!-- Flight #1 -->\n
+Action.c(88):     <TR bgcolor="#EFF2F7">\n
+Action.c(88):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+Action.c(88):     <b>\n
+Action.c(88):     <label><input type="checkbox" name="69" value="on" /></label></font></b>\n
+Action.c(88):     <input type="hidden" name="flightID" value="457141158-531065-DM"  />\n
+Action.c(88):       </TD>\n
+Action.c(88):       <TD width="45%" valign="top">\n
+Action.c(88):           <b>&nbsp;&nbsp;3 Coach class tickets for :</b><br/>\n
+Action.c(88):           <center><table border="0" width="85%"><tr><td>\n
+Action.c(88):           <li><i>DracoMalfoy      <li><i>DracoMalfoy      <li><i>DracoMalfoy\n
+Action.c(88):           <li><i></i>\n
+Action.c(88):           </td></tr></table></center>\n
+Action.c(88):       </TD>\n
+Action.c(88):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+Action.c(88):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+Action.c(88):           <center>\n
+Action.c(88):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+Action.c(88):               Draco Malfoy\n
+Action.c(88):     <br/>\n
+Action.c(88):               Wiltshire<br/>\n
+Action.c(88):               Great Britain<br/>\n
+Action.c(88):               <br/>\n
+Action.c(88):               Total Charge: $ 3849 <BR/> (CC: x-1234)\n
+Action.c(88):           </td> </tr> </table>\n
+Action.c(88):           </center>\n
+Action.c(88):       </TD>\n
+Action.c(88):     </TR>\n
+Action.c(88):     <TR bgcolor="#EFF2F7">\n
+Action.c(88):       <TD COLSPAN="3">\n
+Action.c(88):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(88):       02/17/2023\n
+Action.c(88):      :  1pm : Flight 281 leaves London  for Sydney.<br>  </center>\n
+Action.c(88):       </TD>\n
+Action.c(88):     </TR>\n
+Action.c(88):     \n
+Action.c(88):     <TR bgcolor="#EFF2F7">\n
+Action.c(88):       <TD COLSPAN="4">\n
+Action.c(88):       <hr/>\n
+Action.c(88):       </TD>\n
+Action.c(88):     </TR>\n
+Action.c(88):     \n
+Action.c(88):     <!-- Flight #1 -->\n
+Action.c(88):     <TR bgcolor="#EFF2F7">\n
+Action.c(88):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+Action.c(88):     <b>\n
+Action.c(88):     <label><input type="checkbox" name="70" value="on" /></label></font></b>\n
+Action.c(88):     <input type="hidden" name="flightID" value="45721895-53888-DM"  />\n
+Action.c(88):       </TD>\n
+Action.c(88):       <TD width="45%" valign="top">\n
+Action.c(88):           <b>&nbsp;&nbsp;3 Business class tickets for :</b><br/>\n
+Action.c(88):           <center><table border="0" width="85%"><tr><td>\n
+Action.c(88):           <li><i>DracoMalfoy      <li><i>DracoMalfoy      <li><i>DracoMalfoy\n
+Action.c(88):           <li><i></i>\n
+Action.c(88):           </td></tr></table></center>\n
+Action.c(88):       </TD>\n
+Action.c(88):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+Action.c(88):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+Action.c(88):           <center>\n
+Action.c(88):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+Action.c(88):               Draco Malfoy\n
+Action.c(88):     <br/>\n
+Action.c(88):               Wiltshire<br/>\n
+Action.c(88):               Great Britain<br/>\n
+Action.c(88):               <br/>\n
+Action.c(88):               Total Charge: $ 552 <BR/> (CC: x-1234)\n
+Action.c(88):           </td> </tr> </table>\n
+Action.c(88):           </center>\n
+Action.c(88):       </TD>\n
+Action.c(88):     </TR>\n
+Action.c(88):     <TR bgcolor="#EFF2F7">\n
+Action.c(88):       <TD COLSPAN="3">\n
+Action.c(88):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(88):       02/17/2023\n
+Action.c(88):      :  1pm : Flight 491 leaves Paris  for Zurich.<br>  </center>\n
+Action.c(88):       </TD>\n
+Action.c(88):     </TR>\n
+Action.c(88):     \n
+Action.c(88):     <TR bgcolor="#EFF2F7">\n
+Action.c(88):       <TD COLSPAN="4">\n
+Action.c(88):       <hr/>\n
+Action.c(88):       </TD>\n
+Action.c(88):     </TR>\n
+Action.c(88):     \n
+Action.c(88):     <!-- Flight #1 -->\n
+Action.c(88):     <TR bgcolor="#EFF2F7">\n
+Action.c(88):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+Action.c(88):     <b>\n
+Action.c(88):     <label><input type="checkbox" name="71" value="on" /></label></font></b>\n
+Action.c(88):     <input type="hidden" name="flightID" value="45720437-546338-DM"  />\n
+Action.c(88):       </TD>\n
+Action.c(88):       <TD width="45%" valign="top">\n
+Action.c(88):           <b>&nbsp;&nbsp;3 Business class tickets for :</b><br/>\n
+Action.c(88):           <center><table border="0" width="85%"><tr><td>\n
+Action.c(88):           <li><i>DracoMalfoy      <li><i>DracoMalfoy      <li><i>DracoMalfoy\n
+Action.c(88):           <li><i></i>\n
+Action.c(88):           </td></tr></table></center>\n
+Action.c(88):       </TD>\n
+Action.c(88):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+Action.c(88):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+Action.c(88):           <center>\n
+Action.c(88):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+Action.c(88):               Draco Malfoy\n
+Action.c(88):     <br/>\n
+Action.c(88):               Wiltshire<br/>\n
+Action.c(88):               Great Britain<br/>\n
+Action.c(88):               <br/>\n
+Action.c(88):               Total Charge: $ 2406 <BR/> (CC: x-1234)\n
+Action.c(88):           </td> </tr> </table>\n
+Action.c(88):           </center>\n
+Action.c(88):       </TD>\n
+Action.c(88):     </TR>\n
+Action.c(88):     <TR bgcolor="#EFF2F7">\n
+Action.c(88):       <TD COLSPAN="3">\n
+Action.c(88):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(88):       02/17/2023\n
+Action.c(88):      :  1pm : Flight 451 leaves Paris  for Portland.<br>  </center>\n
+Action.c(88):       </TD>\n
+Action.c(88):     </TR>\n
+Action.c(88):     \n
+Action.c(88):     <TR bgcolor="#EFF2F7">\n
+Action.c(88):       <TD COLSPAN="4">\n
+Action.c(88):       <hr/>\n
+Action.c(88):       </TD>\n
+Action.c(88):     </TR>\n
+Action.c(88):     \n
+Action.c(88):     <!-- Flight #1 -->\n
+Action.c(88):     <TR bgcolor="#EFF2F7">\n
+Action.c(88):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+Action.c(88):     <b>\n
+Action.c(88):     <label><input type="checkbox" name="72" value="on" /></label></font></b>\n
+Action.c(88):     <input type="hidden" name="flightID" value="457241-553-DM"  />\n
+Action.c(88):       </TD>\n
+Action.c(88):       <TD width="45%" valign="top">\n
+Action.c(88):           <b>&nbsp;&nbsp;A Business class ticket for :</b><br/>\n
+Action.c(88):           <center><table border="0" width="85%"><tr><td>\n
+Action.c(88):           <li><i>DracoMalf
+Action.c(88): t=2674106ms: 8-byte chunked response overhead for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1.2, Internal ID=520)
+Action.c(88):     \r\n
+Action.c(88):     1000\r\n
+Action.c(88): t=2674106ms: 2-byte chunked response overhead for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1.2, Internal ID=520)
+Action.c(88):     \r\n
+Action.c(88): t=2674106ms: 4144-byte chunked response body for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1.2, Internal ID=520)
+Action.c(88):     oy\n
+Action.c(88):           <li><i></i>\n
+Action.c(88):           </td></tr></table></center>\n
+Action.c(88):       </TD>\n
+Action.c(88):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+Action.c(88):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+Action.c(88):           <center>\n
+Action.c(88):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+Action.c(88):               Draco Malfoy\n
+Action.c(88):     <br/>\n
+Action.c(88):               Wiltshire<br/>\n
+Action.c(88):               Great Britain<br/>\n
+Action.c(88):               <br/>\n
+Action.c(88):               Total Charge: $ 0 <BR/> (CC: x-1234)\n
+Action.c(88):           </td> </tr> </table>\n
+Action.c(88):           </center>\n
+Action.c(88):       </TD>\n
+Action.c(88):     </TR>\n
+Action.c(88):     <TR bgcolor="#EFF2F7">\n
+Action.c(88):       <TD COLSPAN="3">\n
+Action.c(88):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(88):       02/17/2023\n
+Action.c(88):      :  1pm : Flight 551 leaves Portland  for Portland.<br>  </center>\n
+Action.c(88):       </TD>\n
+Action.c(88):     </TR>\n
+Action.c(88):     \n
+Action.c(88):     <TR bgcolor="#EFF2F7">\n
+Action.c(88):       <TD COLSPAN="4">\n
+Action.c(88):       <hr/>\n
+Action.c(88):       </TD>\n
+Action.c(88):     </TR>\n
+Action.c(88):     \n
+Action.c(88):     <!-- Flight #1 -->\n
+Action.c(88):     <TR bgcolor="#EFF2F7">\n
+Action.c(88):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+Action.c(88):     <b>\n
+Action.c(88):     <label><input type="checkbox" name="73" value="on" /></label></font></b>\n
+Action.c(88):     <input type="hidden" name="flightID" value="45719303-56223-DM"  />\n
+Action.c(88):       </TD>\n
+Action.c(88):       <TD width="45%" valign="top">\n
+Action.c(88):           <b>&nbsp;&nbsp;5 First class tickets for :</b><br/>\n
+Action.c(88):           <center><table border="0" width="85%"><tr><td>\n
+Action.c(88):           <li><i>DracoMalfoy      <li><i>DracoMalfoy      <li><i>DracoMalfoy      <li><i>     
+Action.c(88):      <li><i>\n
+Action.c(88):           <li><i></i>\n
+Action.c(88):           </td></tr></table></center>\n
+Action.c(88):       </TD>\n
+Action.c(88):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+Action.c(88):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+Action.c(88):           <center>\n
+Action.c(88):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+Action.c(88):               Draco Malfoy\n
+Action.c(88):     <br/>\n
+Action.c(88):               Wiltshire<br/>\n
+Action.c(88):               Great Britain<br/>\n
+Action.c(88):               <br/>\n
+Action.c(88):               Total Charge: $ 905 <BR/> (CC: x-1234)\n
+Action.c(88):           </td> </tr> </table>\n
+Action.c(88):           </center>\n
+Action.c(88):       </TD>\n
+Action.c(88):     </TR>\n
+Action.c(88):     <TR bgcolor="#EFF2F7">\n
+Action.c(88):       <TD COLSPAN="3">\n
+Action.c(88):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(88):       02/17/2023\n
+Action.c(88):      :  1pm : Flight 421 leaves Paris  for London.<br>  </center>\n
+Action.c(88):       </TD>\n
+Action.c(88):     </TR>\n
+Action.c(88):     \n
+Action.c(88):     <TR bgcolor="#EFF2F7">\n
+Action.c(88):       <TD COLSPAN="4">\n
+Action.c(88):       <hr/>\n
+Action.c(88):       </TD>\n
+Action.c(88):     </TR>\n
+Action.c(88):     \n
+Action.c(88):     <!-- Flight #1 -->\n
+Action.c(88):     <TR bgcolor="#EFF2F7">\n
+Action.c(88):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+Action.c(88):     <b>\n
+Action.c(88):     <label><input type="checkbox" name="74" value="on" /></label></font></b>\n
+Action.c(88):     <input type="hidden" name="flightID" value="45731176-569349-DM"  />\n
+Action.c(88):       </TD>\n
+Action.c(88):       <TD width="45%" valign="top">\n
+Action.c(88):           <b>&nbsp;&nbsp;2 Business class tickets for :</b><br/>\n
+Action.c(88):           <center><table border="0" width="85%"><tr><td>\n
+Action.c(88):           <li><i>DracoMalfoy      <li><i>DracoMalfoy\n
+Action.c(88):           <li><i></i>\n
+Action.c(88):           </td></tr></table></center>\n
+Action.c(88):       </TD>\n
+Action.c(88):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+Action.c(88):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+Action.c(88):           <center>\n
+Action.c(88):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+Action.c(88):               Draco Malfoy\n
+Action.c(88):     <br/>\n
+Action.c(88):               Wiltshire<br/>\n
+Action.c(88):               Great Britain<br/>\n
+Action.c(88):               <br/>\n
+Action.c(88):               Total Charge: $ 1546 <BR/> (CC: x-1234)\n
+Action.c(88):           </td> </tr> </table>\n
+Action.c(88):           </center>\n
+Action.c(88):       </TD>\n
+Action.c(88):     </TR>\n
+Action.c(88):     <TR bgcolor="#EFF2F7">\n
+Action.c(88):       <TD COLSPAN="3">\n
+Action.c(88):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(88):       02/17/2023\n
+Action.c(88):      :  1pm : Flight 741 leaves Seattle  for Paris.<br>  </center>\n
+Action.c(88):       </TD>\n
+Action.c(88):     </TR>\n
+Action.c(88):     \n
+Action.c(88):     <TR bgcolor="#EFF2F7">\n
+Action.c(88):       <TD COLSPAN="4">\n
+Action.c(88):       <hr/>\n
+Action.c(88):       </TD>\n
+Action.c(88):     </TR>\n
+Action.c(88):     \n
+Action.c(88):     <!-- Flight #1 -->\n
+Action.c(88):     <TR bgcolor="#EFF2F7">\n
+Action.c(88):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+Action.c(88):     <b>\n
+Action.c(88):     <label><input type="checkbox" name="75" value="on" /></label></font></b>\n
+Action.c(88):     <input type="hidden" name="flightID" value="457215232-577216-DM"  />\n
+Action.c(88):       </TD>\n
+Action.c(88):       <TD width="45%" valign="top">\n
+Action.c(88):           <b>&nbsp;&nbsp;3 Coach class tickets for :</b><br/>\n
+Action.c(88):           <center><table border="0" width="85%"><tr><td>\n
+Action.c(88):           <li><i>DracoMalfoy      <li><i>DracoMalfoy      <li><i>DracoMalfoy\n
+Action.c(88):           <li><i></i>\n
+Action.c(88):           </td></tr></table></center>\n
+Action.c(88):       </TD>\n
+Action.c(88):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+Action.c(88):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+Action.c(88):           <center>\n
+Action.c(88):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+Action.c(88):               Draco Malfoy\n
+Action.c(88):     <br/>\n
+Action.c(88):               Wiltshire<br/>\n
+Action.c(88):               Great Britain<br/>\n
+Action.c(88):               <br/>\n
+Action.c(88):               Total Charge: $ 3819 <BR/> (CC: x-1234)\n
+Action.c(88):           </td> </tr> </table>\n
+Action.c(88):           </center>\n
+Action.c(88):       </TD>\n
+Action.c(88):     </TR>\n
+Action.c(88):     <TR bgcolor="#EFF2F7">\n
+Action.c(88):       <TD COLSPAN="3">\n
+Action.c(88):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(88):       02/17/2023\n
+Action.c(88):      :  1pm : Flight 481 leaves Paris  for Sydney.<br>  </center>\n
+Action.c(88):       </TD>\n
+Action.c(88):     </TR>\n
+Action.c(88):     \n
+Action.c(88):     <TR bgcolor="#EFF2F7">\n
+Action.c(88):       <TD COLSPAN="4">\n
+Action.c(88):       <hr/>\n
+Action.c(88):       </TD>\n
+Action.c(88):     </TR>\n
+Action.c(88):     \n
+Action.c(88):     <!-- Flight #1 -->\n
+Action.c(88):     <TR bgcolor="#EFF2F7">\n
+Action.c(88):       <
+Action.c(88): t=2674107ms: 6-byte chunked response overhead for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1.2, Internal ID=520)
+Action.c(88):     1000\r\n
+Action.c(88): t=2674107ms: 2-byte chunked response overhead for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1.2, Internal ID=520)
+Action.c(88):     \r\n
+Action.c(88): t=2674107ms: 4096-byte chunked response body for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1.2, Internal ID=520)
+Action.c(88):     TD width="5%" rowspan="2" align="left" valign="top">\n
+Action.c(88):     <b>\n
+Action.c(88):     <label><input type="checkbox" name="76" value="on" /></label></font></b>\n
+Action.c(88):     <input type="hidden" name="flightID" value="45707087-58519-DM"  />\n
+Action.c(88):       </TD>\n
+Action.c(88):       <TD width="45%" valign="top">\n
+Action.c(88):           <b>&nbsp;&nbsp;2 Coach class tickets for :</b><br/>\n
+Action.c(88):           <center><table border="0" width="85%"><tr><td>\n
+Action.c(88):           <li><i>DracoMalfoy      <li><i>DracoMalfoy\n
+Action.c(88):           <li><i></i>\n
+Action.c(88):           </td></tr></table></center>\n
+Action.c(88):       </TD>\n
+Action.c(88):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+Action.c(88):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+Action.c(88):           <center>\n
+Action.c(88):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+Action.c(88):               Draco Malfoy\n
+Action.c(88):     <br/>\n
+Action.c(88):               Wiltshire<br/>\n
+Action.c(88):               Great Britain<br/>\n
+Action.c(88):               <br/>\n
+Action.c(88):               Total Charge: $ 750 <BR/> (CC: x-1234)\n
+Action.c(88):           </td> </tr> </table>\n
+Action.c(88):           </center>\n
+Action.c(88):       </TD>\n
+Action.c(88):     </TR>\n
+Action.c(88):     <TR bgcolor="#EFF2F7">\n
+Action.c(88):       <TD COLSPAN="3">\n
+Action.c(88):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(88):       02/17/2023\n
+Action.c(88):      :  1pm : Flight 091 leaves Denver  for Zurich.<br>  </center>\n
+Action.c(88):       </TD>\n
+Action.c(88):     </TR>\n
+Action.c(88):     \n
+Action.c(88):     <TR bgcolor="#EFF2F7">\n
+Action.c(88):       <TD COLSPAN="4">\n
+Action.c(88):       <hr/>\n
+Action.c(88):       </TD>\n
+Action.c(88):     </TR>\n
+Action.c(88):     \n
+Action.c(88):     <!-- Flight #1 -->\n
+Action.c(88):     <TR bgcolor="#EFF2F7">\n
+Action.c(88):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+Action.c(88):     <b>\n
+Action.c(88):     <label><input type="checkbox" name="77" value="on" /></label></font></b>\n
+Action.c(88):     <input type="hidden" name="flightID" value="457237445-592467-DM"  />\n
+Action.c(88):       </TD>\n
+Action.c(88):       <TD width="45%" valign="top">\n
+Action.c(88):           <b>&nbsp;&nbsp;2 First class tickets for :</b><br/>\n
+Action.c(88):           <center><table border="0" width="85%"><tr><td>\n
+Action.c(88):           <li><i>DracoMalfoy      <li><i>DracoMalfoy\n
+Action.c(88):           <li><i></i>\n
+Action.c(88):           </td></tr></table></center>\n
+Action.c(88):       </TD>\n
+Action.c(88):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+Action.c(88):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+Action.c(88):           <center>\n
+Action.c(88):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+Action.c(88):               Draco Malfoy\n
+Action.c(88):     <br/>\n
+Action.c(88):               Wiltshire<br/>\n
+Action.c(88):               Great Britain<br/>\n
+Action.c(88):               <br/>\n
+Action.c(88):               Total Charge: $ 2076 <BR/> (CC: x-1234)\n
+Action.c(88):           </td> </tr> </table>\n
+Action.c(88):           </center>\n
+Action.c(88):       </TD>\n
+Action.c(88):     </TR>\n
+Action.c(88):     <TR bgcolor="#EFF2F7">\n
+Action.c(88):       <TD COLSPAN="3">\n
+Action.c(88):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(88):       02/17/2023\n
+Action.c(88):      :  1pm : Flight 541 leaves Portland  for Paris.<br>  </center>\n
+Action.c(88):       </TD>\n
+Action.c(88):     </TR>\n
+Action.c(88):     \n
+Action.c(88):     <TR bgcolor="#EFF2F7">\n
+Action.c(88):       <TD COLSPAN="4">\n
+Action.c(88):       <hr/>\n
+Action.c(88):       </TD>\n
+Action.c(88):     </TR>\n
+Action.c(88):     \n
+Action.c(88):     <!-- Flight #1 -->\n
+Action.c(88):     <TR bgcolor="#EFF2F7">\n
+Action.c(88):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+Action.c(88):     <b>\n
+Action.c(88):     <label><input type="checkbox" name="78" value="on" /></label></font></b>\n
+Action.c(88):     <input type="hidden" name="flightID" value="45728950-600151-DM"  />\n
+Action.c(88):       </TD>\n
+Action.c(88):       <TD width="45%" valign="top">\n
+Action.c(88):           <b>&nbsp;&nbsp;3 Coach class tickets for :</b><br/>\n
+Action.c(88):           <center><table border="0" width="85%"><tr><td>\n
+Action.c(88):           <li><i>DracoMalfoy      <li><i>DracoMalfoy      <li><i>DracoMalfoy\n
+Action.c(88):           <li><i></i>\n
+Action.c(88):           </td></tr></table></center>\n
+Action.c(88):       </TD>\n
+Action.c(88):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+Action.c(88):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+Action.c(88):           <center>\n
+Action.c(88):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+Action.c(88):               Draco Malfoy\n
+Action.c(88):     <br/>\n
+Action.c(88):               Wiltshire<br/>\n
+Action.c(88):               Great Britain<br/>\n
+Action.c(88):               <br/>\n
+Action.c(88):               Total Charge: $ 1965 <BR/> (CC: x-1234)\n
+Action.c(88):           </td> </tr> </table>\n
+Action.c(88):           </center>\n
+Action.c(88):       </TD>\n
+Action.c(88):     </TR>\n
+Action.c(88):     <TR bgcolor="#EFF2F7">\n
+Action.c(88):       <TD COLSPAN="3">\n
+Action.c(88):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(88):       02/17/2023\n
+Action.c(88):      :  1pm : Flight 681 leaves San Francisco  for Sydney.<br>  </center>\n
+Action.c(88):       </TD>\n
+Action.c(88):     </TR>\n
+Action.c(88):     \n
+Action.c(88):     <TR bgcolor="#EFF2F7">\n
+Action.c(88):       <TD COLSPAN="4">\n
+Action.c(88):       <hr/>\n
+Action.c(88):       </TD>\n
+Action.c(88):     </TR>\n
+Action.c(88):     \n
+Action.c(88):     <!-- Flight #1 -->\n
+Action.c(88):     <TR bgcolor="#EFF2F7">\n
+Action.c(88):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+Action.c(88):     <b>\n
+Action.c(88):     <label><input type="checkbox" name="79" value="on" /></label></font></b>\n
+Action.c(88):     <input type="hidden" name="flightID" value="45738196-607787-DM"  />\n
+Action.c(88):       </TD>\n
+Action.c(88):       <TD width="45%" valign="top">\n
+Action.c(88):           <b>&nbsp;&nbsp;4 Coach class tickets for :</b><br/>\n
+Action.c(88):           <center><table border="0" width="85%"><tr><td>\n
+Action.c(88):           <li><i>DracoMalfoy      <li><i>DracoMalfoy      <li><i>DracoMalfoy      <li><i>\n
+Action.c(88):           <li><i></i>\n
+Action.c(88):           </td></tr></table></center>\n
+Action.c(88):       </TD>\n
+Action.c(88):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+Action.c(88):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+Action.c(88):           <center>\n
+Action.c(88):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+Action.c(88):               Draco Malfoy\n
+Action.c(88):     <br/>\n
+Action.c(88):               Wiltshire<br/>
+Action.c(88): t=2674112ms: 6-byte chunked response overhead for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1.2, Internal ID=520)
+Action.c(88):     1000\r\n
+Action.c(88): t=2674112ms: 7-byte chunked response overhead for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1.2, Internal ID=520)
+Action.c(88):     \r\n
+Action.c(88):     d28\r\n
+Action.c(88): t=2674112ms: 2-byte chunked response overhead for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1.2, Internal ID=520)
+Action.c(88):     \r\n
+Action.c(88): t=2674112ms: 7464-byte chunked response body for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1.2, Internal ID=520)
+Action.c(88):     \n
+Action.c(88):               Great Britain<br/>\n
+Action.c(88):               <br/>\n
+Action.c(88):               Total Charge: $ 1232 <BR/> (CC: x-1234)\n
+Action.c(88):           </td> </tr> </table>\n
+Action.c(88):           </center>\n
+Action.c(88):       </TD>\n
+Action.c(88):     </TR>\n
+Action.c(88):     <TR bgcolor="#EFF2F7">\n
+Action.c(88):       <TD COLSPAN="3">\n
+Action.c(88):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(88):       02/17/2023\n
+Action.c(88):      :  1pm : Flight 931 leaves Zurich  for Los Angeles.<br>  </center>\n
+Action.c(88):       </TD>\n
+Action.c(88):     </TR>\n
+Action.c(88):     \n
+Action.c(88):     <TR bgcolor="#EFF2F7">\n
+Action.c(88):       <TD COLSPAN="4">\n
+Action.c(88):       <hr/>\n
+Action.c(88):       </TD>\n
+Action.c(88):     </TR>\n
+Action.c(88):     \n
+Action.c(88):     <!-- Flight #1 -->\n
+Action.c(88):     <TR bgcolor="#EFF2F7">\n
+Action.c(88):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+Action.c(88):     <b>\n
+Action.c(88):     <label><input type="checkbox" name="80" value="on" /></label></font></b>\n
+Action.c(88):     <input type="hidden" name="flightID" value="457348586-615668-DM"  />\n
+Action.c(88):       </TD>\n
+Action.c(88):       <TD width="45%" valign="top">\n
+Action.c(88):           <b>&nbsp;&nbsp;2 Business class tickets for :</b><br/>\n
+Action.c(88):           <center><table border="0" width="85%"><tr><td>\n
+Action.c(88):           <li><i>DracoMalfoy      <li><i>DracoMalfoy\n
+Action.c(88):           <li><i></i>\n
+Action.c(88):           </td></tr></table></center>\n
+Action.c(88):       </TD>\n
+Action.c(88):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+Action.c(88):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+Action.c(88):           <center>\n
+Action.c(88):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+Action.c(88):               Draco Malfoy\n
+Action.c(88):     <br/>\n
+Action.c(88):               Wiltshire<br/>\n
+Action.c(88):               Great Britain<br/>\n
+Action.c(88):               <br/>\n
+Action.c(88):               Total Charge: $ 3690 <BR/> (CC: x-1234)\n
+Action.c(88):           </td> </tr> </table>\n
+Action.c(88):           </center>\n
+Action.c(88):       </TD>\n
+Action.c(88):     </TR>\n
+Action.c(88):     <TR bgcolor="#EFF2F7">\n
+Action.c(88):       <TD COLSPAN="3">\n
+Action.c(88):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(88):       02/17/2023\n
+Action.c(88):      :  1pm : Flight 841 leaves Sydney  for Paris.<br>  </center>\n
+Action.c(88):       </TD>\n
+Action.c(88):     </TR>\n
+Action.c(88):     \n
+Action.c(88):     <TR bgcolor="#EFF2F7">\n
+Action.c(88):       <TD COLSPAN="4">\n
+Action.c(88):       <hr/>\n
+Action.c(88):       </TD>\n
+Action.c(88):     </TR>\n
+Action.c(88):     \n
+Action.c(88):     <!-- Flight #1 -->\n
+Action.c(88):     <TR bgcolor="#EFF2F7">\n
+Action.c(88):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+Action.c(88):     <b>\n
+Action.c(88):     <label><input type="checkbox" name="81" value="on" /></label></font></b>\n
+Action.c(88):     <input type="hidden" name="flightID" value="45705972-623157-DM"  />\n
+Action.c(88):       </TD>\n
+Action.c(88):       <TD width="45%" valign="top">\n
+Action.c(88):           <b>&nbsp;&nbsp;4 Business class tickets for :</b><br/>\n
+Action.c(88):           <center><table border="0" width="85%"><tr><td>\n
+Action.c(88):           <li><i>DracoMalfoy      <li><i>DracoMalfoy      <li><i>DracoMalfoy      <li><i>\n
+Action.c(88):           <li><i></i>\n
+Action.c(88):           </td></tr></table></center>\n
+Action.c(88):       </TD>\n
+Action.c(88):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+Action.c(88):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+Action.c(88):           <center>\n
+Action.c(88):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+Action.c(88):               Draco Malfoy\n
+Action.c(88):     <br/>\n
+Action.c(88):               Wiltshire<br/>\n
+Action.c(88):               Great Britain<br/>\n
+Action.c(88):               <br/>\n
+Action.c(88):               Total Charge: $ 1044 <BR/> (CC: x-1234)\n
+Action.c(88):           </td> </tr> </table>\n
+Action.c(88):           </center>\n
+Action.c(88):       </TD>\n
+Action.c(88):     </TR>\n
+Action.c(88):     <TR bgcolor="#EFF2F7">\n
+Action.c(88):       <TD COLSPAN="3">\n
+Action.c(88):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(88):       02/17/2023\n
+Action.c(88):      :  1pm : Flight 061 leaves Denver  for San Francisco.<br>  </center>\n
+Action.c(88):       </TD>\n
+Action.c(88):     </TR>\n
+Action.c(88):     \n
+Action.c(88):     <TR bgcolor="#EFF2F7">\n
+Action.c(88):       <TD COLSPAN="4">\n
+Action.c(88):       <hr/>\n
+Action.c(88):       </TD>\n
+Action.c(88):     </TR>\n
+Action.c(88):     <TR>\n
+Action.c(88):        <TD align="center" COLSPAN="4">\n
+Action.c(88):        <b>A total of 81 scheduled flights.</font></b>\n
+Action.c(88):        </TD>\n
+Action.c(88):     </TR>\n
+Action.c(88):     </TABLE>\n
+Action.c(88):     \n
+Action.c(88):     <TABLE WIDTH="87%" BORDER="0" CELLSPACING="0">\n
+Action.c(88):     <TR>\n
+Action.c(88):     <TD align="left" width="50%" >\n
+Action.c(88):     <input type="image" name="removeFlights" src="/WebTours/images/cancelreservation.gif" bord
+Action.c(88):     er="0" /></TD>\n
+Action.c(88):     <TD align="right" width="50%" >\n
+Action.c(88):     <input type="image" name="removeAllFlights" src="/WebTours/images/cancelallreservations.gi
+Action.c(88):     f" border="0" /></TD>\n
+Action.c(88):     </TABLE>\n
+Action.c(88):     \n
+Action.c(88):     <div><input type="hidden" name=".cgifields" value="33"  /><input type="hidden" name=".cgif
+Action.c(88):     ields" value="32"  /><input type="hidden" name=".cgifields" value="63"  /><input type="hid
+Action.c(88):     den" name=".cgifields" value="21"  /><input type="hidden" name=".cgifields" value="71"  />
+Action.c(88):     <input type="hidden" name=".cgifields" value="7"  /><input type="hidden" name=".cgifields"
+Action.c(88):      value="80"  /><input type="hidden" name=".cgifields" value="26"  /><input type="hidden" n
+Action.c(88):     ame=".cgifields" value="18"  /><input type="hidden" name=".cgifields" value="72"  /><input
+Action.c(88):      type="hidden" name=".cgifields" value="16"  /><input type="hidden" name=".cgifields" valu
+Action.c(88):     e="44"  /><input type="hidden" name=".cgifields" value="55"  /><input type="hidden" name="
+Action.c(88):     .cgifields" value="74"  /><input type="hidden" name=".cgifields" value="27"  /><input type
+Action.c(88):     ="hidden" name=".cgifields" value="57"  /><input type="hidden" name=".cgifields" value="61
+Action.c(88):     "  /><input type="hidden" name=".cgifields" value="20"  /><input type="hidden" name=".cgif
+Action.c(88):     ields" value="10"  /><input type="hidden" name=".cgifields" value="31"  /><input type="hid
+Action.c(88):     den" name=".cgifields" value="35"  /><input type="hidden" name=".cgifields" value="11"  />
+Action.c(88):     <input type="hidden" name=".cgifields" value="78"  /><input type="hidden" name=".cgifields
+Action.c(88):     " value="48"  /><input type="hidden" name=".cgifields" value="77"  /><input type="hidden" 
+Action.c(88):     name=".cgifields" value="65"  /><input type="hidden" name=".cgifields" value="29"  /><inpu
+Action.c(88):     t type="hidden" name=".cgifields" value="50"  /><input type="hidden" name=".cgifields" val
+Action.c(88):     ue="39"  /><input type="hidden" name=".cgifields" value="64"  /><input type="hidden" name=
+Action.c(88):     ".cgifields" value="58"  /><input type="hidden" name=".cgifields" value="41"  /><input typ
+Action.c(88):     e="hidden" name=".cgifields" value="12"  /><input type="hidden" name=".cgifields" value="1
+Action.c(88):     5"  /><input type="hidden" name=".cgifields" value="81"  /><input type="hidden" name=".cgi
+Action.c(88):     fields" value="52"  /><input type="hidden" name=".cgifields" value="60"  /><input type="hi
+Action.c(88):     dden" name=".cgifields" value="56"  /><input type="hidden" name=".cgifields" value="73"  /
+Action.c(88):     ><input type="hidden" name=".cgifields" value="66"  /><input type="hidden" name=".cgifield
+Action.c(88):     s" value="45"  /><input type="hidden" name=".cgifields" value="76"  /><input type="hidden"
+Action.c(88):      name=".cgifields" value="19"  /><input type="hidden" name=".cgifields" value="62"  /><inp
+Action.c(88):     ut type="hidden" name=".cgifields" value="54"  /><input type="hidden" name=".cgifields" va
+Action.c(88):     lue="67"  /><input type="hidden" name=".cgifields" value="70"  /><input type="hidden" name
+Action.c(88):     =".cgifields" value="68"  /><input type="hidden" name=".cgifields" value="2"  /><input typ
+Action.c(88):     e="hidden" name=".cgifields" value="17"  /><input type="hidden" name=".cgifields" value="1
+Action.c(88):     "  /><input type="hidden" name=".cgifields" value="30"  /><input type="hidden" name=".cgif
+Action.c(88):     ields" value="25"  /><input type="hidden" name=".cgifields" value="28"  /><input type="hid
+Action.c(88):     den" name=".cgifields" value="75"  /><input type="hidden" name=".cgifields" value="40"  />
+Action.c(88):     <input type="hidden" name=".cgifields" value="14"  /><input type="hidden" name=".cgifields
+Action.c(88):     " value="69"  /><input type="hidden" name=".cgifields" value="59"  /><input type="hidden" 
+Action.c(88):     name=".cgifields" value="49"  /><input type="hidden" name=".cgifields" value="24"  /><inpu
+Action.c(88):     t type="hidden" name=".cgifields" value="53"  /><input type="hidden" name=".cgifields" val
+Action.c(88):     ue="79"  /><input type="hidden" name=".cgifields" value="22"  /><input type="hidden" name=
+Action.c(88):     ".cgifields" value="42"  /><input type="hidden" name=".cgifields" value="46"  /><input typ
+Action.c(88):     e="hidden" name=".cgifields" value="23"  /><input type="hidden" name=".cgifields" value="1
+Action.c(88):     3"  /><input type="hidden" name=".cgifields" value="6"  /><input type="hidden" name=".cgif
+Action.c(88):     ields" value="3"  /><input type="hidden" name=".cgifields" value="36"  /><input type="hidd
+Action.c(88):     en" name=".cgifields" value="9"  /><input type="hidden" name=".cgifields" value="51"  /><i
+Action.c(88):     nput type="hidden" name=".cgifields" value="47"  /><input type="hidden" name=".cgifields" 
+Action.c(88):     value="8"  /><input type="hidden" name=".cgifields" value="38"  /><input type="hidden" nam
+Action.c(88):     e=".cgifields" value="4"  /><input type="hidden" name=".cgifields" value="34"  /><input ty
+Action.c(88):     pe="hidden" name=".cgifields" value="37"  /><input type="hidden" name=".cgifields" value="
+Action.c(88):     43"  /><input type="hidden" name=".cgifields" value="5"  /></div></form>\n
+Action.c(88):     \n
+Action.c(88):     </center>\n
+Action.c(88):     \n
+Action.c(88):     </body>\n
+Action.c(88):     </html>
+Action.c(88): Found resource "http://localhost:1080/WebTours/images/cancelreservation.gif" in HTML "http://localhost:1080/cgi-bin/itinerary.pl"  	[MsgId: MMSG-26659]
+Action.c(88): Found resource "http://localhost:1080/WebTours/images/cancelallreservations.gif" in HTML "http://localhost:1080/cgi-bin/itinerary.pl"  	[MsgId: MMSG-26659]
+Action.c(88): t=2674115ms: Already connected [0] to localhost:1080  	[MsgId: MMSG-26000]
+Action.c(88): t=2674115ms: 782-byte request headers for "http://localhost:1080/WebTours/images/cancelreservation.gif" (RelFrameId=, Internal ID=523)
+Action.c(88):     GET /WebTours/images/cancelreservation.gif HTTP/1.1\r\n
+Action.c(88):     Referer: http://localhost:1080/cgi-bin/itinerary.pl\r\n
+Action.c(88):     Sec-Fetch-Dest: frame\r\n
+Action.c(88):     Sec-Fetch-Mode: navigate\r\n
+Action.c(88):     Sec-Fetch-Site: same-origin\r\n
+Action.c(88):     Upgrade-Insecure-Requests: 1\r\n
+Action.c(88):     sec-ch-ua: "Not?A_Brand";v="8", "Chromium";v="108", "Google Chrome";v="108"\r\n
+Action.c(88):     sec-ch-ua-mobile: ?0\r\n
+Action.c(88):     sec-ch-ua-platform: "Windows"\r\n
+Action.c(88):     User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck
+Action.c(88):     o) Chrome/108.0.0.0 Safari/537.36\r\n
+Action.c(88):     Accept-Encoding: gzip, deflate\r\n
+Action.c(88):     Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7\r\n
+Action.c(88):     Accept: */*\r\n
+Action.c(88):     Connection: Keep-Alive\r\n
+Action.c(88):     Host: localhost:1080\r\n
+Action.c(88):     Cookie: MSO=SID&1676474503; MTUserInfo=firstName&Draco&address2&Great%20Britain&username&d
+Action.c(88):     raco&hash&15&lastName&Malfoy%0A&address1&Wiltshire&creditCard&&expDate&%0A\r\n
+Action.c(88):     \r\n
+Action.c(88): t=2674115ms: Already connected [1] to localhost:1080  	[MsgId: MMSG-26000]
+Action.c(88): t=2674115ms: 786-byte request headers for "http://localhost:1080/WebTours/images/cancelallreservations.gif" (RelFrameId=, Internal ID=524)
+Action.c(88):     GET /WebTours/images/cancelallreservations.gif HTTP/1.1\r\n
+Action.c(88):     Referer: http://localhost:1080/cgi-bin/itinerary.pl\r\n
+Action.c(88):     Sec-Fetch-Dest: frame\r\n
+Action.c(88):     Sec-Fetch-Mode: navigate\r\n
+Action.c(88):     Sec-Fetch-Site: same-origin\r\n
+Action.c(88):     Upgrade-Insecure-Requests: 1\r\n
+Action.c(88):     sec-ch-ua: "Not?A_Brand";v="8", "Chromium";v="108", "Google Chrome";v="108"\r\n
+Action.c(88):     sec-ch-ua-mobile: ?0\r\n
+Action.c(88):     sec-ch-ua-platform: "Windows"\r\n
+Action.c(88):     User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck
+Action.c(88):     o) Chrome/108.0.0.0 Safari/537.36\r\n
+Action.c(88):     Accept-Encoding: gzip, deflate\r\n
+Action.c(88):     Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7\r\n
+Action.c(88):     Accept: */*\r\n
+Action.c(88):     Connection: Keep-Alive\r\n
+Action.c(88):     Host: localhost:1080\r\n
+Action.c(88):     Cookie: MSO=SID&1676474503; MTUserInfo=firstName&Draco&address2&Great%20Britain&username&d
+Action.c(88):     raco&hash&15&lastName&Malfoy%0A&address1&Wiltshire&creditCard&&expDate&%0A\r\n
+Action.c(88):     \r\n
+Action.c(88): t=2674115ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1.2, Internal ID=520)
+Action.c(88):     0\r\n
+Action.c(88):     \r\n
+Action.c(88): t=2674116ms: Request done "http://localhost:1080/cgi-bin/itinerary.pl"  	[MsgId: MMSG-26000]
+Action.c(88): t=2674116ms: 298-byte response headers for "http://localhost:1080/WebTours/images/cancelreservation.gif" (RelFrameId=, Internal ID=523)
+Action.c(88):     HTTP/1.1 200 OK\r\n
+Action.c(88):     Date: Wed, 15 Feb 2023 15:21:54 GMT\r\n
+Action.c(88):     Server: Apache/2.2.21 (Win32)\r\n
+Action.c(88):     Last-Modified: Thu, 12 Jan 2012 13:30:28 GMT\r\n
+Action.c(88):     ETag: "5d00000000cbde-33f-4b654c0620500"\r\n
+Action.c(88):     Accept-Ranges: bytes\r\n
+Action.c(88):     Content-Length: 831\r\n
+Action.c(88):     Keep-Alive: timeout=5, max=98\r\n
+Action.c(88):     Connection: Keep-Alive\r\n
+Action.c(88):     Content-Type: image/gif\r\n
+Action.c(88):     \r\n
+Action.c(88): t=2674116ms: 831-byte response body for "http://localhost:1080/WebTours/images/cancelreservation.gif" (RelFrameId=, Internal ID=523)
+Action.c(88): t=2674117ms: Request done "http://localhost:1080/WebTours/images/cancelreservation.gif"  	[MsgId: MMSG-26000]
+Action.c(88): t=2674123ms: 298-byte response headers for "http://localhost:1080/WebTours/images/cancelallreservations.gif" (RelFrameId=, Internal ID=524)
+Action.c(88):     HTTP/1.1 200 OK\r\n
+Action.c(88):     Date: Wed, 15 Feb 2023 15:21:54 GMT\r\n
+Action.c(88):     Server: Apache/2.2.21 (Win32)\r\n
+Action.c(88):     Last-Modified: Thu, 12 Jan 2012 13:30:28 GMT\r\n
+Action.c(88):     ETag: "4a00000000cbdb-2e6-4b654c0620500"\r\n
+Action.c(88):     Accept-Ranges: bytes\r\n
+Action.c(88):     Content-Length: 742\r\n
+Action.c(88):     Keep-Alive: timeout=5, max=99\r\n
+Action.c(88):     Connection: Keep-Alive\r\n
+Action.c(88):     Content-Type: image/gif\r\n
+Action.c(88):     \r\n
+Action.c(88): t=2674123ms: 742-byte response body for "http://localhost:1080/WebTours/images/cancelallreservations.gif" (RelFrameId=, Internal ID=524)
+Action.c(88): t=2674123ms: Request done "http://localhost:1080/WebTours/images/cancelallreservations.gif"  	[MsgId: MMSG-26000]
+Action.c(88): Registered web_reg_find successful for "Text=Invoice sent to:" (count=81)  	[MsgId: MMSG-26364]
+Action.c(88): web_image("Itinerary Button") was successful, 102519 body bytes, 1921 header bytes, 219 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(93): Notify: Transaction "itinerary" ended with a "Pass" status (Duration: 5,2207 Think Time: 5,0142 Wasted Time: 0,0009).	[MsgId: MMSG-16870]
+Action.c(95): Notify: Transaction "removal" started.	[MsgId: MMSG-16999]
+Action.c(98): web_add_header("Origin") started  	[MsgId: MMSG-26355]
+Action.c(98): An unrecognized header ("Origin") is being added  	[MsgId: MMSG-26595]
+Action.c(98): "Origin: http://localhost:1080" header registered for adding to requests from the immediately following Action function  	[MsgId: MMSG-26506]
+Action.c(98): web_add_header("Origin") was successful  	[MsgId: MMSG-26392]
+Action.c(101): web_add_auto_header("Sec-Fetch-User") started  	[MsgId: MMSG-26355]
+Action.c(101): An unrecognized header ("Sec-Fetch-User") is being added  	[MsgId: MMSG-26595]
+Action.c(101): "Sec-Fetch-User: ?1" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(101): web_add_auto_header("Sec-Fetch-User") was successful  	[MsgId: MMSG-26392]
+Action.c(104): Think time - Waiting 5,00 seconds (according to limit).	[MsgId: MMSG-15946]
+Action.c(104): lr_think_time: 5,00 seconds (recorded think time was 62,00 seconds).	[MsgId: MMSG-15947]
+Action.c(106): web_reg_find started  	[MsgId: MMSG-26355]
+Action.c(106): Notify: Parameter Substitution: parameter "flightID" =  "45704936-792-DM"	[MsgId: MMSG-13992]
+Action.c(106): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(110): web_submit_form("itinerary.pl") started  	[MsgId: MMSG-26355]
+Action.c(110): Submitting form to "http://localhost:1080/cgi-bin/itinerary.pl", Target Frame=""  	[MsgId: MMSG-27978]
+Action.c(110): t=2679129ms: Closed connection [0] to localhost:1080 after completing 3 request(s)  	[MsgId: MMSG-26000]
+Action.c(110): t=2679129ms: Connecting [0] to host 127.0.0.1:1080  	[MsgId: MMSG-26000]
+Action.c(110): t=2679130ms: Connected socket [0] from 127.0.0.1:4459 to 127.0.0.1:1080 in 1 ms  	[MsgId: MMSG-26000]
+Action.c(110): t=2679130ms: 888-byte request headers for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1, Internal ID=525)
+Action.c(110):     POST /cgi-bin/itinerary.pl HTTP/1.1\r\n
+Action.c(110):     Content-Type: application/x-www-form-urlencoded\r\n
+Action.c(110):     Referer: http://localhost:1080/cgi-bin/itinerary.pl\r\n
+Action.c(110):     Origin: http://localhost:1080\r\n
+Action.c(110):     Sec-Fetch-Dest: frame\r\n
+Action.c(110):     Sec-Fetch-Mode: navigate\r\n
+Action.c(110):     Sec-Fetch-Site: same-origin\r\n
+Action.c(110):     Upgrade-Insecure-Requests: 1\r\n
+Action.c(110):     sec-ch-ua: "Not?A_Brand";v="8", "Chromium";v="108", "Google Chrome";v="108"\r\n
+Action.c(110):     sec-ch-ua-mobile: ?0\r\n
+Action.c(110):     sec-ch-ua-platform: "Windows"\r\n
+Action.c(110):     Sec-Fetch-User: ?1\r\n
+Action.c(110):     User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck
+Action.c(110):     o) Chrome/108.0.0.0 Safari/537.36\r\n
+Action.c(110):     Accept-Encoding: gzip, deflate\r\n
+Action.c(110):     Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7\r\n
+Action.c(110):     Accept: */*\r\n
+Action.c(110):     Connection: Keep-Alive\r\n
+Action.c(110):     Host: localhost:1080\r\n
+Action.c(110):     Cookie: MSO=SID&1676474503; MTUserInfo=firstName&Draco&address2&Great%20Britain&username&d
+Action.c(110):     raco&hash&15&lastName&Malfoy%0A&address1&Wiltshire&creditCard&&expDate&%0A\r\n
+Action.c(110):     Content-Length: 3352\r\n
+Action.c(110):     \r\n
+Action.c(110): t=2679130ms: 3352-byte request body for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1, Internal ID=525)
+Action.c(110):     1=on&flightID=45704936-792-DM&flightID=45710140-15625-DM&flightID=457038-23-DM&flightID=45
+Action.c(110):     725331-30989-DM&flightID=45710126-38621-DM&flightID=45736810-46356-DM&flightID=45715309-54
+Action.c(110):     38-DM&flightID=45711237-61631-DM&flightID=45706043-6961-DM&flightID=45728634-7702-DM&fligh
+Action.c(110):     tID=45726731-84790-DM&flightID=45709316-92472-DM&flightID=457337447-100083-DM&flightID=457
+Action.c(110):     289304-108070-DM&flightID=457363-115-DM&flightID=45723379-12346-DM&flightID=45727474-13138
+Action.c(110):     -DM&flightID=457067086-138563-DM&flightID=45733396-146425-DM&flightID=45714863-153946-DM&f
+Action.c(110):     lightID=45729757-16188-DM&flightID=45731240-16998-DM&flightID=45729386-17760-DM&flightID=4
+Action.c(110):     5733099-18514-DM&flightID=45719765-192463-DM&flightID=45714940-200148-DM&flightID=45723105
+Action.c(110):     -208020-DM&flightID=457364-215-DM&flightID=457404-223-DM&flightID=45723455-230862-DM&fligh
+Action.c(110):     tID=45728523-23855-DM&flightID=45719660-246406-DM&flightID=45738913-253949-DM&flightID=457
+Action.c(110):     11495-26183-DM&flightID=45719653-269426-DM&flightID=4572483-27716-DM&flightID=457251907-28
+Action.c(110):     4731-DM&flightID=45731857-29243-DM&flightID=45709659-300186-DM&flightID=45730035-30842-DM&
+Action.c(110):     flightID=45725936-31561-DM&flightID=45727781-32324-DM&flightID=45733396-33131-DM&flightID=
+Action.c(110):     457141158-338856-DM&flightID=457159-346-DM&flightID=45716715-353973-DM&flightID=45737820-3
+Action.c(110):     6204-DM&flightID=457122640-369330-DM&flightID=45722268-377017-DM&flightID=45708193-384706-
+Action.c(110):     DM&flightID=45729308-39256-DM&flightID=457200-400-DM&flightID=457037-407-DM&flightID=45717
+Action.c(110):     416-41557-DM&flightID=457159-423-DM&flightID=45715584-431007-DM&flightID=45715197-43871-DM
+Action.c(110):     &flightID=45737790-446261-DM&flightID=457403-453-DM&flightID=45710751-46198-DM&flightID=45
+Action.c(110):     723343-46989-DM&flightID=45713734-47755-DM&flightID=45725248-484725-DM&flightID=45731522-4
+Action.c(110):     9272-DM&flightID=45725607-500094-DM&flightID=45708197-507771-DM&flightID=45737820-51551-DM
+Action.c(110):     &flightID=457337465-523682-DM&flightID=457141158-531065-DM&flightID=45721895-53888-DM&flig
+Action.c(110):     htID=45720437-546338-DM&flightID=457241-553-DM&flightID=45719303-56223-DM&flightID=4573117
+Action.c(110):     6-569349-DM&flightID=457215232-577216-DM&flightID=45707087-58519-DM&flightID=457237445-592
+Action.c(110):     467-DM&flightID=45728950-600151-DM&flightID=45738196-607787-DM&flightID=457348586-615668-D
+Action.c(110):     M&flightID=45705972-623157-DM&.cgifields=33&.cgifields=32&.cgifields=63&.cgifields=21&.cgi
+Action.c(110):     fields=71&.cgifields=7&.cgifields=80&.cgifields=26&.cgifields=18&.cgifields=72&.cgifields=
+Action.c(110):     16&.cgifields=44&.cgifields=55&.cgifields=74&.cgifields=27&.cgifields=57&.cgifields=61&.cg
+Action.c(110):     ifields=20&.cgifields=10&.cgifields=31&.cgifields=35&.cgifields=11&.cgifields=78&.cgifield
+Action.c(110):     s=48&.cgifields=77&.cgifields=65&.cgifields=29&.cgifields=50&.cgifields=39&.cgifields=64&.
+Action.c(110):     cgifields=58&.cgifields=41&.cgifields=12&.cgifields=15&.cgifields=81&.cgifields=52&.cgifie
+Action.c(110):     lds=60&.cgifields=56&.cgifields=73&.cgifields=66&.cgifields=45&.cgifields=76&.cgifields=19
+Action.c(110):     &.cgifields=62&.cgifields=54&.cgifields=67&.cgifields=70&.cgifields=68&.cgifields=2&.cgifi
+Action.c(110):     elds=17&.cgifields=1&.cgifields=30&.cgifields=25&.cgifields=28&.cgifields=75&.cgifields=40
+Action.c(110):     &.cgifields=14&.cgifields=69&.cgifields=59&.cgifields=49&.cgifields=24&.cgifields=53&.cgif
+Action.c(110):     ields=79&.cgifields=22&.cgifields=42&.cgifields=46&.cgifields=23&.cgifields=13&.cgifields=
+Action.c(110):     6&.cgifields=3&.cgifields=36&.cgifields=9&.cgifields=51&.cgifields=47&.cgifields=8&.cgifie
+Action.c(110):     lds=38&.cgifields=4&.cgifields=34&.cgifields=37&.cgifields=43&.cgifields=5&removeFlights.x
+Action.c(110):     =56&removeFlights.y=10
+Action.c(110): t=2679130ms: Inactive socket [1] was closed by localhost:1080, probably due to Keep-Alive timeout  	[MsgId: MMSG-26000]
+Action.c(110): t=2679130ms: Closed connection [1] to localhost:1080 after completing 2 request(s)  	[MsgId: MMSG-26000]
+Action.c(110): t=2679130ms: Inactive socket [3] was closed by localhost:1080, probably due to Keep-Alive timeout  	[MsgId: MMSG-26000]
+Action.c(110): t=2679130ms: Closed connection [3] to localhost:1080 after completing 1 request(s)  	[MsgId: MMSG-26000]
+Action.c(110): t=2679175ms: Inactive socket [2] was closed by localhost:1080, probably due to Keep-Alive timeout  	[MsgId: MMSG-26000]
+Action.c(110): t=2679175ms: Closed connection [2] to localhost:1080 after completing 1 request(s)  	[MsgId: MMSG-26000]
+Action.c(110): t=2683939ms: Server localhost has shut down the connection [0] prematurely (empty response, no HTTP headers received). No retry attempted  	[MsgId: MMSG-26000]
+Action.c(110): t=2683939ms: Closed connection [0] to localhost:1080 after completing 0 request(s)  	[MsgId: MMSG-26000]
+Action.c(110): Error -27787: Server "localhost" has shut down the connection prematurely  	[MsgId: MERR-27787]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 23.	[MsgId: MMSG-10545]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(4): Notify: Transaction "UC5_DeletingTicket" started.	[MsgId: MMSG-16999]
+Action.c(6): Notify: Transaction "open_site" started.	[MsgId: MMSG-16999]
+Action.c(8): web_reg_find started  	[MsgId: MMSG-26355]
+Action.c(8): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(12): web_set_sockets_option started  	[MsgId: MMSG-26355]
+Action.c(12): web_set_sockets_option was successful  	[MsgId: MMSG-26392]
+Action.c(14): web_add_auto_header("Sec-Fetch-Dest") started  	[MsgId: MMSG-26355]
+Action.c(14): An unrecognized header ("Sec-Fetch-Dest") is being added  	[MsgId: MMSG-26595]
+Action.c(14): "Sec-Fetch-Dest: frame" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(14): web_add_auto_header("Sec-Fetch-Dest") was successful  	[MsgId: MMSG-26392]
+Action.c(17): web_add_auto_header("Sec-Fetch-Mode") started  	[MsgId: MMSG-26355]
+Action.c(17): An unrecognized header ("Sec-Fetch-Mode") is being added  	[MsgId: MMSG-26595]
+Action.c(17): "Sec-Fetch-Mode: navigate" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(17): web_add_auto_header("Sec-Fetch-Mode") was successful  	[MsgId: MMSG-26392]
+Action.c(20): web_add_auto_header("Sec-Fetch-Site") started  	[MsgId: MMSG-26355]
+Action.c(20): An unrecognized header ("Sec-Fetch-Site") is being added  	[MsgId: MMSG-26595]
+Action.c(20): "Sec-Fetch-Site: same-origin" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(20): web_add_auto_header("Sec-Fetch-Site") was successful  	[MsgId: MMSG-26392]
+Action.c(23): web_add_auto_header("Upgrade-Insecure-Requests") started  	[MsgId: MMSG-26355]
+Action.c(23): An unrecognized header ("Upgrade-Insecure-Requests") is being added  	[MsgId: MMSG-26595]
+Action.c(23): "Upgrade-Insecure-Requests: 1" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(23): web_add_auto_header("Upgrade-Insecure-Requests") was successful  	[MsgId: MMSG-26392]
+Action.c(26): web_add_auto_header("sec-ch-ua") started  	[MsgId: MMSG-26355]
+Action.c(26): An unrecognized header ("sec-ch-ua") is being added  	[MsgId: MMSG-26595]
+Action.c(26): "sec-ch-ua: "Not?A_Brand";v="8", "Chromium";v="108", "Google Chrome";v="108"" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(26): web_add_auto_header("sec-ch-ua") was successful  	[MsgId: MMSG-26392]
+Action.c(29): web_add_auto_header("sec-ch-ua-mobile") started  	[MsgId: MMSG-26355]
+Action.c(29): An unrecognized header ("sec-ch-ua-mobile") is being added  	[MsgId: MMSG-26595]
+Action.c(29): "sec-ch-ua-mobile: ?0" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(29): web_add_auto_header("sec-ch-ua-mobile") was successful  	[MsgId: MMSG-26392]
+Action.c(32): web_add_auto_header("sec-ch-ua-platform") started  	[MsgId: MMSG-26355]
+Action.c(32): An unrecognized header ("sec-ch-ua-platform") is being added  	[MsgId: MMSG-26595]
+Action.c(32): "sec-ch-ua-platform: "Windows"" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(32): web_add_auto_header("sec-ch-ua-platform") was successful  	[MsgId: MMSG-26392]
+Action.c(35): web_url("welcome.pl") started  	[MsgId: MMSG-26355]
+Action.c(35): t=2697250ms: Connecting [0] to host 127.0.0.1:1080  	[MsgId: MMSG-26000]
+Action.c(35): Error -27792: Failed to connect to server "localhost:1080": [10061] Connection refused  	[MsgId: MERR-27792]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 23.	[MsgId: MMSG-10545]
+Action.c(35): t=2699274ms: Closed connection [0] to localhost:1080 after completing 0 request(s)  	[MsgId: MMSG-26000]
+Action.c(35): Error -26366: "Text=Welcome to the Web Tours site." not found for web_reg_find  	[MsgId: MERR-26366]
+Action.c(35): Error -26374: The above "not found" error(s) may be explained by header and body byte counts being 0 and 0, respectively.  	[MsgId: MERR-26374]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 25.	[MsgId: MMSG-10545]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(4): Notify: Transaction "UC5_DeletingTicket" started.	[MsgId: MMSG-16999]
+Action.c(6): Notify: Transaction "open_site" started.	[MsgId: MMSG-16999]
+Action.c(8): web_reg_find started  	[MsgId: MMSG-26355]
+Action.c(8): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(12): web_set_sockets_option started  	[MsgId: MMSG-26355]
+Action.c(12): web_set_sockets_option was successful  	[MsgId: MMSG-26392]
+Action.c(14): web_add_auto_header("Sec-Fetch-Dest") started  	[MsgId: MMSG-26355]
+Action.c(14): An unrecognized header ("Sec-Fetch-Dest") is being added  	[MsgId: MMSG-26595]
+Action.c(14): "Sec-Fetch-Dest: frame" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(14): web_add_auto_header("Sec-Fetch-Dest") was successful  	[MsgId: MMSG-26392]
+Action.c(17): web_add_auto_header("Sec-Fetch-Mode") started  	[MsgId: MMSG-26355]
+Action.c(17): An unrecognized header ("Sec-Fetch-Mode") is being added  	[MsgId: MMSG-26595]
+Action.c(17): "Sec-Fetch-Mode: navigate" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(17): web_add_auto_header("Sec-Fetch-Mode") was successful  	[MsgId: MMSG-26392]
+Action.c(20): web_add_auto_header("Sec-Fetch-Site") started  	[MsgId: MMSG-26355]
+Action.c(20): An unrecognized header ("Sec-Fetch-Site") is being added  	[MsgId: MMSG-26595]
+Action.c(20): "Sec-Fetch-Site: same-origin" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(20): web_add_auto_header("Sec-Fetch-Site") was successful  	[MsgId: MMSG-26392]
+Action.c(23): web_add_auto_header("Upgrade-Insecure-Requests") started  	[MsgId: MMSG-26355]
+Action.c(23): An unrecognized header ("Upgrade-Insecure-Requests") is being added  	[MsgId: MMSG-26595]
+Action.c(23): "Upgrade-Insecure-Requests: 1" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(23): web_add_auto_header("Upgrade-Insecure-Requests") was successful  	[MsgId: MMSG-26392]
+Action.c(26): web_add_auto_header("sec-ch-ua") started  	[MsgId: MMSG-26355]
+Action.c(26): An unrecognized header ("sec-ch-ua") is being added  	[MsgId: MMSG-26595]
+Action.c(26): "sec-ch-ua: "Not?A_Brand";v="8", "Chromium";v="108", "Google Chrome";v="108"" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(26): web_add_auto_header("sec-ch-ua") was successful  	[MsgId: MMSG-26392]
+Action.c(29): web_add_auto_header("sec-ch-ua-mobile") started  	[MsgId: MMSG-26355]
+Action.c(29): An unrecognized header ("sec-ch-ua-mobile") is being added  	[MsgId: MMSG-26595]
+Action.c(29): "sec-ch-ua-mobile: ?0" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(29): web_add_auto_header("sec-ch-ua-mobile") was successful  	[MsgId: MMSG-26392]
+Action.c(32): web_add_auto_header("sec-ch-ua-platform") started  	[MsgId: MMSG-26355]
+Action.c(32): An unrecognized header ("sec-ch-ua-platform") is being added  	[MsgId: MMSG-26595]
+Action.c(32): "sec-ch-ua-platform: "Windows"" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(32): web_add_auto_header("sec-ch-ua-platform") was successful  	[MsgId: MMSG-26392]
+Action.c(35): web_url("welcome.pl") started  	[MsgId: MMSG-26355]
+Action.c(35): t=2703212ms: Connecting [0] to host 127.0.0.1:1080  	[MsgId: MMSG-26000]
+Action.c(35): Error -27792: Failed to connect to server "localhost:1080": [10061] Connection refused  	[MsgId: MERR-27792]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 25.	[MsgId: MMSG-10545]
+Action.c(35): t=2705244ms: Closed connection [0] to localhost:1080 after completing 0 request(s)  	[MsgId: MMSG-26000]
+Action.c(35): Error -26366: "Text=Welcome to the Web Tours site." not found for web_reg_find  	[MsgId: MERR-26366]
+Action.c(35): Error -26374: The above "not found" error(s) may be explained by header and body byte counts being 0 and 0, respectively.  	[MsgId: MERR-26374]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 27.	[MsgId: MMSG-10545]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(4): Notify: Transaction "UC5_DeletingTicket" started.	[MsgId: MMSG-16999]
+Action.c(6): Notify: Transaction "open_site" started.	[MsgId: MMSG-16999]
+Action.c(8): web_reg_find started  	[MsgId: MMSG-26355]
+Action.c(8): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(12): web_set_sockets_option started  	[MsgId: MMSG-26355]
+Action.c(12): web_set_sockets_option was successful  	[MsgId: MMSG-26392]
+Action.c(14): web_add_auto_header("Sec-Fetch-Dest") started  	[MsgId: MMSG-26355]
+Action.c(14): An unrecognized header ("Sec-Fetch-Dest") is being added  	[MsgId: MMSG-26595]
+Action.c(14): "Sec-Fetch-Dest: frame" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(14): web_add_auto_header("Sec-Fetch-Dest") was successful  	[MsgId: MMSG-26392]
+Action.c(17): web_add_auto_header("Sec-Fetch-Mode") started  	[MsgId: MMSG-26355]
+Action.c(17): An unrecognized header ("Sec-Fetch-Mode") is being added  	[MsgId: MMSG-26595]
+Action.c(17): "Sec-Fetch-Mode: navigate" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(17): web_add_auto_header("Sec-Fetch-Mode") was successful  	[MsgId: MMSG-26392]
+Action.c(20): web_add_auto_header("Sec-Fetch-Site") started  	[MsgId: MMSG-26355]
+Action.c(20): An unrecognized header ("Sec-Fetch-Site") is being added  	[MsgId: MMSG-26595]
+Action.c(20): "Sec-Fetch-Site: same-origin" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(20): web_add_auto_header("Sec-Fetch-Site") was successful  	[MsgId: MMSG-26392]
+Action.c(23): web_add_auto_header("Upgrade-Insecure-Requests") started  	[MsgId: MMSG-26355]
+Action.c(23): An unrecognized header ("Upgrade-Insecure-Requests") is being added  	[MsgId: MMSG-26595]
+Action.c(23): "Upgrade-Insecure-Requests: 1" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(23): web_add_auto_header("Upgrade-Insecure-Requests") was successful  	[MsgId: MMSG-26392]
+Action.c(26): web_add_auto_header("sec-ch-ua") started  	[MsgId: MMSG-26355]
+Action.c(26): An unrecognized header ("sec-ch-ua") is being added  	[MsgId: MMSG-26595]
+Action.c(26): "sec-ch-ua: "Not?A_Brand";v="8", "Chromium";v="108", "Google Chrome";v="108"" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(26): web_add_auto_header("sec-ch-ua") was successful  	[MsgId: MMSG-26392]
+Action.c(29): web_add_auto_header("sec-ch-ua-mobile") started  	[MsgId: MMSG-26355]
+Action.c(29): An unrecognized header ("sec-ch-ua-mobile") is being added  	[MsgId: MMSG-26595]
+Action.c(29): "sec-ch-ua-mobile: ?0" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(29): web_add_auto_header("sec-ch-ua-mobile") was successful  	[MsgId: MMSG-26392]
+Action.c(32): web_add_auto_header("sec-ch-ua-platform") started  	[MsgId: MMSG-26355]
+Action.c(32): An unrecognized header ("sec-ch-ua-platform") is being added  	[MsgId: MMSG-26595]
+Action.c(32): "sec-ch-ua-platform: "Windows"" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(32): web_add_auto_header("sec-ch-ua-platform") was successful  	[MsgId: MMSG-26392]
+Action.c(35): web_url("welcome.pl") started  	[MsgId: MMSG-26355]
+Action.c(35): t=2707002ms: Connecting [0] to host 127.0.0.1:1080  	[MsgId: MMSG-26000]
+Action.c(35): Error -27792: Failed to connect to server "localhost:1080": [10061] Connection refused  	[MsgId: MERR-27792]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 27.	[MsgId: MMSG-10545]
+Action.c(35): t=2709043ms: Closed connection [0] to localhost:1080 after completing 0 request(s)  	[MsgId: MMSG-26000]
+Action.c(35): Error -26366: "Text=Welcome to the Web Tours site." not found for web_reg_find  	[MsgId: MERR-26366]
+Action.c(35): Error -26374: The above "not found" error(s) may be explained by header and body byte counts being 0 and 0, respectively.  	[MsgId: MERR-26374]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 26.	[MsgId: MMSG-10545]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(4): Notify: Transaction "UC5_DeletingTicket" started.	[MsgId: MMSG-16999]
+Action.c(6): Notify: Transaction "open_site" started.	[MsgId: MMSG-16999]
+Action.c(8): web_reg_find started  	[MsgId: MMSG-26355]
+Action.c(8): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(12): web_set_sockets_option started  	[MsgId: MMSG-26355]
+Action.c(12): web_set_sockets_option was successful  	[MsgId: MMSG-26392]
+Action.c(14): web_add_auto_header("Sec-Fetch-Dest") started  	[MsgId: MMSG-26355]
+Action.c(14): An unrecognized header ("Sec-Fetch-Dest") is being added  	[MsgId: MMSG-26595]
+Action.c(14): "Sec-Fetch-Dest: frame" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(14): web_add_auto_header("Sec-Fetch-Dest") was successful  	[MsgId: MMSG-26392]
+Action.c(17): web_add_auto_header("Sec-Fetch-Mode") started  	[MsgId: MMSG-26355]
+Action.c(17): An unrecognized header ("Sec-Fetch-Mode") is being added  	[MsgId: MMSG-26595]
+Action.c(17): "Sec-Fetch-Mode: navigate" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(17): web_add_auto_header("Sec-Fetch-Mode") was successful  	[MsgId: MMSG-26392]
+Action.c(20): web_add_auto_header("Sec-Fetch-Site") started  	[MsgId: MMSG-26355]
+Action.c(20): An unrecognized header ("Sec-Fetch-Site") is being added  	[MsgId: MMSG-26595]
+Action.c(20): "Sec-Fetch-Site: same-origin" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(20): web_add_auto_header("Sec-Fetch-Site") was successful  	[MsgId: MMSG-26392]
+Action.c(23): web_add_auto_header("Upgrade-Insecure-Requests") started  	[MsgId: MMSG-26355]
+Action.c(23): An unrecognized header ("Upgrade-Insecure-Requests") is being added  	[MsgId: MMSG-26595]
+Action.c(23): "Upgrade-Insecure-Requests: 1" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(23): web_add_auto_header("Upgrade-Insecure-Requests") was successful  	[MsgId: MMSG-26392]
+Action.c(26): web_add_auto_header("sec-ch-ua") started  	[MsgId: MMSG-26355]
+Action.c(26): An unrecognized header ("sec-ch-ua") is being added  	[MsgId: MMSG-26595]
+Action.c(26): "sec-ch-ua: "Not?A_Brand";v="8", "Chromium";v="108", "Google Chrome";v="108"" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(26): web_add_auto_header("sec-ch-ua") was successful  	[MsgId: MMSG-26392]
+Action.c(29): web_add_auto_header("sec-ch-ua-mobile") started  	[MsgId: MMSG-26355]
+Action.c(29): An unrecognized header ("sec-ch-ua-mobile") is being added  	[MsgId: MMSG-26595]
+Action.c(29): "sec-ch-ua-mobile: ?0" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(29): web_add_auto_header("sec-ch-ua-mobile") was successful  	[MsgId: MMSG-26392]
+Action.c(32): web_add_auto_header("sec-ch-ua-platform") started  	[MsgId: MMSG-26355]
+Action.c(32): An unrecognized header ("sec-ch-ua-platform") is being added  	[MsgId: MMSG-26595]
+Action.c(32): "sec-ch-ua-platform: "Windows"" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(32): web_add_auto_header("sec-ch-ua-platform") was successful  	[MsgId: MMSG-26392]
+Action.c(35): web_url("welcome.pl") started  	[MsgId: MMSG-26355]
+Action.c(35): t=2713016ms: Connecting [0] to host 127.0.0.1:1080  	[MsgId: MMSG-26000]
+Action.c(35): Error -27792: Failed to connect to server "localhost:1080": [10061] Connection refused  	[MsgId: MERR-27792]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 26.	[MsgId: MMSG-10545]
+Action.c(35): t=2715056ms: Closed connection [0] to localhost:1080 after completing 0 request(s)  	[MsgId: MMSG-26000]
+Action.c(35): Error -26366: "Text=Welcome to the Web Tours site." not found for web_reg_find  	[MsgId: MERR-26366]
+Action.c(35): Error -26374: The above "not found" error(s) may be explained by header and body byte counts being 0 and 0, respectively.  	[MsgId: MERR-26374]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 28.	[MsgId: MMSG-10545]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(4): Notify: Transaction "UC5_DeletingTicket" started.	[MsgId: MMSG-16999]
+Action.c(6): Notify: Transaction "open_site" started.	[MsgId: MMSG-16999]
+Action.c(8): web_reg_find started  	[MsgId: MMSG-26355]
+Action.c(8): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(12): web_set_sockets_option started  	[MsgId: MMSG-26355]
+Action.c(12): web_set_sockets_option was successful  	[MsgId: MMSG-26392]
+Action.c(14): web_add_auto_header("Sec-Fetch-Dest") started  	[MsgId: MMSG-26355]
+Action.c(14): An unrecognized header ("Sec-Fetch-Dest") is being added  	[MsgId: MMSG-26595]
+Action.c(14): "Sec-Fetch-Dest: frame" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(14): web_add_auto_header("Sec-Fetch-Dest") was successful  	[MsgId: MMSG-26392]
+Action.c(17): web_add_auto_header("Sec-Fetch-Mode") started  	[MsgId: MMSG-26355]
+Action.c(17): An unrecognized header ("Sec-Fetch-Mode") is being added  	[MsgId: MMSG-26595]
+Action.c(17): "Sec-Fetch-Mode: navigate" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(17): web_add_auto_header("Sec-Fetch-Mode") was successful  	[MsgId: MMSG-26392]
+Action.c(20): web_add_auto_header("Sec-Fetch-Site") started  	[MsgId: MMSG-26355]
+Action.c(20): An unrecognized header ("Sec-Fetch-Site") is being added  	[MsgId: MMSG-26595]
+Action.c(20): "Sec-Fetch-Site: same-origin" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(20): web_add_auto_header("Sec-Fetch-Site") was successful  	[MsgId: MMSG-26392]
+Action.c(23): web_add_auto_header("Upgrade-Insecure-Requests") started  	[MsgId: MMSG-26355]
+Action.c(23): An unrecognized header ("Upgrade-Insecure-Requests") is being added  	[MsgId: MMSG-26595]
+Action.c(23): "Upgrade-Insecure-Requests: 1" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(23): web_add_auto_header("Upgrade-Insecure-Requests") was successful  	[MsgId: MMSG-26392]
+Action.c(26): web_add_auto_header("sec-ch-ua") started  	[MsgId: MMSG-26355]
+Action.c(26): An unrecognized header ("sec-ch-ua") is being added  	[MsgId: MMSG-26595]
+Action.c(26): "sec-ch-ua: "Not?A_Brand";v="8", "Chromium";v="108", "Google Chrome";v="108"" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(26): web_add_auto_header("sec-ch-ua") was successful  	[MsgId: MMSG-26392]
+Action.c(29): web_add_auto_header("sec-ch-ua-mobile") started  	[MsgId: MMSG-26355]
+Action.c(29): An unrecognized header ("sec-ch-ua-mobile") is being added  	[MsgId: MMSG-26595]
+Action.c(29): "sec-ch-ua-mobile: ?0" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(29): web_add_auto_header("sec-ch-ua-mobile") was successful  	[MsgId: MMSG-26392]
+Action.c(32): web_add_auto_header("sec-ch-ua-platform") started  	[MsgId: MMSG-26355]
+Action.c(32): An unrecognized header ("sec-ch-ua-platform") is being added  	[MsgId: MMSG-26595]
+Action.c(32): "sec-ch-ua-platform: "Windows"" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(32): web_add_auto_header("sec-ch-ua-platform") was successful  	[MsgId: MMSG-26392]
+Action.c(35): web_url("welcome.pl") started  	[MsgId: MMSG-26355]
+Action.c(35): t=2717487ms: Connecting [0] to host 127.0.0.1:1080  	[MsgId: MMSG-26000]
+Action.c(35): Error -27792: Failed to connect to server "localhost:1080": [10061] Connection refused  	[MsgId: MERR-27792]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 28.	[MsgId: MMSG-10545]
+Action.c(35): t=2719527ms: Closed connection [0] to localhost:1080 after completing 0 request(s)  	[MsgId: MMSG-26000]
+Action.c(35): Error -26366: "Text=Welcome to the Web Tours site." not found for web_reg_find  	[MsgId: MERR-26366]
+Action.c(35): Error -26374: The above "not found" error(s) may be explained by header and body byte counts being 0 and 0, respectively.  	[MsgId: MERR-26374]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 24.	[MsgId: MMSG-10545]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(4): Notify: Transaction "UC5_DeletingTicket" started.	[MsgId: MMSG-16999]
+Action.c(6): Notify: Transaction "open_site" started.	[MsgId: MMSG-16999]
+Action.c(8): web_reg_find started  	[MsgId: MMSG-26355]
+Action.c(8): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(12): web_set_sockets_option started  	[MsgId: MMSG-26355]
+Action.c(12): web_set_sockets_option was successful  	[MsgId: MMSG-26392]
+Action.c(14): web_add_auto_header("Sec-Fetch-Dest") started  	[MsgId: MMSG-26355]
+Action.c(14): An unrecognized header ("Sec-Fetch-Dest") is being added  	[MsgId: MMSG-26595]
+Action.c(14): "Sec-Fetch-Dest: frame" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(14): web_add_auto_header("Sec-Fetch-Dest") was successful  	[MsgId: MMSG-26392]
+Action.c(17): web_add_auto_header("Sec-Fetch-Mode") started  	[MsgId: MMSG-26355]
+Action.c(17): An unrecognized header ("Sec-Fetch-Mode") is being added  	[MsgId: MMSG-26595]
+Action.c(17): "Sec-Fetch-Mode: navigate" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(17): web_add_auto_header("Sec-Fetch-Mode") was successful  	[MsgId: MMSG-26392]
+Action.c(20): web_add_auto_header("Sec-Fetch-Site") started  	[MsgId: MMSG-26355]
+Action.c(20): An unrecognized header ("Sec-Fetch-Site") is being added  	[MsgId: MMSG-26595]
+Action.c(20): "Sec-Fetch-Site: same-origin" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(20): web_add_auto_header("Sec-Fetch-Site") was successful  	[MsgId: MMSG-26392]
+Action.c(23): web_add_auto_header("Upgrade-Insecure-Requests") started  	[MsgId: MMSG-26355]
+Action.c(23): An unrecognized header ("Upgrade-Insecure-Requests") is being added  	[MsgId: MMSG-26595]
+Action.c(23): "Upgrade-Insecure-Requests: 1" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(23): web_add_auto_header("Upgrade-Insecure-Requests") was successful  	[MsgId: MMSG-26392]
+Action.c(26): web_add_auto_header("sec-ch-ua") started  	[MsgId: MMSG-26355]
+Action.c(26): An unrecognized header ("sec-ch-ua") is being added  	[MsgId: MMSG-26595]
+Action.c(26): "sec-ch-ua: "Not?A_Brand";v="8", "Chromium";v="108", "Google Chrome";v="108"" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(26): web_add_auto_header("sec-ch-ua") was successful  	[MsgId: MMSG-26392]
+Action.c(29): web_add_auto_header("sec-ch-ua-mobile") started  	[MsgId: MMSG-26355]
+Action.c(29): An unrecognized header ("sec-ch-ua-mobile") is being added  	[MsgId: MMSG-26595]
+Action.c(29): "sec-ch-ua-mobile: ?0" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(29): web_add_auto_header("sec-ch-ua-mobile") was successful  	[MsgId: MMSG-26392]
+Action.c(32): web_add_auto_header("sec-ch-ua-platform") started  	[MsgId: MMSG-26355]
+Action.c(32): An unrecognized header ("sec-ch-ua-platform") is being added  	[MsgId: MMSG-26595]
+Action.c(32): "sec-ch-ua-platform: "Windows"" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(32): web_add_auto_header("sec-ch-ua-platform") was successful  	[MsgId: MMSG-26392]
+Action.c(35): web_url("welcome.pl") started  	[MsgId: MMSG-26355]
+Action.c(35): t=2724461ms: Connecting [0] to host 127.0.0.1:1080  	[MsgId: MMSG-26000]
+Action.c(35): Error -27792: Failed to connect to server "localhost:1080": [10061] Connection refused  	[MsgId: MERR-27792]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 24.	[MsgId: MMSG-10545]
+Action.c(35): t=2726505ms: Closed connection [0] to localhost:1080 after completing 0 request(s)  	[MsgId: MMSG-26000]
+Action.c(35): Error -26366: "Text=Welcome to the Web Tours site." not found for web_reg_find  	[MsgId: MERR-26366]
+Action.c(35): Error -26374: The above "not found" error(s) may be explained by header and body byte counts being 0 and 0, respectively.  	[MsgId: MERR-26374]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 27.	[MsgId: MMSG-10545]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(4): Notify: Transaction "UC5_DeletingTicket" started.	[MsgId: MMSG-16999]
+Action.c(6): Notify: Transaction "open_site" started.	[MsgId: MMSG-16999]
+Action.c(8): web_reg_find started  	[MsgId: MMSG-26355]
+Action.c(8): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(12): web_set_sockets_option started  	[MsgId: MMSG-26355]
+Action.c(12): web_set_sockets_option was successful  	[MsgId: MMSG-26392]
+Action.c(14): web_add_auto_header("Sec-Fetch-Dest") started  	[MsgId: MMSG-26355]
+Action.c(14): An unrecognized header ("Sec-Fetch-Dest") is being added  	[MsgId: MMSG-26595]
+Action.c(14): "Sec-Fetch-Dest: frame" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(14): web_add_auto_header("Sec-Fetch-Dest") was successful  	[MsgId: MMSG-26392]
+Action.c(17): web_add_auto_header("Sec-Fetch-Mode") started  	[MsgId: MMSG-26355]
+Action.c(17): An unrecognized header ("Sec-Fetch-Mode") is being added  	[MsgId: MMSG-26595]
+Action.c(17): "Sec-Fetch-Mode: navigate" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(17): web_add_auto_header("Sec-Fetch-Mode") was successful  	[MsgId: MMSG-26392]
+Action.c(20): web_add_auto_header("Sec-Fetch-Site") started  	[MsgId: MMSG-26355]
+Action.c(20): An unrecognized header ("Sec-Fetch-Site") is being added  	[MsgId: MMSG-26595]
+Action.c(20): "Sec-Fetch-Site: same-origin" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(20): web_add_auto_header("Sec-Fetch-Site") was successful  	[MsgId: MMSG-26392]
+Action.c(23): web_add_auto_header("Upgrade-Insecure-Requests") started  	[MsgId: MMSG-26355]
+Action.c(23): An unrecognized header ("Upgrade-Insecure-Requests") is being added  	[MsgId: MMSG-26595]
+Action.c(23): "Upgrade-Insecure-Requests: 1" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(23): web_add_auto_header("Upgrade-Insecure-Requests") was successful  	[MsgId: MMSG-26392]
+Action.c(26): web_add_auto_header("sec-ch-ua") started  	[MsgId: MMSG-26355]
+Action.c(26): An unrecognized header ("sec-ch-ua") is being added  	[MsgId: MMSG-26595]
+Action.c(26): "sec-ch-ua: "Not?A_Brand";v="8", "Chromium";v="108", "Google Chrome";v="108"" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(26): web_add_auto_header("sec-ch-ua") was successful  	[MsgId: MMSG-26392]
+Action.c(29): web_add_auto_header("sec-ch-ua-mobile") started  	[MsgId: MMSG-26355]
+Action.c(29): An unrecognized header ("sec-ch-ua-mobile") is being added  	[MsgId: MMSG-26595]
+Action.c(29): "sec-ch-ua-mobile: ?0" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(29): web_add_auto_header("sec-ch-ua-mobile") was successful  	[MsgId: MMSG-26392]
+Action.c(32): web_add_auto_header("sec-ch-ua-platform") started  	[MsgId: MMSG-26355]
+Action.c(32): An unrecognized header ("sec-ch-ua-platform") is being added  	[MsgId: MMSG-26595]
+Action.c(32): "sec-ch-ua-platform: "Windows"" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(32): web_add_auto_header("sec-ch-ua-platform") was successful  	[MsgId: MMSG-26392]
+Action.c(35): web_url("welcome.pl") started  	[MsgId: MMSG-26355]
+Action.c(35): t=2751734ms: Connecting [0] to host 127.0.0.1:1080  	[MsgId: MMSG-26000]
+Action.c(35): Error -27792: Failed to connect to server "localhost:1080": [10061] Connection refused  	[MsgId: MERR-27792]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 27.	[MsgId: MMSG-10545]
+Action.c(35): t=2753760ms: Closed connection [0] to localhost:1080 after completing 0 request(s)  	[MsgId: MMSG-26000]
+Action.c(35): Error -26366: "Text=Welcome to the Web Tours site." not found for web_reg_find  	[MsgId: MERR-26366]
+Action.c(35): Error -26374: The above "not found" error(s) may be explained by header and body byte counts being 0 and 0, respectively.  	[MsgId: MERR-26374]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 25.	[MsgId: MMSG-10545]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(4): Notify: Transaction "UC5_DeletingTicket" started.	[MsgId: MMSG-16999]
+Action.c(6): Notify: Transaction "open_site" started.	[MsgId: MMSG-16999]
+Action.c(8): web_reg_find started  	[MsgId: MMSG-26355]
+Action.c(8): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(12): web_set_sockets_option started  	[MsgId: MMSG-26355]
+Action.c(12): web_set_sockets_option was successful  	[MsgId: MMSG-26392]
+Action.c(14): web_add_auto_header("Sec-Fetch-Dest") started  	[MsgId: MMSG-26355]
+Action.c(14): An unrecognized header ("Sec-Fetch-Dest") is being added  	[MsgId: MMSG-26595]
+Action.c(14): "Sec-Fetch-Dest: frame" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(14): web_add_auto_header("Sec-Fetch-Dest") was successful  	[MsgId: MMSG-26392]
+Action.c(17): web_add_auto_header("Sec-Fetch-Mode") started  	[MsgId: MMSG-26355]
+Action.c(17): An unrecognized header ("Sec-Fetch-Mode") is being added  	[MsgId: MMSG-26595]
+Action.c(17): "Sec-Fetch-Mode: navigate" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(17): web_add_auto_header("Sec-Fetch-Mode") was successful  	[MsgId: MMSG-26392]
+Action.c(20): web_add_auto_header("Sec-Fetch-Site") started  	[MsgId: MMSG-26355]
+Action.c(20): An unrecognized header ("Sec-Fetch-Site") is being added  	[MsgId: MMSG-26595]
+Action.c(20): "Sec-Fetch-Site: same-origin" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(20): web_add_auto_header("Sec-Fetch-Site") was successful  	[MsgId: MMSG-26392]
+Action.c(23): web_add_auto_header("Upgrade-Insecure-Requests") started  	[MsgId: MMSG-26355]
+Action.c(23): An unrecognized header ("Upgrade-Insecure-Requests") is being added  	[MsgId: MMSG-26595]
+Action.c(23): "Upgrade-Insecure-Requests: 1" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(23): web_add_auto_header("Upgrade-Insecure-Requests") was successful  	[MsgId: MMSG-26392]
+Action.c(26): web_add_auto_header("sec-ch-ua") started  	[MsgId: MMSG-26355]
+Action.c(26): An unrecognized header ("sec-ch-ua") is being added  	[MsgId: MMSG-26595]
+Action.c(26): "sec-ch-ua: "Not?A_Brand";v="8", "Chromium";v="108", "Google Chrome";v="108"" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(26): web_add_auto_header("sec-ch-ua") was successful  	[MsgId: MMSG-26392]
+Action.c(29): web_add_auto_header("sec-ch-ua-mobile") started  	[MsgId: MMSG-26355]
+Action.c(29): An unrecognized header ("sec-ch-ua-mobile") is being added  	[MsgId: MMSG-26595]
+Action.c(29): "sec-ch-ua-mobile: ?0" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(29): web_add_auto_header("sec-ch-ua-mobile") was successful  	[MsgId: MMSG-26392]
+Action.c(32): web_add_auto_header("sec-ch-ua-platform") started  	[MsgId: MMSG-26355]
+Action.c(32): An unrecognized header ("sec-ch-ua-platform") is being added  	[MsgId: MMSG-26595]
+Action.c(32): "sec-ch-ua-platform: "Windows"" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(32): web_add_auto_header("sec-ch-ua-platform") was successful  	[MsgId: MMSG-26392]
+Action.c(35): web_url("welcome.pl") started  	[MsgId: MMSG-26355]
+Action.c(35): t=2763623ms: Connecting [0] to host 127.0.0.1:1080  	[MsgId: MMSG-26000]
+Action.c(35): Error -27792: Failed to connect to server "localhost:1080": [10061] Connection refused  	[MsgId: MERR-27792]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 25.	[MsgId: MMSG-10545]
+Action.c(35): t=2765647ms: Closed connection [0] to localhost:1080 after completing 0 request(s)  	[MsgId: MMSG-26000]
+Action.c(35): Error -26366: "Text=Welcome to the Web Tours site." not found for web_reg_find  	[MsgId: MERR-26366]
+Action.c(35): Error -26374: The above "not found" error(s) may be explained by header and body byte counts being 0 and 0, respectively.  	[MsgId: MERR-26374]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 24.	[MsgId: MMSG-10545]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(4): Notify: Transaction "UC5_DeletingTicket" started.	[MsgId: MMSG-16999]
+Action.c(6): Notify: Transaction "open_site" started.	[MsgId: MMSG-16999]
+Action.c(8): web_reg_find started  	[MsgId: MMSG-26355]
+Action.c(8): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(12): web_set_sockets_option started  	[MsgId: MMSG-26355]
+Action.c(12): web_set_sockets_option was successful  	[MsgId: MMSG-26392]
+Action.c(14): web_add_auto_header("Sec-Fetch-Dest") started  	[MsgId: MMSG-26355]
+Action.c(14): An unrecognized header ("Sec-Fetch-Dest") is being added  	[MsgId: MMSG-26595]
+Action.c(14): "Sec-Fetch-Dest: frame" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(14): web_add_auto_header("Sec-Fetch-Dest") was successful  	[MsgId: MMSG-26392]
+Action.c(17): web_add_auto_header("Sec-Fetch-Mode") started  	[MsgId: MMSG-26355]
+Action.c(17): An unrecognized header ("Sec-Fetch-Mode") is being added  	[MsgId: MMSG-26595]
+Action.c(17): "Sec-Fetch-Mode: navigate" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(17): web_add_auto_header("Sec-Fetch-Mode") was successful  	[MsgId: MMSG-26392]
+Action.c(20): web_add_auto_header("Sec-Fetch-Site") started  	[MsgId: MMSG-26355]
+Action.c(20): An unrecognized header ("Sec-Fetch-Site") is being added  	[MsgId: MMSG-26595]
+Action.c(20): "Sec-Fetch-Site: same-origin" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(20): web_add_auto_header("Sec-Fetch-Site") was successful  	[MsgId: MMSG-26392]
+Action.c(23): web_add_auto_header("Upgrade-Insecure-Requests") started  	[MsgId: MMSG-26355]
+Action.c(23): An unrecognized header ("Upgrade-Insecure-Requests") is being added  	[MsgId: MMSG-26595]
+Action.c(23): "Upgrade-Insecure-Requests: 1" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(23): web_add_auto_header("Upgrade-Insecure-Requests") was successful  	[MsgId: MMSG-26392]
+Action.c(26): web_add_auto_header("sec-ch-ua") started  	[MsgId: MMSG-26355]
+Action.c(26): An unrecognized header ("sec-ch-ua") is being added  	[MsgId: MMSG-26595]
+Action.c(26): "sec-ch-ua: "Not?A_Brand";v="8", "Chromium";v="108", "Google Chrome";v="108"" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(26): web_add_auto_header("sec-ch-ua") was successful  	[MsgId: MMSG-26392]
+Action.c(29): web_add_auto_header("sec-ch-ua-mobile") started  	[MsgId: MMSG-26355]
+Action.c(29): An unrecognized header ("sec-ch-ua-mobile") is being added  	[MsgId: MMSG-26595]
+Action.c(29): "sec-ch-ua-mobile: ?0" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(29): web_add_auto_header("sec-ch-ua-mobile") was successful  	[MsgId: MMSG-26392]
+Action.c(32): web_add_auto_header("sec-ch-ua-platform") started  	[MsgId: MMSG-26355]
+Action.c(32): An unrecognized header ("sec-ch-ua-platform") is being added  	[MsgId: MMSG-26595]
+Action.c(32): "sec-ch-ua-platform: "Windows"" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(32): web_add_auto_header("sec-ch-ua-platform") was successful  	[MsgId: MMSG-26392]
+Action.c(35): web_url("welcome.pl") started  	[MsgId: MMSG-26355]
+Action.c(35): t=2797258ms: Connecting [0] to host 127.0.0.1:1080  	[MsgId: MMSG-26000]
+Action.c(35): Error -27792: Failed to connect to server "localhost:1080": [10061] Connection refused  	[MsgId: MERR-27792]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 24.	[MsgId: MMSG-10545]
+Action.c(35): t=2799284ms: Closed connection [0] to localhost:1080 after completing 0 request(s)  	[MsgId: MMSG-26000]
+Action.c(35): Error -26366: "Text=Welcome to the Web Tours site." not found for web_reg_find  	[MsgId: MERR-26366]
+Action.c(35): Error -26374: The above "not found" error(s) may be explained by header and body byte counts being 0 and 0, respectively.  	[MsgId: MERR-26374]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 26.	[MsgId: MMSG-10545]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(4): Notify: Transaction "UC5_DeletingTicket" started.	[MsgId: MMSG-16999]
+Action.c(6): Notify: Transaction "open_site" started.	[MsgId: MMSG-16999]
+Action.c(8): web_reg_find started  	[MsgId: MMSG-26355]
+Action.c(8): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(12): web_set_sockets_option started  	[MsgId: MMSG-26355]
+Action.c(12): web_set_sockets_option was successful  	[MsgId: MMSG-26392]
+Action.c(14): web_add_auto_header("Sec-Fetch-Dest") started  	[MsgId: MMSG-26355]
+Action.c(14): An unrecognized header ("Sec-Fetch-Dest") is being added  	[MsgId: MMSG-26595]
+Action.c(14): "Sec-Fetch-Dest: frame" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(14): web_add_auto_header("Sec-Fetch-Dest") was successful  	[MsgId: MMSG-26392]
+Action.c(17): web_add_auto_header("Sec-Fetch-Mode") started  	[MsgId: MMSG-26355]
+Action.c(17): An unrecognized header ("Sec-Fetch-Mode") is being added  	[MsgId: MMSG-26595]
+Action.c(17): "Sec-Fetch-Mode: navigate" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(17): web_add_auto_header("Sec-Fetch-Mode") was successful  	[MsgId: MMSG-26392]
+Action.c(20): web_add_auto_header("Sec-Fetch-Site") started  	[MsgId: MMSG-26355]
+Action.c(20): An unrecognized header ("Sec-Fetch-Site") is being added  	[MsgId: MMSG-26595]
+Action.c(20): "Sec-Fetch-Site: same-origin" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(20): web_add_auto_header("Sec-Fetch-Site") was successful  	[MsgId: MMSG-26392]
+Action.c(23): web_add_auto_header("Upgrade-Insecure-Requests") started  	[MsgId: MMSG-26355]
+Action.c(23): An unrecognized header ("Upgrade-Insecure-Requests") is being added  	[MsgId: MMSG-26595]
+Action.c(23): "Upgrade-Insecure-Requests: 1" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(23): web_add_auto_header("Upgrade-Insecure-Requests") was successful  	[MsgId: MMSG-26392]
+Action.c(26): web_add_auto_header("sec-ch-ua") started  	[MsgId: MMSG-26355]
+Action.c(26): An unrecognized header ("sec-ch-ua") is being added  	[MsgId: MMSG-26595]
+Action.c(26): "sec-ch-ua: "Not?A_Brand";v="8", "Chromium";v="108", "Google Chrome";v="108"" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(26): web_add_auto_header("sec-ch-ua") was successful  	[MsgId: MMSG-26392]
+Action.c(29): web_add_auto_header("sec-ch-ua-mobile") started  	[MsgId: MMSG-26355]
+Action.c(29): An unrecognized header ("sec-ch-ua-mobile") is being added  	[MsgId: MMSG-26595]
+Action.c(29): "sec-ch-ua-mobile: ?0" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(29): web_add_auto_header("sec-ch-ua-mobile") was successful  	[MsgId: MMSG-26392]
+Action.c(32): web_add_auto_header("sec-ch-ua-platform") started  	[MsgId: MMSG-26355]
+Action.c(32): An unrecognized header ("sec-ch-ua-platform") is being added  	[MsgId: MMSG-26595]
+Action.c(32): "sec-ch-ua-platform: "Windows"" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(32): web_add_auto_header("sec-ch-ua-platform") was successful  	[MsgId: MMSG-26392]
+Action.c(35): web_url("welcome.pl") started  	[MsgId: MMSG-26355]
+Action.c(35): t=2803223ms: Connecting [0] to host 127.0.0.1:1080  	[MsgId: MMSG-26000]
+Action.c(35): Error -27792: Failed to connect to server "localhost:1080": [10061] Connection refused  	[MsgId: MERR-27792]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 26.	[MsgId: MMSG-10545]
+Action.c(35): t=2805261ms: Closed connection [0] to localhost:1080 after completing 0 request(s)  	[MsgId: MMSG-26000]
+Action.c(35): Error -26366: "Text=Welcome to the Web Tours site." not found for web_reg_find  	[MsgId: MERR-26366]
+Action.c(35): Error -26374: The above "not found" error(s) may be explained by header and body byte counts being 0 and 0, respectively.  	[MsgId: MERR-26374]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 28.	[MsgId: MMSG-10545]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(4): Notify: Transaction "UC5_DeletingTicket" started.	[MsgId: MMSG-16999]
+Action.c(6): Notify: Transaction "open_site" started.	[MsgId: MMSG-16999]
+Action.c(8): web_reg_find started  	[MsgId: MMSG-26355]
+Action.c(8): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(12): web_set_sockets_option started  	[MsgId: MMSG-26355]
+Action.c(12): web_set_sockets_option was successful  	[MsgId: MMSG-26392]
+Action.c(14): web_add_auto_header("Sec-Fetch-Dest") started  	[MsgId: MMSG-26355]
+Action.c(14): An unrecognized header ("Sec-Fetch-Dest") is being added  	[MsgId: MMSG-26595]
+Action.c(14): "Sec-Fetch-Dest: frame" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(14): web_add_auto_header("Sec-Fetch-Dest") was successful  	[MsgId: MMSG-26392]
+Action.c(17): web_add_auto_header("Sec-Fetch-Mode") started  	[MsgId: MMSG-26355]
+Action.c(17): An unrecognized header ("Sec-Fetch-Mode") is being added  	[MsgId: MMSG-26595]
+Action.c(17): "Sec-Fetch-Mode: navigate" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(17): web_add_auto_header("Sec-Fetch-Mode") was successful  	[MsgId: MMSG-26392]
+Action.c(20): web_add_auto_header("Sec-Fetch-Site") started  	[MsgId: MMSG-26355]
+Action.c(20): An unrecognized header ("Sec-Fetch-Site") is being added  	[MsgId: MMSG-26595]
+Action.c(20): "Sec-Fetch-Site: same-origin" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(20): web_add_auto_header("Sec-Fetch-Site") was successful  	[MsgId: MMSG-26392]
+Action.c(23): web_add_auto_header("Upgrade-Insecure-Requests") started  	[MsgId: MMSG-26355]
+Action.c(23): An unrecognized header ("Upgrade-Insecure-Requests") is being added  	[MsgId: MMSG-26595]
+Action.c(23): "Upgrade-Insecure-Requests: 1" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(23): web_add_auto_header("Upgrade-Insecure-Requests") was successful  	[MsgId: MMSG-26392]
+Action.c(26): web_add_auto_header("sec-ch-ua") started  	[MsgId: MMSG-26355]
+Action.c(26): An unrecognized header ("sec-ch-ua") is being added  	[MsgId: MMSG-26595]
+Action.c(26): "sec-ch-ua: "Not?A_Brand";v="8", "Chromium";v="108", "Google Chrome";v="108"" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(26): web_add_auto_header("sec-ch-ua") was successful  	[MsgId: MMSG-26392]
+Action.c(29): web_add_auto_header("sec-ch-ua-mobile") started  	[MsgId: MMSG-26355]
+Action.c(29): An unrecognized header ("sec-ch-ua-mobile") is being added  	[MsgId: MMSG-26595]
+Action.c(29): "sec-ch-ua-mobile: ?0" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(29): web_add_auto_header("sec-ch-ua-mobile") was successful  	[MsgId: MMSG-26392]
+Action.c(32): web_add_auto_header("sec-ch-ua-platform") started  	[MsgId: MMSG-26355]
+Action.c(32): An unrecognized header ("sec-ch-ua-platform") is being added  	[MsgId: MMSG-26595]
+Action.c(32): "sec-ch-ua-platform: "Windows"" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(32): web_add_auto_header("sec-ch-ua-platform") was successful  	[MsgId: MMSG-26392]
+Action.c(35): web_url("welcome.pl") started  	[MsgId: MMSG-26355]
+Action.c(35): t=2807005ms: Connecting [0] to host 127.0.0.1:1080  	[MsgId: MMSG-26000]
+Action.c(35): Error -27792: Failed to connect to server "localhost:1080": [10061] Connection refused  	[MsgId: MERR-27792]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 28.	[MsgId: MMSG-10545]
+Action.c(35): t=2809048ms: Closed connection [0] to localhost:1080 after completing 0 request(s)  	[MsgId: MMSG-26000]
+Action.c(35): Error -26366: "Text=Welcome to the Web Tours site." not found for web_reg_find  	[MsgId: MERR-26366]
+Action.c(35): Error -26374: The above "not found" error(s) may be explained by header and body byte counts being 0 and 0, respectively.  	[MsgId: MERR-26374]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 27.	[MsgId: MMSG-10545]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(4): Notify: Transaction "UC5_DeletingTicket" started.	[MsgId: MMSG-16999]
+Action.c(6): Notify: Transaction "open_site" started.	[MsgId: MMSG-16999]
+Action.c(8): web_reg_find started  	[MsgId: MMSG-26355]
+Action.c(8): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(12): web_set_sockets_option started  	[MsgId: MMSG-26355]
+Action.c(12): web_set_sockets_option was successful  	[MsgId: MMSG-26392]
+Action.c(14): web_add_auto_header("Sec-Fetch-Dest") started  	[MsgId: MMSG-26355]
+Action.c(14): An unrecognized header ("Sec-Fetch-Dest") is being added  	[MsgId: MMSG-26595]
+Action.c(14): "Sec-Fetch-Dest: frame" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(14): web_add_auto_header("Sec-Fetch-Dest") was successful  	[MsgId: MMSG-26392]
+Action.c(17): web_add_auto_header("Sec-Fetch-Mode") started  	[MsgId: MMSG-26355]
+Action.c(17): An unrecognized header ("Sec-Fetch-Mode") is being added  	[MsgId: MMSG-26595]
+Action.c(17): "Sec-Fetch-Mode: navigate" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(17): web_add_auto_header("Sec-Fetch-Mode") was successful  	[MsgId: MMSG-26392]
+Action.c(20): web_add_auto_header("Sec-Fetch-Site") started  	[MsgId: MMSG-26355]
+Action.c(20): An unrecognized header ("Sec-Fetch-Site") is being added  	[MsgId: MMSG-26595]
+Action.c(20): "Sec-Fetch-Site: same-origin" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(20): web_add_auto_header("Sec-Fetch-Site") was successful  	[MsgId: MMSG-26392]
+Action.c(23): web_add_auto_header("Upgrade-Insecure-Requests") started  	[MsgId: MMSG-26355]
+Action.c(23): An unrecognized header ("Upgrade-Insecure-Requests") is being added  	[MsgId: MMSG-26595]
+Action.c(23): "Upgrade-Insecure-Requests: 1" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(23): web_add_auto_header("Upgrade-Insecure-Requests") was successful  	[MsgId: MMSG-26392]
+Action.c(26): web_add_auto_header("sec-ch-ua") started  	[MsgId: MMSG-26355]
+Action.c(26): An unrecognized header ("sec-ch-ua") is being added  	[MsgId: MMSG-26595]
+Action.c(26): "sec-ch-ua: "Not?A_Brand";v="8", "Chromium";v="108", "Google Chrome";v="108"" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(26): web_add_auto_header("sec-ch-ua") was successful  	[MsgId: MMSG-26392]
+Action.c(29): web_add_auto_header("sec-ch-ua-mobile") started  	[MsgId: MMSG-26355]
+Action.c(29): An unrecognized header ("sec-ch-ua-mobile") is being added  	[MsgId: MMSG-26595]
+Action.c(29): "sec-ch-ua-mobile: ?0" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(29): web_add_auto_header("sec-ch-ua-mobile") was successful  	[MsgId: MMSG-26392]
+Action.c(32): web_add_auto_header("sec-ch-ua-platform") started  	[MsgId: MMSG-26355]
+Action.c(32): An unrecognized header ("sec-ch-ua-platform") is being added  	[MsgId: MMSG-26595]
+Action.c(32): "sec-ch-ua-platform: "Windows"" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(32): web_add_auto_header("sec-ch-ua-platform") was successful  	[MsgId: MMSG-26392]
+Action.c(35): web_url("welcome.pl") started  	[MsgId: MMSG-26355]
+Action.c(35): t=2813025ms: Connecting [0] to host 127.0.0.1:1080  	[MsgId: MMSG-26000]
+Action.c(35): Error -27792: Failed to connect to server "localhost:1080": [10061] Connection refused  	[MsgId: MERR-27792]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 27.	[MsgId: MMSG-10545]
+Action.c(35): t=2815065ms: Closed connection [0] to localhost:1080 after completing 0 request(s)  	[MsgId: MMSG-26000]
+Action.c(35): Error -26366: "Text=Welcome to the Web Tours site." not found for web_reg_find  	[MsgId: MERR-26366]
+Action.c(35): Error -26374: The above "not found" error(s) may be explained by header and body byte counts being 0 and 0, respectively.  	[MsgId: MERR-26374]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 29.	[MsgId: MMSG-10545]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(4): Notify: Transaction "UC5_DeletingTicket" started.	[MsgId: MMSG-16999]
+Action.c(6): Notify: Transaction "open_site" started.	[MsgId: MMSG-16999]
+Action.c(8): web_reg_find started  	[MsgId: MMSG-26355]
+Action.c(8): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(12): web_set_sockets_option started  	[MsgId: MMSG-26355]
+Action.c(12): web_set_sockets_option was successful  	[MsgId: MMSG-26392]
+Action.c(14): web_add_auto_header("Sec-Fetch-Dest") started  	[MsgId: MMSG-26355]
+Action.c(14): An unrecognized header ("Sec-Fetch-Dest") is being added  	[MsgId: MMSG-26595]
+Action.c(14): "Sec-Fetch-Dest: frame" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(14): web_add_auto_header("Sec-Fetch-Dest") was successful  	[MsgId: MMSG-26392]
+Action.c(17): web_add_auto_header("Sec-Fetch-Mode") started  	[MsgId: MMSG-26355]
+Action.c(17): An unrecognized header ("Sec-Fetch-Mode") is being added  	[MsgId: MMSG-26595]
+Action.c(17): "Sec-Fetch-Mode: navigate" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(17): web_add_auto_header("Sec-Fetch-Mode") was successful  	[MsgId: MMSG-26392]
+Action.c(20): web_add_auto_header("Sec-Fetch-Site") started  	[MsgId: MMSG-26355]
+Action.c(20): An unrecognized header ("Sec-Fetch-Site") is being added  	[MsgId: MMSG-26595]
+Action.c(20): "Sec-Fetch-Site: same-origin" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(20): web_add_auto_header("Sec-Fetch-Site") was successful  	[MsgId: MMSG-26392]
+Action.c(23): web_add_auto_header("Upgrade-Insecure-Requests") started  	[MsgId: MMSG-26355]
+Action.c(23): An unrecognized header ("Upgrade-Insecure-Requests") is being added  	[MsgId: MMSG-26595]
+Action.c(23): "Upgrade-Insecure-Requests: 1" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(23): web_add_auto_header("Upgrade-Insecure-Requests") was successful  	[MsgId: MMSG-26392]
+Action.c(26): web_add_auto_header("sec-ch-ua") started  	[MsgId: MMSG-26355]
+Action.c(26): An unrecognized header ("sec-ch-ua") is being added  	[MsgId: MMSG-26595]
+Action.c(26): "sec-ch-ua: "Not?A_Brand";v="8", "Chromium";v="108", "Google Chrome";v="108"" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(26): web_add_auto_header("sec-ch-ua") was successful  	[MsgId: MMSG-26392]
+Action.c(29): web_add_auto_header("sec-ch-ua-mobile") started  	[MsgId: MMSG-26355]
+Action.c(29): An unrecognized header ("sec-ch-ua-mobile") is being added  	[MsgId: MMSG-26595]
+Action.c(29): "sec-ch-ua-mobile: ?0" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(29): web_add_auto_header("sec-ch-ua-mobile") was successful  	[MsgId: MMSG-26392]
+Action.c(32): web_add_auto_header("sec-ch-ua-platform") started  	[MsgId: MMSG-26355]
+Action.c(32): An unrecognized header ("sec-ch-ua-platform") is being added  	[MsgId: MMSG-26595]
+Action.c(32): "sec-ch-ua-platform: "Windows"" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(32): web_add_auto_header("sec-ch-ua-platform") was successful  	[MsgId: MMSG-26392]
+Action.c(35): web_url("welcome.pl") started  	[MsgId: MMSG-26355]
+Action.c(35): t=2817491ms: Connecting [0] to host 127.0.0.1:1080  	[MsgId: MMSG-26000]
+Action.c(35): Error -27792: Failed to connect to server "localhost:1080": [10061] Connection refused  	[MsgId: MERR-27792]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 29.	[MsgId: MMSG-10545]
+Action.c(35): t=2819535ms: Closed connection [0] to localhost:1080 after completing 0 request(s)  	[MsgId: MMSG-26000]
+Action.c(35): Error -26366: "Text=Welcome to the Web Tours site." not found for web_reg_find  	[MsgId: MERR-26366]
+Action.c(35): Error -26374: The above "not found" error(s) may be explained by header and body byte counts being 0 and 0, respectively.  	[MsgId: MERR-26374]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 25.	[MsgId: MMSG-10545]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(4): Notify: Transaction "UC5_DeletingTicket" started.	[MsgId: MMSG-16999]
+Action.c(6): Notify: Transaction "open_site" started.	[MsgId: MMSG-16999]
+Action.c(8): web_reg_find started  	[MsgId: MMSG-26355]
+Action.c(8): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(12): web_set_sockets_option started  	[MsgId: MMSG-26355]
+Action.c(12): web_set_sockets_option was successful  	[MsgId: MMSG-26392]
+Action.c(14): web_add_auto_header("Sec-Fetch-Dest") started  	[MsgId: MMSG-26355]
+Action.c(14): An unrecognized header ("Sec-Fetch-Dest") is being added  	[MsgId: MMSG-26595]
+Action.c(14): "Sec-Fetch-Dest: frame" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(14): web_add_auto_header("Sec-Fetch-Dest") was successful  	[MsgId: MMSG-26392]
+Action.c(17): web_add_auto_header("Sec-Fetch-Mode") started  	[MsgId: MMSG-26355]
+Action.c(17): An unrecognized header ("Sec-Fetch-Mode") is being added  	[MsgId: MMSG-26595]
+Action.c(17): "Sec-Fetch-Mode: navigate" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(17): web_add_auto_header("Sec-Fetch-Mode") was successful  	[MsgId: MMSG-26392]
+Action.c(20): web_add_auto_header("Sec-Fetch-Site") started  	[MsgId: MMSG-26355]
+Action.c(20): An unrecognized header ("Sec-Fetch-Site") is being added  	[MsgId: MMSG-26595]
+Action.c(20): "Sec-Fetch-Site: same-origin" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(20): web_add_auto_header("Sec-Fetch-Site") was successful  	[MsgId: MMSG-26392]
+Action.c(23): web_add_auto_header("Upgrade-Insecure-Requests") started  	[MsgId: MMSG-26355]
+Action.c(23): An unrecognized header ("Upgrade-Insecure-Requests") is being added  	[MsgId: MMSG-26595]
+Action.c(23): "Upgrade-Insecure-Requests: 1" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(23): web_add_auto_header("Upgrade-Insecure-Requests") was successful  	[MsgId: MMSG-26392]
+Action.c(26): web_add_auto_header("sec-ch-ua") started  	[MsgId: MMSG-26355]
+Action.c(26): An unrecognized header ("sec-ch-ua") is being added  	[MsgId: MMSG-26595]
+Action.c(26): "sec-ch-ua: "Not?A_Brand";v="8", "Chromium";v="108", "Google Chrome";v="108"" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(26): web_add_auto_header("sec-ch-ua") was successful  	[MsgId: MMSG-26392]
+Action.c(29): web_add_auto_header("sec-ch-ua-mobile") started  	[MsgId: MMSG-26355]
+Action.c(29): An unrecognized header ("sec-ch-ua-mobile") is being added  	[MsgId: MMSG-26595]
+Action.c(29): "sec-ch-ua-mobile: ?0" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(29): web_add_auto_header("sec-ch-ua-mobile") was successful  	[MsgId: MMSG-26392]
+Action.c(32): web_add_auto_header("sec-ch-ua-platform") started  	[MsgId: MMSG-26355]
+Action.c(32): An unrecognized header ("sec-ch-ua-platform") is being added  	[MsgId: MMSG-26595]
+Action.c(32): "sec-ch-ua-platform: "Windows"" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(32): web_add_auto_header("sec-ch-ua-platform") was successful  	[MsgId: MMSG-26392]
+Action.c(35): web_url("welcome.pl") started  	[MsgId: MMSG-26355]
+Action.c(35): t=2824463ms: Connecting [0] to host 127.0.0.1:1080  	[MsgId: MMSG-26000]
+Action.c(35): Error -27792: Failed to connect to server "localhost:1080": [10061] Connection refused  	[MsgId: MERR-27792]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 25.	[MsgId: MMSG-10545]
+Action.c(35): t=2826489ms: Closed connection [0] to localhost:1080 after completing 0 request(s)  	[MsgId: MMSG-26000]
+Action.c(35): Error -26366: "Text=Welcome to the Web Tours site." not found for web_reg_find  	[MsgId: MERR-26366]
+Action.c(35): Error -26374: The above "not found" error(s) may be explained by header and body byte counts being 0 and 0, respectively.  	[MsgId: MERR-26374]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 28.	[MsgId: MMSG-10545]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(4): Notify: Transaction "UC5_DeletingTicket" started.	[MsgId: MMSG-16999]
+Action.c(6): Notify: Transaction "open_site" started.	[MsgId: MMSG-16999]
+Action.c(8): web_reg_find started  	[MsgId: MMSG-26355]
+Action.c(8): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(12): web_set_sockets_option started  	[MsgId: MMSG-26355]
+Action.c(12): web_set_sockets_option was successful  	[MsgId: MMSG-26392]
+Action.c(14): web_add_auto_header("Sec-Fetch-Dest") started  	[MsgId: MMSG-26355]
+Action.c(14): An unrecognized header ("Sec-Fetch-Dest") is being added  	[MsgId: MMSG-26595]
+Action.c(14): "Sec-Fetch-Dest: frame" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(14): web_add_auto_header("Sec-Fetch-Dest") was successful  	[MsgId: MMSG-26392]
+Action.c(17): web_add_auto_header("Sec-Fetch-Mode") started  	[MsgId: MMSG-26355]
+Action.c(17): An unrecognized header ("Sec-Fetch-Mode") is being added  	[MsgId: MMSG-26595]
+Action.c(17): "Sec-Fetch-Mode: navigate" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(17): web_add_auto_header("Sec-Fetch-Mode") was successful  	[MsgId: MMSG-26392]
+Action.c(20): web_add_auto_header("Sec-Fetch-Site") started  	[MsgId: MMSG-26355]
+Action.c(20): An unrecognized header ("Sec-Fetch-Site") is being added  	[MsgId: MMSG-26595]
+Action.c(20): "Sec-Fetch-Site: same-origin" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(20): web_add_auto_header("Sec-Fetch-Site") was successful  	[MsgId: MMSG-26392]
+Action.c(23): web_add_auto_header("Upgrade-Insecure-Requests") started  	[MsgId: MMSG-26355]
+Action.c(23): An unrecognized header ("Upgrade-Insecure-Requests") is being added  	[MsgId: MMSG-26595]
+Action.c(23): "Upgrade-Insecure-Requests: 1" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(23): web_add_auto_header("Upgrade-Insecure-Requests") was successful  	[MsgId: MMSG-26392]
+Action.c(26): web_add_auto_header("sec-ch-ua") started  	[MsgId: MMSG-26355]
+Action.c(26): An unrecognized header ("sec-ch-ua") is being added  	[MsgId: MMSG-26595]
+Action.c(26): "sec-ch-ua: "Not?A_Brand";v="8", "Chromium";v="108", "Google Chrome";v="108"" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(26): web_add_auto_header("sec-ch-ua") was successful  	[MsgId: MMSG-26392]
+Action.c(29): web_add_auto_header("sec-ch-ua-mobile") started  	[MsgId: MMSG-26355]
+Action.c(29): An unrecognized header ("sec-ch-ua-mobile") is being added  	[MsgId: MMSG-26595]
+Action.c(29): "sec-ch-ua-mobile: ?0" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(29): web_add_auto_header("sec-ch-ua-mobile") was successful  	[MsgId: MMSG-26392]
+Action.c(32): web_add_auto_header("sec-ch-ua-platform") started  	[MsgId: MMSG-26355]
+Action.c(32): An unrecognized header ("sec-ch-ua-platform") is being added  	[MsgId: MMSG-26595]
+Action.c(32): "sec-ch-ua-platform: "Windows"" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(32): web_add_auto_header("sec-ch-ua-platform") was successful  	[MsgId: MMSG-26392]
+Action.c(35): web_url("welcome.pl") started  	[MsgId: MMSG-26355]
+Action.c(35): t=2851746ms: Connecting [0] to host 127.0.0.1:1080  	[MsgId: MMSG-26000]
+Action.c(35): Error -27792: Failed to connect to server "localhost:1080": [10061] Connection refused  	[MsgId: MERR-27792]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 28.	[MsgId: MMSG-10545]
+Action.c(35): t=2853780ms: Closed connection [0] to localhost:1080 after completing 0 request(s)  	[MsgId: MMSG-26000]
+Action.c(35): Error -26366: "Text=Welcome to the Web Tours site." not found for web_reg_find  	[MsgId: MERR-26366]
+Action.c(35): Error -26374: The above "not found" error(s) may be explained by header and body byte counts being 0 and 0, respectively.  	[MsgId: MERR-26374]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 26.	[MsgId: MMSG-10545]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(4): Notify: Transaction "UC5_DeletingTicket" started.	[MsgId: MMSG-16999]
+Action.c(6): Notify: Transaction "open_site" started.	[MsgId: MMSG-16999]
+Action.c(8): web_reg_find started  	[MsgId: MMSG-26355]
+Action.c(8): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(12): web_set_sockets_option started  	[MsgId: MMSG-26355]
+Action.c(12): web_set_sockets_option was successful  	[MsgId: MMSG-26392]
+Action.c(14): web_add_auto_header("Sec-Fetch-Dest") started  	[MsgId: MMSG-26355]
+Action.c(14): An unrecognized header ("Sec-Fetch-Dest") is being added  	[MsgId: MMSG-26595]
+Action.c(14): "Sec-Fetch-Dest: frame" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(14): web_add_auto_header("Sec-Fetch-Dest") was successful  	[MsgId: MMSG-26392]
+Action.c(17): web_add_auto_header("Sec-Fetch-Mode") started  	[MsgId: MMSG-26355]
+Action.c(17): An unrecognized header ("Sec-Fetch-Mode") is being added  	[MsgId: MMSG-26595]
+Action.c(17): "Sec-Fetch-Mode: navigate" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(17): web_add_auto_header("Sec-Fetch-Mode") was successful  	[MsgId: MMSG-26392]
+Action.c(20): web_add_auto_header("Sec-Fetch-Site") started  	[MsgId: MMSG-26355]
+Action.c(20): An unrecognized header ("Sec-Fetch-Site") is being added  	[MsgId: MMSG-26595]
+Action.c(20): "Sec-Fetch-Site: same-origin" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(20): web_add_auto_header("Sec-Fetch-Site") was successful  	[MsgId: MMSG-26392]
+Action.c(23): web_add_auto_header("Upgrade-Insecure-Requests") started  	[MsgId: MMSG-26355]
+Action.c(23): An unrecognized header ("Upgrade-Insecure-Requests") is being added  	[MsgId: MMSG-26595]
+Action.c(23): "Upgrade-Insecure-Requests: 1" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(23): web_add_auto_header("Upgrade-Insecure-Requests") was successful  	[MsgId: MMSG-26392]
+Action.c(26): web_add_auto_header("sec-ch-ua") started  	[MsgId: MMSG-26355]
+Action.c(26): An unrecognized header ("sec-ch-ua") is being added  	[MsgId: MMSG-26595]
+Action.c(26): "sec-ch-ua: "Not?A_Brand";v="8", "Chromium";v="108", "Google Chrome";v="108"" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(26): web_add_auto_header("sec-ch-ua") was successful  	[MsgId: MMSG-26392]
+Action.c(29): web_add_auto_header("sec-ch-ua-mobile") started  	[MsgId: MMSG-26355]
+Action.c(29): An unrecognized header ("sec-ch-ua-mobile") is being added  	[MsgId: MMSG-26595]
+Action.c(29): "sec-ch-ua-mobile: ?0" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(29): web_add_auto_header("sec-ch-ua-mobile") was successful  	[MsgId: MMSG-26392]
+Action.c(32): web_add_auto_header("sec-ch-ua-platform") started  	[MsgId: MMSG-26355]
+Action.c(32): An unrecognized header ("sec-ch-ua-platform") is being added  	[MsgId: MMSG-26595]
+Action.c(32): "sec-ch-ua-platform: "Windows"" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(32): web_add_auto_header("sec-ch-ua-platform") was successful  	[MsgId: MMSG-26392]
+Action.c(35): web_url("welcome.pl") started  	[MsgId: MMSG-26355]
+Action.c(35): t=2863629ms: Connecting [0] to host 127.0.0.1:1080  	[MsgId: MMSG-26000]
+Action.c(35): Error -27792: Failed to connect to server "localhost:1080": [10061] Connection refused  	[MsgId: MERR-27792]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 26.	[MsgId: MMSG-10545]
+Action.c(35): t=2865646ms: Closed connection [0] to localhost:1080 after completing 0 request(s)  	[MsgId: MMSG-26000]
+Action.c(35): Error -26366: "Text=Welcome to the Web Tours site." not found for web_reg_find  	[MsgId: MERR-26366]
+Action.c(35): Error -26374: The above "not found" error(s) may be explained by header and body byte counts being 0 and 0, respectively.  	[MsgId: MERR-26374]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 25.	[MsgId: MMSG-10545]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(4): Notify: Transaction "UC5_DeletingTicket" started.	[MsgId: MMSG-16999]
+Action.c(6): Notify: Transaction "open_site" started.	[MsgId: MMSG-16999]
+Action.c(8): web_reg_find started  	[MsgId: MMSG-26355]
+Action.c(8): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(12): web_set_sockets_option started  	[MsgId: MMSG-26355]
+Action.c(12): web_set_sockets_option was successful  	[MsgId: MMSG-26392]
+Action.c(14): web_add_auto_header("Sec-Fetch-Dest") started  	[MsgId: MMSG-26355]
+Action.c(14): An unrecognized header ("Sec-Fetch-Dest") is being added  	[MsgId: MMSG-26595]
+Action.c(14): "Sec-Fetch-Dest: frame" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(14): web_add_auto_header("Sec-Fetch-Dest") was successful  	[MsgId: MMSG-26392]
+Action.c(17): web_add_auto_header("Sec-Fetch-Mode") started  	[MsgId: MMSG-26355]
+Action.c(17): An unrecognized header ("Sec-Fetch-Mode") is being added  	[MsgId: MMSG-26595]
+Action.c(17): "Sec-Fetch-Mode: navigate" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(17): web_add_auto_header("Sec-Fetch-Mode") was successful  	[MsgId: MMSG-26392]
+Action.c(20): web_add_auto_header("Sec-Fetch-Site") started  	[MsgId: MMSG-26355]
+Action.c(20): An unrecognized header ("Sec-Fetch-Site") is being added  	[MsgId: MMSG-26595]
+Action.c(20): "Sec-Fetch-Site: same-origin" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(20): web_add_auto_header("Sec-Fetch-Site") was successful  	[MsgId: MMSG-26392]
+Action.c(23): web_add_auto_header("Upgrade-Insecure-Requests") started  	[MsgId: MMSG-26355]
+Action.c(23): An unrecognized header ("Upgrade-Insecure-Requests") is being added  	[MsgId: MMSG-26595]
+Action.c(23): "Upgrade-Insecure-Requests: 1" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(23): web_add_auto_header("Upgrade-Insecure-Requests") was successful  	[MsgId: MMSG-26392]
+Action.c(26): web_add_auto_header("sec-ch-ua") started  	[MsgId: MMSG-26355]
+Action.c(26): An unrecognized header ("sec-ch-ua") is being added  	[MsgId: MMSG-26595]
+Action.c(26): "sec-ch-ua: "Not?A_Brand";v="8", "Chromium";v="108", "Google Chrome";v="108"" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(26): web_add_auto_header("sec-ch-ua") was successful  	[MsgId: MMSG-26392]
+Action.c(29): web_add_auto_header("sec-ch-ua-mobile") started  	[MsgId: MMSG-26355]
+Action.c(29): An unrecognized header ("sec-ch-ua-mobile") is being added  	[MsgId: MMSG-26595]
+Action.c(29): "sec-ch-ua-mobile: ?0" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(29): web_add_auto_header("sec-ch-ua-mobile") was successful  	[MsgId: MMSG-26392]
+Action.c(32): web_add_auto_header("sec-ch-ua-platform") started  	[MsgId: MMSG-26355]
+Action.c(32): An unrecognized header ("sec-ch-ua-platform") is being added  	[MsgId: MMSG-26595]
+Action.c(32): "sec-ch-ua-platform: "Windows"" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(32): web_add_auto_header("sec-ch-ua-platform") was successful  	[MsgId: MMSG-26392]
+Action.c(35): web_url("welcome.pl") started  	[MsgId: MMSG-26355]
+Action.c(35): t=2897260ms: Connecting [0] to host 127.0.0.1:1080  	[MsgId: MMSG-26000]
+Action.c(35): Error -27792: Failed to connect to server "localhost:1080": [10061] Connection refused  	[MsgId: MERR-27792]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 25.	[MsgId: MMSG-10545]
+Action.c(35): t=2899298ms: Closed connection [0] to localhost:1080 after completing 0 request(s)  	[MsgId: MMSG-26000]
+Action.c(35): Error -26366: "Text=Welcome to the Web Tours site." not found for web_reg_find  	[MsgId: MERR-26366]
+Action.c(35): Error -26374: The above "not found" error(s) may be explained by header and body byte counts being 0 and 0, respectively.  	[MsgId: MERR-26374]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 27.	[MsgId: MMSG-10545]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(4): Notify: Transaction "UC5_DeletingTicket" started.	[MsgId: MMSG-16999]
+Action.c(6): Notify: Transaction "open_site" started.	[MsgId: MMSG-16999]
+Action.c(8): web_reg_find started  	[MsgId: MMSG-26355]
+Action.c(8): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(12): web_set_sockets_option started  	[MsgId: MMSG-26355]
+Action.c(12): web_set_sockets_option was successful  	[MsgId: MMSG-26392]
+Action.c(14): web_add_auto_header("Sec-Fetch-Dest") started  	[MsgId: MMSG-26355]
+Action.c(14): An unrecognized header ("Sec-Fetch-Dest") is being added  	[MsgId: MMSG-26595]
+Action.c(14): "Sec-Fetch-Dest: frame" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(14): web_add_auto_header("Sec-Fetch-Dest") was successful  	[MsgId: MMSG-26392]
+Action.c(17): web_add_auto_header("Sec-Fetch-Mode") started  	[MsgId: MMSG-26355]
+Action.c(17): An unrecognized header ("Sec-Fetch-Mode") is being added  	[MsgId: MMSG-26595]
+Action.c(17): "Sec-Fetch-Mode: navigate" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(17): web_add_auto_header("Sec-Fetch-Mode") was successful  	[MsgId: MMSG-26392]
+Action.c(20): web_add_auto_header("Sec-Fetch-Site") started  	[MsgId: MMSG-26355]
+Action.c(20): An unrecognized header ("Sec-Fetch-Site") is being added  	[MsgId: MMSG-26595]
+Action.c(20): "Sec-Fetch-Site: same-origin" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(20): web_add_auto_header("Sec-Fetch-Site") was successful  	[MsgId: MMSG-26392]
+Action.c(23): web_add_auto_header("Upgrade-Insecure-Requests") started  	[MsgId: MMSG-26355]
+Action.c(23): An unrecognized header ("Upgrade-Insecure-Requests") is being added  	[MsgId: MMSG-26595]
+Action.c(23): "Upgrade-Insecure-Requests: 1" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(23): web_add_auto_header("Upgrade-Insecure-Requests") was successful  	[MsgId: MMSG-26392]
+Action.c(26): web_add_auto_header("sec-ch-ua") started  	[MsgId: MMSG-26355]
+Action.c(26): An unrecognized header ("sec-ch-ua") is being added  	[MsgId: MMSG-26595]
+Action.c(26): "sec-ch-ua: "Not?A_Brand";v="8", "Chromium";v="108", "Google Chrome";v="108"" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(26): web_add_auto_header("sec-ch-ua") was successful  	[MsgId: MMSG-26392]
+Action.c(29): web_add_auto_header("sec-ch-ua-mobile") started  	[MsgId: MMSG-26355]
+Action.c(29): An unrecognized header ("sec-ch-ua-mobile") is being added  	[MsgId: MMSG-26595]
+Action.c(29): "sec-ch-ua-mobile: ?0" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(29): web_add_auto_header("sec-ch-ua-mobile") was successful  	[MsgId: MMSG-26392]
+Action.c(32): web_add_auto_header("sec-ch-ua-platform") started  	[MsgId: MMSG-26355]
+Action.c(32): An unrecognized header ("sec-ch-ua-platform") is being added  	[MsgId: MMSG-26595]
+Action.c(32): "sec-ch-ua-platform: "Windows"" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(32): web_add_auto_header("sec-ch-ua-platform") was successful  	[MsgId: MMSG-26392]
+Action.c(35): web_url("welcome.pl") started  	[MsgId: MMSG-26355]
+Action.c(35): t=2903226ms: Connecting [0] to host 127.0.0.1:1080  	[MsgId: MMSG-26000]
+Action.c(35): Error -27792: Failed to connect to server "localhost:1080": [10061] Connection refused  	[MsgId: MERR-27792]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 27.	[MsgId: MMSG-10545]
+Action.c(35): t=2905261ms: Closed connection [0] to localhost:1080 after completing 0 request(s)  	[MsgId: MMSG-26000]
+Action.c(35): Error -26366: "Text=Welcome to the Web Tours site." not found for web_reg_find  	[MsgId: MERR-26366]
+Action.c(35): Error -26374: The above "not found" error(s) may be explained by header and body byte counts being 0 and 0, respectively.  	[MsgId: MERR-26374]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 29.	[MsgId: MMSG-10545]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(4): Notify: Transaction "UC5_DeletingTicket" started.	[MsgId: MMSG-16999]
+Action.c(6): Notify: Transaction "open_site" started.	[MsgId: MMSG-16999]
+Action.c(8): web_reg_find started  	[MsgId: MMSG-26355]
+Action.c(8): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(12): web_set_sockets_option started  	[MsgId: MMSG-26355]
+Action.c(12): web_set_sockets_option was successful  	[MsgId: MMSG-26392]
+Action.c(14): web_add_auto_header("Sec-Fetch-Dest") started  	[MsgId: MMSG-26355]
+Action.c(14): An unrecognized header ("Sec-Fetch-Dest") is being added  	[MsgId: MMSG-26595]
+Action.c(14): "Sec-Fetch-Dest: frame" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(14): web_add_auto_header("Sec-Fetch-Dest") was successful  	[MsgId: MMSG-26392]
+Action.c(17): web_add_auto_header("Sec-Fetch-Mode") started  	[MsgId: MMSG-26355]
+Action.c(17): An unrecognized header ("Sec-Fetch-Mode") is being added  	[MsgId: MMSG-26595]
+Action.c(17): "Sec-Fetch-Mode: navigate" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(17): web_add_auto_header("Sec-Fetch-Mode") was successful  	[MsgId: MMSG-26392]
+Action.c(20): web_add_auto_header("Sec-Fetch-Site") started  	[MsgId: MMSG-26355]
+Action.c(20): An unrecognized header ("Sec-Fetch-Site") is being added  	[MsgId: MMSG-26595]
+Action.c(20): "Sec-Fetch-Site: same-origin" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(20): web_add_auto_header("Sec-Fetch-Site") was successful  	[MsgId: MMSG-26392]
+Action.c(23): web_add_auto_header("Upgrade-Insecure-Requests") started  	[MsgId: MMSG-26355]
+Action.c(23): An unrecognized header ("Upgrade-Insecure-Requests") is being added  	[MsgId: MMSG-26595]
+Action.c(23): "Upgrade-Insecure-Requests: 1" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(23): web_add_auto_header("Upgrade-Insecure-Requests") was successful  	[MsgId: MMSG-26392]
+Action.c(26): web_add_auto_header("sec-ch-ua") started  	[MsgId: MMSG-26355]
+Action.c(26): An unrecognized header ("sec-ch-ua") is being added  	[MsgId: MMSG-26595]
+Action.c(26): "sec-ch-ua: "Not?A_Brand";v="8", "Chromium";v="108", "Google Chrome";v="108"" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(26): web_add_auto_header("sec-ch-ua") was successful  	[MsgId: MMSG-26392]
+Action.c(29): web_add_auto_header("sec-ch-ua-mobile") started  	[MsgId: MMSG-26355]
+Action.c(29): An unrecognized header ("sec-ch-ua-mobile") is being added  	[MsgId: MMSG-26595]
+Action.c(29): "sec-ch-ua-mobile: ?0" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(29): web_add_auto_header("sec-ch-ua-mobile") was successful  	[MsgId: MMSG-26392]
+Action.c(32): web_add_auto_header("sec-ch-ua-platform") started  	[MsgId: MMSG-26355]
+Action.c(32): An unrecognized header ("sec-ch-ua-platform") is being added  	[MsgId: MMSG-26595]
+Action.c(32): "sec-ch-ua-platform: "Windows"" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(32): web_add_auto_header("sec-ch-ua-platform") was successful  	[MsgId: MMSG-26392]
+Action.c(35): web_url("welcome.pl") started  	[MsgId: MMSG-26355]
+Action.c(35): t=2907007ms: Connecting [0] to host 127.0.0.1:1080  	[MsgId: MMSG-26000]
+Action.c(35): Error -27792: Failed to connect to server "localhost:1080": [10061] Connection refused  	[MsgId: MERR-27792]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 29.	[MsgId: MMSG-10545]
+Action.c(35): t=2909048ms: Closed connection [0] to localhost:1080 after completing 0 request(s)  	[MsgId: MMSG-26000]
+Action.c(35): Error -26366: "Text=Welcome to the Web Tours site." not found for web_reg_find  	[MsgId: MERR-26366]
+Action.c(35): Error -26374: The above "not found" error(s) may be explained by header and body byte counts being 0 and 0, respectively.  	[MsgId: MERR-26374]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 28.	[MsgId: MMSG-10545]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(4): Notify: Transaction "UC5_DeletingTicket" started.	[MsgId: MMSG-16999]
+Action.c(6): Notify: Transaction "open_site" started.	[MsgId: MMSG-16999]
+Action.c(8): web_reg_find started  	[MsgId: MMSG-26355]
+Action.c(8): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(12): web_set_sockets_option started  	[MsgId: MMSG-26355]
+Action.c(12): web_set_sockets_option was successful  	[MsgId: MMSG-26392]
+Action.c(14): web_add_auto_header("Sec-Fetch-Dest") started  	[MsgId: MMSG-26355]
+Action.c(14): An unrecognized header ("Sec-Fetch-Dest") is being added  	[MsgId: MMSG-26595]
+Action.c(14): "Sec-Fetch-Dest: frame" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(14): web_add_auto_header("Sec-Fetch-Dest") was successful  	[MsgId: MMSG-26392]
+Action.c(17): web_add_auto_header("Sec-Fetch-Mode") started  	[MsgId: MMSG-26355]
+Action.c(17): An unrecognized header ("Sec-Fetch-Mode") is being added  	[MsgId: MMSG-26595]
+Action.c(17): "Sec-Fetch-Mode: navigate" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(17): web_add_auto_header("Sec-Fetch-Mode") was successful  	[MsgId: MMSG-26392]
+Action.c(20): web_add_auto_header("Sec-Fetch-Site") started  	[MsgId: MMSG-26355]
+Action.c(20): An unrecognized header ("Sec-Fetch-Site") is being added  	[MsgId: MMSG-26595]
+Action.c(20): "Sec-Fetch-Site: same-origin" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(20): web_add_auto_header("Sec-Fetch-Site") was successful  	[MsgId: MMSG-26392]
+Action.c(23): web_add_auto_header("Upgrade-Insecure-Requests") started  	[MsgId: MMSG-26355]
+Action.c(23): An unrecognized header ("Upgrade-Insecure-Requests") is being added  	[MsgId: MMSG-26595]
+Action.c(23): "Upgrade-Insecure-Requests: 1" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(23): web_add_auto_header("Upgrade-Insecure-Requests") was successful  	[MsgId: MMSG-26392]
+Action.c(26): web_add_auto_header("sec-ch-ua") started  	[MsgId: MMSG-26355]
+Action.c(26): An unrecognized header ("sec-ch-ua") is being added  	[MsgId: MMSG-26595]
+Action.c(26): "sec-ch-ua: "Not?A_Brand";v="8", "Chromium";v="108", "Google Chrome";v="108"" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(26): web_add_auto_header("sec-ch-ua") was successful  	[MsgId: MMSG-26392]
+Action.c(29): web_add_auto_header("sec-ch-ua-mobile") started  	[MsgId: MMSG-26355]
+Action.c(29): An unrecognized header ("sec-ch-ua-mobile") is being added  	[MsgId: MMSG-26595]
+Action.c(29): "sec-ch-ua-mobile: ?0" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(29): web_add_auto_header("sec-ch-ua-mobile") was successful  	[MsgId: MMSG-26392]
+Action.c(32): web_add_auto_header("sec-ch-ua-platform") started  	[MsgId: MMSG-26355]
+Action.c(32): An unrecognized header ("sec-ch-ua-platform") is being added  	[MsgId: MMSG-26595]
+Action.c(32): "sec-ch-ua-platform: "Windows"" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(32): web_add_auto_header("sec-ch-ua-platform") was successful  	[MsgId: MMSG-26392]
+Action.c(35): web_url("welcome.pl") started  	[MsgId: MMSG-26355]
+Action.c(35): t=2913041ms: Connecting [0] to host 127.0.0.1:1080  	[MsgId: MMSG-26000]
+Action.c(35): Error -27792: Failed to connect to server "localhost:1080": [10061] Connection refused  	[MsgId: MERR-27792]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 28.	[MsgId: MMSG-10545]
+Action.c(35): t=2915076ms: Closed connection [0] to localhost:1080 after completing 0 request(s)  	[MsgId: MMSG-26000]
+Action.c(35): Error -26366: "Text=Welcome to the Web Tours site." not found for web_reg_find  	[MsgId: MERR-26366]
+Action.c(35): Error -26374: The above "not found" error(s) may be explained by header and body byte counts being 0 and 0, respectively.  	[MsgId: MERR-26374]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 30.	[MsgId: MMSG-10545]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(4): Notify: Transaction "UC5_DeletingTicket" started.	[MsgId: MMSG-16999]
+Action.c(6): Notify: Transaction "open_site" started.	[MsgId: MMSG-16999]
+Action.c(8): web_reg_find started  	[MsgId: MMSG-26355]
+Action.c(8): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(12): web_set_sockets_option started  	[MsgId: MMSG-26355]
+Action.c(12): web_set_sockets_option was successful  	[MsgId: MMSG-26392]
+Action.c(14): web_add_auto_header("Sec-Fetch-Dest") started  	[MsgId: MMSG-26355]
+Action.c(14): An unrecognized header ("Sec-Fetch-Dest") is being added  	[MsgId: MMSG-26595]
+Action.c(14): "Sec-Fetch-Dest: frame" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(14): web_add_auto_header("Sec-Fetch-Dest") was successful  	[MsgId: MMSG-26392]
+Action.c(17): web_add_auto_header("Sec-Fetch-Mode") started  	[MsgId: MMSG-26355]
+Action.c(17): An unrecognized header ("Sec-Fetch-Mode") is being added  	[MsgId: MMSG-26595]
+Action.c(17): "Sec-Fetch-Mode: navigate" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(17): web_add_auto_header("Sec-Fetch-Mode") was successful  	[MsgId: MMSG-26392]
+Action.c(20): web_add_auto_header("Sec-Fetch-Site") started  	[MsgId: MMSG-26355]
+Action.c(20): An unrecognized header ("Sec-Fetch-Site") is being added  	[MsgId: MMSG-26595]
+Action.c(20): "Sec-Fetch-Site: same-origin" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(20): web_add_auto_header("Sec-Fetch-Site") was successful  	[MsgId: MMSG-26392]
+Action.c(23): web_add_auto_header("Upgrade-Insecure-Requests") started  	[MsgId: MMSG-26355]
+Action.c(23): An unrecognized header ("Upgrade-Insecure-Requests") is being added  	[MsgId: MMSG-26595]
+Action.c(23): "Upgrade-Insecure-Requests: 1" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(23): web_add_auto_header("Upgrade-Insecure-Requests") was successful  	[MsgId: MMSG-26392]
+Action.c(26): web_add_auto_header("sec-ch-ua") started  	[MsgId: MMSG-26355]
+Action.c(26): An unrecognized header ("sec-ch-ua") is being added  	[MsgId: MMSG-26595]
+Action.c(26): "sec-ch-ua: "Not?A_Brand";v="8", "Chromium";v="108", "Google Chrome";v="108"" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(26): web_add_auto_header("sec-ch-ua") was successful  	[MsgId: MMSG-26392]
+Action.c(29): web_add_auto_header("sec-ch-ua-mobile") started  	[MsgId: MMSG-26355]
+Action.c(29): An unrecognized header ("sec-ch-ua-mobile") is being added  	[MsgId: MMSG-26595]
+Action.c(29): "sec-ch-ua-mobile: ?0" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(29): web_add_auto_header("sec-ch-ua-mobile") was successful  	[MsgId: MMSG-26392]
+Action.c(32): web_add_auto_header("sec-ch-ua-platform") started  	[MsgId: MMSG-26355]
+Action.c(32): An unrecognized header ("sec-ch-ua-platform") is being added  	[MsgId: MMSG-26595]
+Action.c(32): "sec-ch-ua-platform: "Windows"" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(32): web_add_auto_header("sec-ch-ua-platform") was successful  	[MsgId: MMSG-26392]
+Action.c(35): web_url("welcome.pl") started  	[MsgId: MMSG-26355]
+Action.c(35): t=2917500ms: Connecting [0] to host 127.0.0.1:1080  	[MsgId: MMSG-26000]
+Action.c(35): Error -27792: Failed to connect to server "localhost:1080": [10061] Connection refused  	[MsgId: MERR-27792]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 30.	[MsgId: MMSG-10545]
+Action.c(35): t=2919548ms: Closed connection [0] to localhost:1080 after completing 0 request(s)  	[MsgId: MMSG-26000]
+Action.c(35): Error -26366: "Text=Welcome to the Web Tours site." not found for web_reg_find  	[MsgId: MERR-26366]
+Action.c(35): Error -26374: The above "not found" error(s) may be explained by header and body byte counts being 0 and 0, respectively.  	[MsgId: MERR-26374]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 26.	[MsgId: MMSG-10545]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(4): Notify: Transaction "UC5_DeletingTicket" started.	[MsgId: MMSG-16999]
+Action.c(6): Notify: Transaction "open_site" started.	[MsgId: MMSG-16999]
+Action.c(8): web_reg_find started  	[MsgId: MMSG-26355]
+Action.c(8): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(12): web_set_sockets_option started  	[MsgId: MMSG-26355]
+Action.c(12): web_set_sockets_option was successful  	[MsgId: MMSG-26392]
+Action.c(14): web_add_auto_header("Sec-Fetch-Dest") started  	[MsgId: MMSG-26355]
+Action.c(14): An unrecognized header ("Sec-Fetch-Dest") is being added  	[MsgId: MMSG-26595]
+Action.c(14): "Sec-Fetch-Dest: frame" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(14): web_add_auto_header("Sec-Fetch-Dest") was successful  	[MsgId: MMSG-26392]
+Action.c(17): web_add_auto_header("Sec-Fetch-Mode") started  	[MsgId: MMSG-26355]
+Action.c(17): An unrecognized header ("Sec-Fetch-Mode") is being added  	[MsgId: MMSG-26595]
+Action.c(17): "Sec-Fetch-Mode: navigate" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(17): web_add_auto_header("Sec-Fetch-Mode") was successful  	[MsgId: MMSG-26392]
+Action.c(20): web_add_auto_header("Sec-Fetch-Site") started  	[MsgId: MMSG-26355]
+Action.c(20): An unrecognized header ("Sec-Fetch-Site") is being added  	[MsgId: MMSG-26595]
+Action.c(20): "Sec-Fetch-Site: same-origin" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(20): web_add_auto_header("Sec-Fetch-Site") was successful  	[MsgId: MMSG-26392]
+Action.c(23): web_add_auto_header("Upgrade-Insecure-Requests") started  	[MsgId: MMSG-26355]
+Action.c(23): An unrecognized header ("Upgrade-Insecure-Requests") is being added  	[MsgId: MMSG-26595]
+Action.c(23): "Upgrade-Insecure-Requests: 1" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(23): web_add_auto_header("Upgrade-Insecure-Requests") was successful  	[MsgId: MMSG-26392]
+Action.c(26): web_add_auto_header("sec-ch-ua") started  	[MsgId: MMSG-26355]
+Action.c(26): An unrecognized header ("sec-ch-ua") is being added  	[MsgId: MMSG-26595]
+Action.c(26): "sec-ch-ua: "Not?A_Brand";v="8", "Chromium";v="108", "Google Chrome";v="108"" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(26): web_add_auto_header("sec-ch-ua") was successful  	[MsgId: MMSG-26392]
+Action.c(29): web_add_auto_header("sec-ch-ua-mobile") started  	[MsgId: MMSG-26355]
+Action.c(29): An unrecognized header ("sec-ch-ua-mobile") is being added  	[MsgId: MMSG-26595]
+Action.c(29): "sec-ch-ua-mobile: ?0" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(29): web_add_auto_header("sec-ch-ua-mobile") was successful  	[MsgId: MMSG-26392]
+Action.c(32): web_add_auto_header("sec-ch-ua-platform") started  	[MsgId: MMSG-26355]
+Action.c(32): An unrecognized header ("sec-ch-ua-platform") is being added  	[MsgId: MMSG-26595]
+Action.c(32): "sec-ch-ua-platform: "Windows"" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(32): web_add_auto_header("sec-ch-ua-platform") was successful  	[MsgId: MMSG-26392]
+Action.c(35): web_url("welcome.pl") started  	[MsgId: MMSG-26355]
+Action.c(35): t=2924475ms: Connecting [0] to host 127.0.0.1:1080  	[MsgId: MMSG-26000]
+Action.c(35): Error -27792: Failed to connect to server "localhost:1080": [10061] Connection refused  	[MsgId: MERR-27792]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 26.	[MsgId: MMSG-10545]
+Action.c(35): t=2926505ms: Closed connection [0] to localhost:1080 after completing 0 request(s)  	[MsgId: MMSG-26000]
+Action.c(35): Error -26366: "Text=Welcome to the Web Tours site." not found for web_reg_find  	[MsgId: MERR-26366]
+Action.c(35): Error -26374: The above "not found" error(s) may be explained by header and body byte counts being 0 and 0, respectively.  	[MsgId: MERR-26374]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 29.	[MsgId: MMSG-10545]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(4): Notify: Transaction "UC5_DeletingTicket" started.	[MsgId: MMSG-16999]
+Action.c(6): Notify: Transaction "open_site" started.	[MsgId: MMSG-16999]
+Action.c(8): web_reg_find started  	[MsgId: MMSG-26355]
+Action.c(8): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(12): web_set_sockets_option started  	[MsgId: MMSG-26355]
+Action.c(12): web_set_sockets_option was successful  	[MsgId: MMSG-26392]
+Action.c(14): web_add_auto_header("Sec-Fetch-Dest") started  	[MsgId: MMSG-26355]
+Action.c(14): An unrecognized header ("Sec-Fetch-Dest") is being added  	[MsgId: MMSG-26595]
+Action.c(14): "Sec-Fetch-Dest: frame" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(14): web_add_auto_header("Sec-Fetch-Dest") was successful  	[MsgId: MMSG-26392]
+Action.c(17): web_add_auto_header("Sec-Fetch-Mode") started  	[MsgId: MMSG-26355]
+Action.c(17): An unrecognized header ("Sec-Fetch-Mode") is being added  	[MsgId: MMSG-26595]
+Action.c(17): "Sec-Fetch-Mode: navigate" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(17): web_add_auto_header("Sec-Fetch-Mode") was successful  	[MsgId: MMSG-26392]
+Action.c(20): web_add_auto_header("Sec-Fetch-Site") started  	[MsgId: MMSG-26355]
+Action.c(20): An unrecognized header ("Sec-Fetch-Site") is being added  	[MsgId: MMSG-26595]
+Action.c(20): "Sec-Fetch-Site: same-origin" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(20): web_add_auto_header("Sec-Fetch-Site") was successful  	[MsgId: MMSG-26392]
+Action.c(23): web_add_auto_header("Upgrade-Insecure-Requests") started  	[MsgId: MMSG-26355]
+Action.c(23): An unrecognized header ("Upgrade-Insecure-Requests") is being added  	[MsgId: MMSG-26595]
+Action.c(23): "Upgrade-Insecure-Requests: 1" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(23): web_add_auto_header("Upgrade-Insecure-Requests") was successful  	[MsgId: MMSG-26392]
+Action.c(26): web_add_auto_header("sec-ch-ua") started  	[MsgId: MMSG-26355]
+Action.c(26): An unrecognized header ("sec-ch-ua") is being added  	[MsgId: MMSG-26595]
+Action.c(26): "sec-ch-ua: "Not?A_Brand";v="8", "Chromium";v="108", "Google Chrome";v="108"" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(26): web_add_auto_header("sec-ch-ua") was successful  	[MsgId: MMSG-26392]
+Action.c(29): web_add_auto_header("sec-ch-ua-mobile") started  	[MsgId: MMSG-26355]
+Action.c(29): An unrecognized header ("sec-ch-ua-mobile") is being added  	[MsgId: MMSG-26595]
+Action.c(29): "sec-ch-ua-mobile: ?0" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(29): web_add_auto_header("sec-ch-ua-mobile") was successful  	[MsgId: MMSG-26392]
+Action.c(32): web_add_auto_header("sec-ch-ua-platform") started  	[MsgId: MMSG-26355]
+Action.c(32): An unrecognized header ("sec-ch-ua-platform") is being added  	[MsgId: MMSG-26595]
+Action.c(32): "sec-ch-ua-platform: "Windows"" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(32): web_add_auto_header("sec-ch-ua-platform") was successful  	[MsgId: MMSG-26392]
+Action.c(35): web_url("welcome.pl") started  	[MsgId: MMSG-26355]
+Action.c(35): t=2951748ms: Connecting [0] to host 127.0.0.1:1080  	[MsgId: MMSG-26000]
+Action.c(35): Error -27792: Failed to connect to server "localhost:1080": [10061] Connection refused  	[MsgId: MERR-27792]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 29.	[MsgId: MMSG-10545]
+Action.c(35): t=2953789ms: Closed connection [0] to localhost:1080 after completing 0 request(s)  	[MsgId: MMSG-26000]
+Action.c(35): Error -26366: "Text=Welcome to the Web Tours site." not found for web_reg_find  	[MsgId: MERR-26366]
+Action.c(35): Error -26374: The above "not found" error(s) may be explained by header and body byte counts being 0 and 0, respectively.  	[MsgId: MERR-26374]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 27.	[MsgId: MMSG-10545]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(4): Notify: Transaction "UC5_DeletingTicket" started.	[MsgId: MMSG-16999]
+Action.c(6): Notify: Transaction "open_site" started.	[MsgId: MMSG-16999]
+Action.c(8): web_reg_find started  	[MsgId: MMSG-26355]
+Action.c(8): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(12): web_set_sockets_option started  	[MsgId: MMSG-26355]
+Action.c(12): web_set_sockets_option was successful  	[MsgId: MMSG-26392]
+Action.c(14): web_add_auto_header("Sec-Fetch-Dest") started  	[MsgId: MMSG-26355]
+Action.c(14): An unrecognized header ("Sec-Fetch-Dest") is being added  	[MsgId: MMSG-26595]
+Action.c(14): "Sec-Fetch-Dest: frame" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(14): web_add_auto_header("Sec-Fetch-Dest") was successful  	[MsgId: MMSG-26392]
+Action.c(17): web_add_auto_header("Sec-Fetch-Mode") started  	[MsgId: MMSG-26355]
+Action.c(17): An unrecognized header ("Sec-Fetch-Mode") is being added  	[MsgId: MMSG-26595]
+Action.c(17): "Sec-Fetch-Mode: navigate" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(17): web_add_auto_header("Sec-Fetch-Mode") was successful  	[MsgId: MMSG-26392]
+Action.c(20): web_add_auto_header("Sec-Fetch-Site") started  	[MsgId: MMSG-26355]
+Action.c(20): An unrecognized header ("Sec-Fetch-Site") is being added  	[MsgId: MMSG-26595]
+Action.c(20): "Sec-Fetch-Site: same-origin" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(20): web_add_auto_header("Sec-Fetch-Site") was successful  	[MsgId: MMSG-26392]
+Action.c(23): web_add_auto_header("Upgrade-Insecure-Requests") started  	[MsgId: MMSG-26355]
+Action.c(23): An unrecognized header ("Upgrade-Insecure-Requests") is being added  	[MsgId: MMSG-26595]
+Action.c(23): "Upgrade-Insecure-Requests: 1" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(23): web_add_auto_header("Upgrade-Insecure-Requests") was successful  	[MsgId: MMSG-26392]
+Action.c(26): web_add_auto_header("sec-ch-ua") started  	[MsgId: MMSG-26355]
+Action.c(26): An unrecognized header ("sec-ch-ua") is being added  	[MsgId: MMSG-26595]
+Action.c(26): "sec-ch-ua: "Not?A_Brand";v="8", "Chromium";v="108", "Google Chrome";v="108"" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(26): web_add_auto_header("sec-ch-ua") was successful  	[MsgId: MMSG-26392]
+Action.c(29): web_add_auto_header("sec-ch-ua-mobile") started  	[MsgId: MMSG-26355]
+Action.c(29): An unrecognized header ("sec-ch-ua-mobile") is being added  	[MsgId: MMSG-26595]
+Action.c(29): "sec-ch-ua-mobile: ?0" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(29): web_add_auto_header("sec-ch-ua-mobile") was successful  	[MsgId: MMSG-26392]
+Action.c(32): web_add_auto_header("sec-ch-ua-platform") started  	[MsgId: MMSG-26355]
+Action.c(32): An unrecognized header ("sec-ch-ua-platform") is being added  	[MsgId: MMSG-26595]
+Action.c(32): "sec-ch-ua-platform: "Windows"" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(32): web_add_auto_header("sec-ch-ua-platform") was successful  	[MsgId: MMSG-26392]
+Action.c(35): web_url("welcome.pl") started  	[MsgId: MMSG-26355]
+Action.c(35): t=2963634ms: Connecting [0] to host 127.0.0.1:1080  	[MsgId: MMSG-26000]
+Action.c(35): Error -27792: Failed to connect to server "localhost:1080": [10061] Connection refused  	[MsgId: MERR-27792]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 27.	[MsgId: MMSG-10545]
+Action.c(35): t=2965678ms: Closed connection [0] to localhost:1080 after completing 0 request(s)  	[MsgId: MMSG-26000]
+Action.c(35): Error -26366: "Text=Welcome to the Web Tours site." not found for web_reg_find  	[MsgId: MERR-26366]
+Action.c(35): Error -26374: The above "not found" error(s) may be explained by header and body byte counts being 0 and 0, respectively.  	[MsgId: MERR-26374]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 26.	[MsgId: MMSG-10545]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(4): Notify: Transaction "UC5_DeletingTicket" started.	[MsgId: MMSG-16999]
+Action.c(6): Notify: Transaction "open_site" started.	[MsgId: MMSG-16999]
+Action.c(8): web_reg_find started  	[MsgId: MMSG-26355]
+Action.c(8): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(12): web_set_sockets_option started  	[MsgId: MMSG-26355]
+Action.c(12): web_set_sockets_option was successful  	[MsgId: MMSG-26392]
+Action.c(14): web_add_auto_header("Sec-Fetch-Dest") started  	[MsgId: MMSG-26355]
+Action.c(14): An unrecognized header ("Sec-Fetch-Dest") is being added  	[MsgId: MMSG-26595]
+Action.c(14): "Sec-Fetch-Dest: frame" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(14): web_add_auto_header("Sec-Fetch-Dest") was successful  	[MsgId: MMSG-26392]
+Action.c(17): web_add_auto_header("Sec-Fetch-Mode") started  	[MsgId: MMSG-26355]
+Action.c(17): An unrecognized header ("Sec-Fetch-Mode") is being added  	[MsgId: MMSG-26595]
+Action.c(17): "Sec-Fetch-Mode: navigate" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(17): web_add_auto_header("Sec-Fetch-Mode") was successful  	[MsgId: MMSG-26392]
+Action.c(20): web_add_auto_header("Sec-Fetch-Site") started  	[MsgId: MMSG-26355]
+Action.c(20): An unrecognized header ("Sec-Fetch-Site") is being added  	[MsgId: MMSG-26595]
+Action.c(20): "Sec-Fetch-Site: same-origin" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(20): web_add_auto_header("Sec-Fetch-Site") was successful  	[MsgId: MMSG-26392]
+Action.c(23): web_add_auto_header("Upgrade-Insecure-Requests") started  	[MsgId: MMSG-26355]
+Action.c(23): An unrecognized header ("Upgrade-Insecure-Requests") is being added  	[MsgId: MMSG-26595]
+Action.c(23): "Upgrade-Insecure-Requests: 1" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(23): web_add_auto_header("Upgrade-Insecure-Requests") was successful  	[MsgId: MMSG-26392]
+Action.c(26): web_add_auto_header("sec-ch-ua") started  	[MsgId: MMSG-26355]
+Action.c(26): An unrecognized header ("sec-ch-ua") is being added  	[MsgId: MMSG-26595]
+Action.c(26): "sec-ch-ua: "Not?A_Brand";v="8", "Chromium";v="108", "Google Chrome";v="108"" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(26): web_add_auto_header("sec-ch-ua") was successful  	[MsgId: MMSG-26392]
+Action.c(29): web_add_auto_header("sec-ch-ua-mobile") started  	[MsgId: MMSG-26355]
+Action.c(29): An unrecognized header ("sec-ch-ua-mobile") is being added  	[MsgId: MMSG-26595]
+Action.c(29): "sec-ch-ua-mobile: ?0" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(29): web_add_auto_header("sec-ch-ua-mobile") was successful  	[MsgId: MMSG-26392]
+Action.c(32): web_add_auto_header("sec-ch-ua-platform") started  	[MsgId: MMSG-26355]
+Action.c(32): An unrecognized header ("sec-ch-ua-platform") is being added  	[MsgId: MMSG-26595]
+Action.c(32): "sec-ch-ua-platform: "Windows"" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(32): web_add_auto_header("sec-ch-ua-platform") was successful  	[MsgId: MMSG-26392]
+Action.c(35): web_url("welcome.pl") started  	[MsgId: MMSG-26355]
+Action.c(35): t=2997271ms: Connecting [0] to host 127.0.0.1:1080  	[MsgId: MMSG-26000]
+Action.c(35): Error -27792: Failed to connect to server "localhost:1080": [10061] Connection refused  	[MsgId: MERR-27792]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 26.	[MsgId: MMSG-10545]
+Action.c(35): t=2999323ms: Closed connection [0] to localhost:1080 after completing 0 request(s)  	[MsgId: MMSG-26000]
+Action.c(35): Error -26366: "Text=Welcome to the Web Tours site." not found for web_reg_find  	[MsgId: MERR-26366]
+Action.c(35): Error -26374: The above "not found" error(s) may be explained by header and body byte counts being 0 and 0, respectively.  	[MsgId: MERR-26374]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 28.	[MsgId: MMSG-10545]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(4): Notify: Transaction "UC5_DeletingTicket" started.	[MsgId: MMSG-16999]
+Action.c(6): Notify: Transaction "open_site" started.	[MsgId: MMSG-16999]
+Action.c(8): web_reg_find started  	[MsgId: MMSG-26355]
+Action.c(8): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(12): web_set_sockets_option started  	[MsgId: MMSG-26355]
+Action.c(12): web_set_sockets_option was successful  	[MsgId: MMSG-26392]
+Action.c(14): web_add_auto_header("Sec-Fetch-Dest") started  	[MsgId: MMSG-26355]
+Action.c(14): An unrecognized header ("Sec-Fetch-Dest") is being added  	[MsgId: MMSG-26595]
+Action.c(14): "Sec-Fetch-Dest: frame" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(14): web_add_auto_header("Sec-Fetch-Dest") was successful  	[MsgId: MMSG-26392]
+Action.c(17): web_add_auto_header("Sec-Fetch-Mode") started  	[MsgId: MMSG-26355]
+Action.c(17): An unrecognized header ("Sec-Fetch-Mode") is being added  	[MsgId: MMSG-26595]
+Action.c(17): "Sec-Fetch-Mode: navigate" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(17): web_add_auto_header("Sec-Fetch-Mode") was successful  	[MsgId: MMSG-26392]
+Action.c(20): web_add_auto_header("Sec-Fetch-Site") started  	[MsgId: MMSG-26355]
+Action.c(20): An unrecognized header ("Sec-Fetch-Site") is being added  	[MsgId: MMSG-26595]
+Action.c(20): "Sec-Fetch-Site: same-origin" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(20): web_add_auto_header("Sec-Fetch-Site") was successful  	[MsgId: MMSG-26392]
+Action.c(23): web_add_auto_header("Upgrade-Insecure-Requests") started  	[MsgId: MMSG-26355]
+Action.c(23): An unrecognized header ("Upgrade-Insecure-Requests") is being added  	[MsgId: MMSG-26595]
+Action.c(23): "Upgrade-Insecure-Requests: 1" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(23): web_add_auto_header("Upgrade-Insecure-Requests") was successful  	[MsgId: MMSG-26392]
+Action.c(26): web_add_auto_header("sec-ch-ua") started  	[MsgId: MMSG-26355]
+Action.c(26): An unrecognized header ("sec-ch-ua") is being added  	[MsgId: MMSG-26595]
+Action.c(26): "sec-ch-ua: "Not?A_Brand";v="8", "Chromium";v="108", "Google Chrome";v="108"" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(26): web_add_auto_header("sec-ch-ua") was successful  	[MsgId: MMSG-26392]
+Action.c(29): web_add_auto_header("sec-ch-ua-mobile") started  	[MsgId: MMSG-26355]
+Action.c(29): An unrecognized header ("sec-ch-ua-mobile") is being added  	[MsgId: MMSG-26595]
+Action.c(29): "sec-ch-ua-mobile: ?0" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(29): web_add_auto_header("sec-ch-ua-mobile") was successful  	[MsgId: MMSG-26392]
+Action.c(32): web_add_auto_header("sec-ch-ua-platform") started  	[MsgId: MMSG-26355]
+Action.c(32): An unrecognized header ("sec-ch-ua-platform") is being added  	[MsgId: MMSG-26595]
+Action.c(32): "sec-ch-ua-platform: "Windows"" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(32): web_add_auto_header("sec-ch-ua-platform") was successful  	[MsgId: MMSG-26392]
+Action.c(35): web_url("welcome.pl") started  	[MsgId: MMSG-26355]
+Action.c(35): t=3003240ms: Connecting [0] to host 127.0.0.1:1080  	[MsgId: MMSG-26000]
+Action.c(35): Error -27792: Failed to connect to server "localhost:1080": [10061] Connection refused  	[MsgId: MERR-27792]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 28.	[MsgId: MMSG-10545]
+Action.c(35): t=3005273ms: Closed connection [0] to localhost:1080 after completing 0 request(s)  	[MsgId: MMSG-26000]
+Action.c(35): Error -26366: "Text=Welcome to the Web Tours site." not found for web_reg_find  	[MsgId: MERR-26366]
+Action.c(35): Error -26374: The above "not found" error(s) may be explained by header and body byte counts being 0 and 0, respectively.  	[MsgId: MERR-26374]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 30.	[MsgId: MMSG-10545]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(4): Notify: Transaction "UC5_DeletingTicket" started.	[MsgId: MMSG-16999]
+Action.c(6): Notify: Transaction "open_site" started.	[MsgId: MMSG-16999]
+Action.c(8): web_reg_find started  	[MsgId: MMSG-26355]
+Action.c(8): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(12): web_set_sockets_option started  	[MsgId: MMSG-26355]
+Action.c(12): web_set_sockets_option was successful  	[MsgId: MMSG-26392]
+Action.c(14): web_add_auto_header("Sec-Fetch-Dest") started  	[MsgId: MMSG-26355]
+Action.c(14): An unrecognized header ("Sec-Fetch-Dest") is being added  	[MsgId: MMSG-26595]
+Action.c(14): "Sec-Fetch-Dest: frame" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(14): web_add_auto_header("Sec-Fetch-Dest") was successful  	[MsgId: MMSG-26392]
+Action.c(17): web_add_auto_header("Sec-Fetch-Mode") started  	[MsgId: MMSG-26355]
+Action.c(17): An unrecognized header ("Sec-Fetch-Mode") is being added  	[MsgId: MMSG-26595]
+Action.c(17): "Sec-Fetch-Mode: navigate" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(17): web_add_auto_header("Sec-Fetch-Mode") was successful  	[MsgId: MMSG-26392]
+Action.c(20): web_add_auto_header("Sec-Fetch-Site") started  	[MsgId: MMSG-26355]
+Action.c(20): An unrecognized header ("Sec-Fetch-Site") is being added  	[MsgId: MMSG-26595]
+Action.c(20): "Sec-Fetch-Site: same-origin" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(20): web_add_auto_header("Sec-Fetch-Site") was successful  	[MsgId: MMSG-26392]
+Action.c(23): web_add_auto_header("Upgrade-Insecure-Requests") started  	[MsgId: MMSG-26355]
+Action.c(23): An unrecognized header ("Upgrade-Insecure-Requests") is being added  	[MsgId: MMSG-26595]
+Action.c(23): "Upgrade-Insecure-Requests: 1" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(23): web_add_auto_header("Upgrade-Insecure-Requests") was successful  	[MsgId: MMSG-26392]
+Action.c(26): web_add_auto_header("sec-ch-ua") started  	[MsgId: MMSG-26355]
+Action.c(26): An unrecognized header ("sec-ch-ua") is being added  	[MsgId: MMSG-26595]
+Action.c(26): "sec-ch-ua: "Not?A_Brand";v="8", "Chromium";v="108", "Google Chrome";v="108"" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(26): web_add_auto_header("sec-ch-ua") was successful  	[MsgId: MMSG-26392]
+Action.c(29): web_add_auto_header("sec-ch-ua-mobile") started  	[MsgId: MMSG-26355]
+Action.c(29): An unrecognized header ("sec-ch-ua-mobile") is being added  	[MsgId: MMSG-26595]
+Action.c(29): "sec-ch-ua-mobile: ?0" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(29): web_add_auto_header("sec-ch-ua-mobile") was successful  	[MsgId: MMSG-26392]
+Action.c(32): web_add_auto_header("sec-ch-ua-platform") started  	[MsgId: MMSG-26355]
+Action.c(32): An unrecognized header ("sec-ch-ua-platform") is being added  	[MsgId: MMSG-26595]
+Action.c(32): "sec-ch-ua-platform: "Windows"" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(32): web_add_auto_header("sec-ch-ua-platform") was successful  	[MsgId: MMSG-26392]
+Action.c(35): web_url("welcome.pl") started  	[MsgId: MMSG-26355]
+Action.c(35): t=3007016ms: Connecting [0] to host 127.0.0.1:1080  	[MsgId: MMSG-26000]
+Action.c(35): Error -27792: Failed to connect to server "localhost:1080": [10061] Connection refused  	[MsgId: MERR-27792]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 30.	[MsgId: MMSG-10545]
+Action.c(35): t=3009043ms: Closed connection [0] to localhost:1080 after completing 0 request(s)  	[MsgId: MMSG-26000]
+Action.c(35): Error -26366: "Text=Welcome to the Web Tours site." not found for web_reg_find  	[MsgId: MERR-26366]
+Action.c(35): Error -26374: The above "not found" error(s) may be explained by header and body byte counts being 0 and 0, respectively.  	[MsgId: MERR-26374]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 29.	[MsgId: MMSG-10545]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(4): Notify: Transaction "UC5_DeletingTicket" started.	[MsgId: MMSG-16999]
+Action.c(6): Notify: Transaction "open_site" started.	[MsgId: MMSG-16999]
+Action.c(8): web_reg_find started  	[MsgId: MMSG-26355]
+Action.c(8): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(12): web_set_sockets_option started  	[MsgId: MMSG-26355]
+Action.c(12): web_set_sockets_option was successful  	[MsgId: MMSG-26392]
+Action.c(14): web_add_auto_header("Sec-Fetch-Dest") started  	[MsgId: MMSG-26355]
+Action.c(14): An unrecognized header ("Sec-Fetch-Dest") is being added  	[MsgId: MMSG-26595]
+Action.c(14): "Sec-Fetch-Dest: frame" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(14): web_add_auto_header("Sec-Fetch-Dest") was successful  	[MsgId: MMSG-26392]
+Action.c(17): web_add_auto_header("Sec-Fetch-Mode") started  	[MsgId: MMSG-26355]
+Action.c(17): An unrecognized header ("Sec-Fetch-Mode") is being added  	[MsgId: MMSG-26595]
+Action.c(17): "Sec-Fetch-Mode: navigate" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(17): web_add_auto_header("Sec-Fetch-Mode") was successful  	[MsgId: MMSG-26392]
+Action.c(20): web_add_auto_header("Sec-Fetch-Site") started  	[MsgId: MMSG-26355]
+Action.c(20): An unrecognized header ("Sec-Fetch-Site") is being added  	[MsgId: MMSG-26595]
+Action.c(20): "Sec-Fetch-Site: same-origin" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(20): web_add_auto_header("Sec-Fetch-Site") was successful  	[MsgId: MMSG-26392]
+Action.c(23): web_add_auto_header("Upgrade-Insecure-Requests") started  	[MsgId: MMSG-26355]
+Action.c(23): An unrecognized header ("Upgrade-Insecure-Requests") is being added  	[MsgId: MMSG-26595]
+Action.c(23): "Upgrade-Insecure-Requests: 1" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(23): web_add_auto_header("Upgrade-Insecure-Requests") was successful  	[MsgId: MMSG-26392]
+Action.c(26): web_add_auto_header("sec-ch-ua") started  	[MsgId: MMSG-26355]
+Action.c(26): An unrecognized header ("sec-ch-ua") is being added  	[MsgId: MMSG-26595]
+Action.c(26): "sec-ch-ua: "Not?A_Brand";v="8", "Chromium";v="108", "Google Chrome";v="108"" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(26): web_add_auto_header("sec-ch-ua") was successful  	[MsgId: MMSG-26392]
+Action.c(29): web_add_auto_header("sec-ch-ua-mobile") started  	[MsgId: MMSG-26355]
+Action.c(29): An unrecognized header ("sec-ch-ua-mobile") is being added  	[MsgId: MMSG-26595]
+Action.c(29): "sec-ch-ua-mobile: ?0" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(29): web_add_auto_header("sec-ch-ua-mobile") was successful  	[MsgId: MMSG-26392]
+Action.c(32): web_add_auto_header("sec-ch-ua-platform") started  	[MsgId: MMSG-26355]
+Action.c(32): An unrecognized header ("sec-ch-ua-platform") is being added  	[MsgId: MMSG-26595]
+Action.c(32): "sec-ch-ua-platform: "Windows"" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(32): web_add_auto_header("sec-ch-ua-platform") was successful  	[MsgId: MMSG-26392]
+Action.c(35): web_url("welcome.pl") started  	[MsgId: MMSG-26355]
+Action.c(35): t=3013044ms: Connecting [0] to host 127.0.0.1:1080  	[MsgId: MMSG-26000]
+Action.c(35): Error -27792: Failed to connect to server "localhost:1080": [10061] Connection refused  	[MsgId: MERR-27792]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 29.	[MsgId: MMSG-10545]
+Action.c(35): t=3015079ms: Closed connection [0] to localhost:1080 after completing 0 request(s)  	[MsgId: MMSG-26000]
+Action.c(35): Error -26366: "Text=Welcome to the Web Tours site." not found for web_reg_find  	[MsgId: MERR-26366]
+Action.c(35): Error -26374: The above "not found" error(s) may be explained by header and body byte counts being 0 and 0, respectively.  	[MsgId: MERR-26374]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 31.	[MsgId: MMSG-10545]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(4): Notify: Transaction "UC5_DeletingTicket" started.	[MsgId: MMSG-16999]
+Action.c(6): Notify: Transaction "open_site" started.	[MsgId: MMSG-16999]
+Action.c(8): web_reg_find started  	[MsgId: MMSG-26355]
+Action.c(8): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(12): web_set_sockets_option started  	[MsgId: MMSG-26355]
+Action.c(12): web_set_sockets_option was successful  	[MsgId: MMSG-26392]
+Action.c(14): web_add_auto_header("Sec-Fetch-Dest") started  	[MsgId: MMSG-26355]
+Action.c(14): An unrecognized header ("Sec-Fetch-Dest") is being added  	[MsgId: MMSG-26595]
+Action.c(14): "Sec-Fetch-Dest: frame" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(14): web_add_auto_header("Sec-Fetch-Dest") was successful  	[MsgId: MMSG-26392]
+Action.c(17): web_add_auto_header("Sec-Fetch-Mode") started  	[MsgId: MMSG-26355]
+Action.c(17): An unrecognized header ("Sec-Fetch-Mode") is being added  	[MsgId: MMSG-26595]
+Action.c(17): "Sec-Fetch-Mode: navigate" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(17): web_add_auto_header("Sec-Fetch-Mode") was successful  	[MsgId: MMSG-26392]
+Action.c(20): web_add_auto_header("Sec-Fetch-Site") started  	[MsgId: MMSG-26355]
+Action.c(20): An unrecognized header ("Sec-Fetch-Site") is being added  	[MsgId: MMSG-26595]
+Action.c(20): "Sec-Fetch-Site: same-origin" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(20): web_add_auto_header("Sec-Fetch-Site") was successful  	[MsgId: MMSG-26392]
+Action.c(23): web_add_auto_header("Upgrade-Insecure-Requests") started  	[MsgId: MMSG-26355]
+Action.c(23): An unrecognized header ("Upgrade-Insecure-Requests") is being added  	[MsgId: MMSG-26595]
+Action.c(23): "Upgrade-Insecure-Requests: 1" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(23): web_add_auto_header("Upgrade-Insecure-Requests") was successful  	[MsgId: MMSG-26392]
+Action.c(26): web_add_auto_header("sec-ch-ua") started  	[MsgId: MMSG-26355]
+Action.c(26): An unrecognized header ("sec-ch-ua") is being added  	[MsgId: MMSG-26595]
+Action.c(26): "sec-ch-ua: "Not?A_Brand";v="8", "Chromium";v="108", "Google Chrome";v="108"" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(26): web_add_auto_header("sec-ch-ua") was successful  	[MsgId: MMSG-26392]
+Action.c(29): web_add_auto_header("sec-ch-ua-mobile") started  	[MsgId: MMSG-26355]
+Action.c(29): An unrecognized header ("sec-ch-ua-mobile") is being added  	[MsgId: MMSG-26595]
+Action.c(29): "sec-ch-ua-mobile: ?0" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(29): web_add_auto_header("sec-ch-ua-mobile") was successful  	[MsgId: MMSG-26392]
+Action.c(32): web_add_auto_header("sec-ch-ua-platform") started  	[MsgId: MMSG-26355]
+Action.c(32): An unrecognized header ("sec-ch-ua-platform") is being added  	[MsgId: MMSG-26595]
+Action.c(32): "sec-ch-ua-platform: "Windows"" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(32): web_add_auto_header("sec-ch-ua-platform") was successful  	[MsgId: MMSG-26392]
+Action.c(35): web_url("welcome.pl") started  	[MsgId: MMSG-26355]
+Action.c(35): t=3017510ms: Connecting [0] to host 127.0.0.1:1080  	[MsgId: MMSG-26000]
+Action.c(35): Error -27792: Failed to connect to server "localhost:1080": [10061] Connection refused  	[MsgId: MERR-27792]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 31.	[MsgId: MMSG-10545]
+Action.c(35): t=3019538ms: Closed connection [0] to localhost:1080 after completing 0 request(s)  	[MsgId: MMSG-26000]
+Action.c(35): Error -26366: "Text=Welcome to the Web Tours site." not found for web_reg_find  	[MsgId: MERR-26366]
+Action.c(35): Error -26374: The above "not found" error(s) may be explained by header and body byte counts being 0 and 0, respectively.  	[MsgId: MERR-26374]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 27.	[MsgId: MMSG-10545]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(4): Notify: Transaction "UC5_DeletingTicket" started.	[MsgId: MMSG-16999]
+Action.c(6): Notify: Transaction "open_site" started.	[MsgId: MMSG-16999]
+Action.c(8): web_reg_find started  	[MsgId: MMSG-26355]
+Action.c(8): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(12): web_set_sockets_option started  	[MsgId: MMSG-26355]
+Action.c(12): web_set_sockets_option was successful  	[MsgId: MMSG-26392]
+Action.c(14): web_add_auto_header("Sec-Fetch-Dest") started  	[MsgId: MMSG-26355]
+Action.c(14): An unrecognized header ("Sec-Fetch-Dest") is being added  	[MsgId: MMSG-26595]
+Action.c(14): "Sec-Fetch-Dest: frame" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(14): web_add_auto_header("Sec-Fetch-Dest") was successful  	[MsgId: MMSG-26392]
+Action.c(17): web_add_auto_header("Sec-Fetch-Mode") started  	[MsgId: MMSG-26355]
+Action.c(17): An unrecognized header ("Sec-Fetch-Mode") is being added  	[MsgId: MMSG-26595]
+Action.c(17): "Sec-Fetch-Mode: navigate" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(17): web_add_auto_header("Sec-Fetch-Mode") was successful  	[MsgId: MMSG-26392]
+Action.c(20): web_add_auto_header("Sec-Fetch-Site") started  	[MsgId: MMSG-26355]
+Action.c(20): An unrecognized header ("Sec-Fetch-Site") is being added  	[MsgId: MMSG-26595]
+Action.c(20): "Sec-Fetch-Site: same-origin" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(20): web_add_auto_header("Sec-Fetch-Site") was successful  	[MsgId: MMSG-26392]
+Action.c(23): web_add_auto_header("Upgrade-Insecure-Requests") started  	[MsgId: MMSG-26355]
+Action.c(23): An unrecognized header ("Upgrade-Insecure-Requests") is being added  	[MsgId: MMSG-26595]
+Action.c(23): "Upgrade-Insecure-Requests: 1" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(23): web_add_auto_header("Upgrade-Insecure-Requests") was successful  	[MsgId: MMSG-26392]
+Action.c(26): web_add_auto_header("sec-ch-ua") started  	[MsgId: MMSG-26355]
+Action.c(26): An unrecognized header ("sec-ch-ua") is being added  	[MsgId: MMSG-26595]
+Action.c(26): "sec-ch-ua: "Not?A_Brand";v="8", "Chromium";v="108", "Google Chrome";v="108"" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(26): web_add_auto_header("sec-ch-ua") was successful  	[MsgId: MMSG-26392]
+Action.c(29): web_add_auto_header("sec-ch-ua-mobile") started  	[MsgId: MMSG-26355]
+Action.c(29): An unrecognized header ("sec-ch-ua-mobile") is being added  	[MsgId: MMSG-26595]
+Action.c(29): "sec-ch-ua-mobile: ?0" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(29): web_add_auto_header("sec-ch-ua-mobile") was successful  	[MsgId: MMSG-26392]
+Action.c(32): web_add_auto_header("sec-ch-ua-platform") started  	[MsgId: MMSG-26355]
+Action.c(32): An unrecognized header ("sec-ch-ua-platform") is being added  	[MsgId: MMSG-26595]
+Action.c(32): "sec-ch-ua-platform: "Windows"" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(32): web_add_auto_header("sec-ch-ua-platform") was successful  	[MsgId: MMSG-26392]
+Action.c(35): web_url("welcome.pl") started  	[MsgId: MMSG-26355]
+Action.c(35): t=3024483ms: Connecting [0] to host 127.0.0.1:1080  	[MsgId: MMSG-26000]
+Action.c(35): Error -27792: Failed to connect to server "localhost:1080": [10061] Connection refused  	[MsgId: MERR-27792]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 27.	[MsgId: MMSG-10545]
+Action.c(35): t=3026502ms: Closed connection [0] to localhost:1080 after completing 0 request(s)  	[MsgId: MMSG-26000]
+Action.c(35): Error -26366: "Text=Welcome to the Web Tours site." not found for web_reg_find  	[MsgId: MERR-26366]
+Action.c(35): Error -26374: The above "not found" error(s) may be explained by header and body byte counts being 0 and 0, respectively.  	[MsgId: MERR-26374]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+

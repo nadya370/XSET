@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\Надя\OneDrive\Документы\VuGen\Scripts\UC_05_DeletingTicket
+-IC:\Program Files (x86)\Micro Focus\LoadRunner\include
+-ec:\users\надя\onedrive\документы\vugen\scripts\uc_05_deletingticket\\logfile.log
+c:\users\надя\onedrive\документы\vugen\scripts\uc_05_deletingticket\\combined_UC_05_DeletingTicket.c
+c:\users\надя\onedrive\документы\vugen\scripts\uc_05_deletingticket\\pre_cci.c

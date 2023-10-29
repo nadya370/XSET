@@ -1,0 +1,10 @@
+HTTP/1.1 200 OK
+Date: Tue, 21 Mar 2023 13:38:03 GMT
+Server: Apache/2.2.21 (Win32)
+Expires: 5s
+Set-Cookie: MTUserInfo=firstName&Tom&address2&Britannia&username&tom89840643&hash&51&lastName&Riddle&address1&Market%20Street&creditCard&&expDate&; path=/
+Keep-Alive: timeout=5, max=97
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=ISO-8859-1
+

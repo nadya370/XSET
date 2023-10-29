@@ -1,0 +1,3219 @@
+Start auto log messages stack - Iteration 12.	[MsgId: MMSG-10545]
+Action.c(110):     \n
+Action.c(110):     <!-- Flight #1 -->\n
+Action.c(110):     <TR bgcolor="#EFF2F7">\n
+Action.c(110):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+Action.c(110):     <b>\n
+Action.c(110):     <label><input type="checkbox" name="127" value="on" /></label></font></b>\n
+Action.c(110):     <input type="hidden" name="flightID" value="3662882638-977017-HG"  />\n
+Action.c(110):       </TD>\n
+Action.c(110):       <TD width="45%" valign="top">\n
+Action.c(110):           <b>&nbsp;&nbsp;A First class ticket for :</b><br/>\n
+Action.c(110):           <center><table border="0" width="85%"><tr><td>\n
+Action.c(110):           <li><i>HermioneGranger\n
+Action.c(110):           <li><i></i>\n
+Action.c(110):           </td></tr></table></center>\n
+Action.c(110):       </TD>\n
+Action.c(110):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+Action.c(110):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+Action.c(110):           <center>\n
+Action.c(110):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+Action.c(110):               Hermione Granger\n
+Action.c(110):     <br/>\n
+Action.c(110):               Hampstead Garden<br/>\n
+Action.c(110):               London<br/>\n
+Action.c(110):               <br/>\n
+Action.c(110):               Total Charge: $ 1230 <BR/> (CC: x-9889)\n
+Action.c(110):           </td> </tr> </table>\n
+Action.c(110):           </center>\n
+Action.c(110):       </TD>\n
+Action.c(110):     </TR>\n
+Action.c(110):     <TR bgcolor="#EFF2F7">\n
+Action.c(110):       <TD COLSPAN="3">\n
+Action.c(110):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(110):       02/16/2023\n
+Action.c(110):      :  11pm : Flight 783 leaves Seattle  for Sydney.<br>  </center>\n
+Action.c(110):       </TD>\n
+Action.c(110):     </TR>\n
+Action.c(110):     \n
+Action.c(110):     <TR bgcolor="#EFF2F7">\n
+Action.c(110):       <TD COLSPAN="4">\n
+Action.c(110):       <hr/>\n
+Action.c(110):       </TD>\n
+Action.c(110):     </TR>\n
+Action.c(110):     \n
+Action.c(110):     <!-- Flight #1 -->\n
+Action.c(110):     <TR bgcolor="#EFF2F7">\n
+Action.c(110):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+Action.c(110):     <b>\n
+Action.c(110):     <label><input type="checkbox" name="128" value="on" /></label></font></b>\n
+Action.c(110):     <input type="hidden" name="flightID" value="366293752-984710-HG"  />\n
+Action.c(110):       </TD>\n
+Action.c(110):       <TD width="45%" valign="top">\n
+Action.c(110):           <b>&nbsp;&nbsp;4 Coach class tickets for :</b><br/>\n
+Action.c(110):           <center><table border="0" width="85%"><tr><td>\n
+Action.c(110):       
+Action.c(110): t=4147489ms: 6-byte chunked response overhead for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1, Internal ID=261)
+Action.c(110):     1000\r\n
+Action.c(110): t=4147489ms: 2-byte chunked response overhead for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1, Internal ID=261)
+Action.c(110):     \r\n
+Action.c(110): t=4147489ms: 4096-byte chunked response body for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1, Internal ID=261)
+Action.c(110):         <li><i>HermioneGranger      <li><i>HermioneGranger      <li><i>HermioneGranger      <l
+Action.c(110):     i><i>\n
+Action.c(110):           <li><i></i>\n
+Action.c(110):           </td></tr></table></center>\n
+Action.c(110):       </TD>\n
+Action.c(110):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+Action.c(110):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+Action.c(110):           <center>\n
+Action.c(110):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+Action.c(110):               Hermione Granger\n
+Action.c(110):     <br/>\n
+Action.c(110):               Hampstead Garden<br/>\n
+Action.c(110):               London<br/>\n
+Action.c(110):               <br/>\n
+Action.c(110):               Total Charge: $ 1232 <BR/> (CC: x-9889)\n
+Action.c(110):           </td> </tr> </table>\n
+Action.c(110):           </center>\n
+Action.c(110):       </TD>\n
+Action.c(110):     </TR>\n
+Action.c(110):     <TR bgcolor="#EFF2F7">\n
+Action.c(110):       <TD COLSPAN="3">\n
+Action.c(110):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(110):       02/16/2023\n
+Action.c(110):      :  1pm : Flight 931 leaves Zurich  for Los Angeles.<br>  </center>\n
+Action.c(110):       </TD>\n
+Action.c(110):     </TR>\n
+Action.c(110):     \n
+Action.c(110):     <TR bgcolor="#EFF2F7">\n
+Action.c(110):       <TD COLSPAN="4">\n
+Action.c(110):       <hr/>\n
+Action.c(110):       </TD>\n
+Action.c(110):     </TR>\n
+Action.c(110):     \n
+Action.c(110):     <!-- Flight #1 -->\n
+Action.c(110):     <TR bgcolor="#EFF2F7">\n
+Action.c(110):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+Action.c(110):     <b>\n
+Action.c(110):     <label><input type="checkbox" name="129" value="on" /></label></font></b>\n
+Action.c(110):     <input type="hidden" name="flightID" value="366292294-992601-HG"  />\n
+Action.c(110):       </TD>\n
+Action.c(110):       <TD width="45%" valign="top">\n
+Action.c(110):           <b>&nbsp;&nbsp;4 Coach class tickets for :</b><br/>\n
+Action.c(110):           <center><table border="0" width="85%"><tr><td>\n
+Action.c(110):           <li><i>HermioneGranger      <li><i>HermioneGranger      <li><i>HermioneGranger      
+Action.c(110):     <li><i>\n
+Action.c(110):           <li><i></i>\n
+Action.c(110):           </td></tr></table></center>\n
+Action.c(110):       </TD>\n
+Action.c(110):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+Action.c(110):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+Action.c(110):           <center>\n
+Action.c(110):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+Action.c(110):               Hermione Granger\n
+Action.c(110):     <br/>\n
+Action.c(110):               Hampstead Garden<br/>\n
+Action.c(110):               London<br/>\n
+Action.c(110):               <br/>\n
+Action.c(110):               Total Charge: $ 3824 <BR/> (CC: x-9889)\n
+Action.c(110):           </td> </tr> </table>\n
+Action.c(110):           </center>\n
+Action.c(110):       </TD>\n
+Action.c(110):     </TR>\n
+Action.c(110):     <TR bgcolor="#EFF2F7">\n
+Action.c(110):       <TD COLSPAN="3">\n
+Action.c(110):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(110):       02/16/2023\n
+Action.c(110):      :  1pm : Flight 891 leaves Sydney  for Zurich.<br>  </center>\n
+Action.c(110):       </TD>\n
+Action.c(110):     </TR>\n
+Action.c(110):     \n
+Action.c(110):     <TR bgcolor="#EFF2F7">\n
+Action.c(110):       <TD COLSPAN="4">\n
+Action.c(110):       <hr/>\n
+Action.c(110):       </TD>\n
+Action.c(110):     </TR>\n
+Action.c(110):     \n
+Action.c(110):     <!-- Flight #1 -->\n
+Action.c(110):     <TR bgcolor="#EFF2F7">\n
+Action.c(110):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+Action.c(110):     <b>\n
+Action.c(110):     <label><input type="checkbox" name="130" value="on" /></label></font></b>\n
+Action.c(110):     <input type="hidden" name="flightID" value="366293376-100012-HG"  />\n
+Action.c(110):       </TD>\n
+Action.c(110):       <TD width="45%" valign="top">\n
+Action.c(110):           <b>&nbsp;&nbsp;A Coach class ticket for :</b><br/>\n
+Action.c(110):           <center><table border="0" width="85%"><tr><td>\n
+Action.c(110):           <li><i>HermioneGranger\n
+Action.c(110):           <li><i></i>\n
+Action.c(110):           </td></tr></table></center>\n
+Action.c(110):       </TD>\n
+Action.c(110):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+Action.c(110):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+Action.c(110):           <center>\n
+Action.c(110):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+Action.c(110):               Hermione Granger\n
+Action.c(110):     <br/>\n
+Action.c(110):               Hampstead Garden<br/>\n
+Action.c(110):               London<br/>\n
+Action.c(110):               <br/>\n
+Action.c(110):               Total Charge: $ 166 <BR/> (CC: x-9889)\n
+Action.c(110):           </td> </tr> </table>\n
+Action.c(110):           </center>\n
+Action.c(110):       </TD>\n
+Action.c(110):     </TR>\n
+Action.c(110):     <TR bgcolor="#EFF2F7">\n
+Action.c(110):       <TD COLSPAN="3">\n
+Action.c(110):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(110):       02/16/2023\n
+Action.c(110):      :  1pm : Flight 921 leaves Zurich  for London.<br>  </center>\n
+Action.c(110):       </TD>\n
+Action.c(110):     </TR>\n
+Action.c(110):     \n
+Action.c(110):     <TR bgcolor="#EFF2F7">\n
+Action.c(110):       <TD COLSPAN="4">\n
+Action.c(110):       <hr/>\n
+Action.c(110):       </TD>\n
+Action.c(110):     </TR>\n
+Action.c(110):     \n
+Action.c(110):     <!-- Flight #1 -->\n
+Action.c(110):     <TR bgcolor="#EFF2F7">\n
+Action.c(110):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+Action.c(110):     <b>\n
+Action.c(110):     <label><input type="checkbox" name="131" value="on" /></label></font></b>\n
+Action.c(110):     <input type="hidden" name="flightID" value="3662837-1007-HG"  />\n
+Action.c(110):       </TD>\n
+Action.c(110):       <TD width="45%" valign="top">\n
+Action.c(110):           <b>&nbsp;&nbsp;2 First class tickets for :</b><br/>\n
+Action.c(110):           <center><table border="0" width="85%"><tr><td>\n
+Action.c(110):           <li><i>HermioneGranger      <li><i>HermioneGranger\n
+Action.c(110):           <li><i></i>\n
+Action.c(110):           </td></tr></table></center>\n
+Action.c(110):       </TD>\n
+Action.c(110):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+Action.c(110):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+Action.c(110):           <center>\n
+Action.c(110):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+Action.c(110):               Hermione Granger\n
+Action.c(110):     <br/>\n
+Action.c(110):               Hampstead Garden<br/>\n
+Action.c(110):               London<br/>\n
+Action.c(110):               <br/>\n
+Action.c(110):               Total Charge: $ 0 <BR/> (CC: x-9889)\n
+Action.c(110):           </td> </tr> </table>\n
+Action.c(110):           </center>\n
+Action.c(110):       </TD>\n
+Action.c(110):     </TR>\n
+Action.c(110):     <TR bgcolor="#EFF2F7">\n
+Action.c(110):       <TD COLSPAN="3">\n
+Action.c(110):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(110):       02/16/2023\n
+Action.c(110):      :  5pm : Flight 662 leaves San Francisco  for San Francisco.<br>  
+Action.c(110): t=4147490ms: 6-byte chunked response overhead for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1, Internal ID=261)
+Action.c(110):     1000\r\n
+Action.c(110): t=4147490ms: 2-byte chunked response overhead for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1, Internal ID=261)
+Action.c(110):     \r\n
+Action.c(110): t=4147490ms: 4096-byte chunked response body for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1, Internal ID=261)
+Action.c(110):     </center>\n
+Action.c(110):       </TD>\n
+Action.c(110):     </TR>\n
+Action.c(110):     \n
+Action.c(110):     <TR bgcolor="#EFF2F7">\n
+Action.c(110):       <TD COLSPAN="4">\n
+Action.c(110):       <hr/>\n
+Action.c(110):       </TD>\n
+Action.c(110):     </TR>\n
+Action.c(110):     \n
+Action.c(110):     <!-- Flight #1 -->\n
+Action.c(110):     <TR bgcolor="#EFF2F7">\n
+Action.c(110):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+Action.c(110):     <b>\n
+Action.c(110):     <label><input type="checkbox" name="132" value="on" /></label></font></b>\n
+Action.c(110):     <input type="hidden" name="flightID" value="366260832-101612-HG"  />\n
+Action.c(110):       </TD>\n
+Action.c(110):       <TD width="45%" valign="top">\n
+Action.c(110):           <b>&nbsp;&nbsp;2 Business class tickets for :</b><br/>\n
+Action.c(110):           <center><table border="0" width="85%"><tr><td>\n
+Action.c(110):           <li><i>HermioneGranger      <li><i>HermioneGranger\n
+Action.c(110):           <li><i></i>\n
+Action.c(110):           </td></tr></table></center>\n
+Action.c(110):       </TD>\n
+Action.c(110):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+Action.c(110):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+Action.c(110):           <center>\n
+Action.c(110):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+Action.c(110):               Hermione Granger\n
+Action.c(110):     <br/>\n
+Action.c(110):               Hampstead Garden<br/>\n
+Action.c(110):               London<br/>\n
+Action.c(110):               <br/>\n
+Action.c(110):               Total Charge: $ 962 <BR/> (CC: x-9889)\n
+Action.c(110):           </td> </tr> </table>\n
+Action.c(110):           </center>\n
+Action.c(110):       </TD>\n
+Action.c(110):     </TR>\n
+Action.c(110):     <TR bgcolor="#EFF2F7">\n
+Action.c(110):       <TD COLSPAN="3">\n
+Action.c(110):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(110):       02/16/2023\n
+Action.c(110):      :  5pm : Flight 042 leaves Denver  for Paris.<br>  </center>\n
+Action.c(110):       </TD>\n
+Action.c(110):     </TR>\n
+Action.c(110):     \n
+Action.c(110):     <TR bgcolor="#EFF2F7">\n
+Action.c(110):       <TD COLSPAN="4">\n
+Action.c(110):       <hr/>\n
+Action.c(110):       </TD>\n
+Action.c(110):     </TR>\n
+Action.c(110):     \n
+Action.c(110):     <!-- Flight #1 -->\n
+Action.c(110):     <TR bgcolor="#EFF2F7">\n
+Action.c(110):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+Action.c(110):     <b>\n
+Action.c(110):     <label><input type="checkbox" name="133" value="on" /></label></font></b>\n
+Action.c(110):     <input type="hidden" name="flightID" value="366261936-1023161-HG"  />\n
+Action.c(110):       </TD>\n
+Action.c(110):       <TD width="45%" valign="top">\n
+Action.c(110):           <b>&nbsp;&nbsp;4 Coach class tickets for :</b><br/>\n
+Action.c(110):           <center><table border="0" width="85%"><tr><td>\n
+Action.c(110):           <li><i>HermioneGranger      <li><i>HermioneGranger      <li><i>HermioneGranger      
+Action.c(110):     <li><i>\n
+Action.c(110):           <li><i></i>\n
+Action.c(110):           </td></tr></table></center>\n
+Action.c(110):       </TD>\n
+Action.c(110):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+Action.c(110):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+Action.c(110):           <center>\n
+Action.c(110):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+Action.c(110):               Hermione Granger\n
+Action.c(110):     <br/>\n
+Action.c(110):               Hampstead Garden<br/>\n
+Action.c(110):               London<br/>\n
+Action.c(110):               <br/>\n
+Action.c(110):               Total Charge: $ 1104 <BR/> (CC: x-9889)\n
+Action.c(110):           </td> </tr> </table>\n
+Action.c(110):           </center>\n
+Action.c(110):       </TD>\n
+Action.c(110):     </TR>\n
+Action.c(110):     <TR bgcolor="#EFF2F7">\n
+Action.c(110):       <TD COLSPAN="3">\n
+Action.c(110):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(110):       02/16/2023\n
+Action.c(110):      :  5pm : Flight 072 leaves Denver  for Seattle.<br>  </center>\n
+Action.c(110):       </TD>\n
+Action.c(110):     </TR>\n
+Action.c(110):     \n
+Action.c(110):     <TR bgcolor="#EFF2F7">\n
+Action.c(110):       <TD COLSPAN="4">\n
+Action.c(110):       <hr/>\n
+Action.c(110):       </TD>\n
+Action.c(110):     </TR>\n
+Action.c(110):     \n
+Action.c(110):     <!-- Flight #1 -->\n
+Action.c(110):     <TR bgcolor="#EFF2F7">\n
+Action.c(110):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+Action.c(110):     <b>\n
+Action.c(110):     <label><input type="checkbox" name="134" value="on" /></label></font></b>\n
+Action.c(110):     <input type="hidden" name="flightID" value="366289034-1031058-HG"  />\n
+Action.c(110):       </TD>\n
+Action.c(110):       <TD width="45%" valign="top">\n
+Action.c(110):           <b>&nbsp;&nbsp;4 Business class tickets for :</b><br/>\n
+Action.c(110):           <center><table border="0" width="85%"><tr><td>\n
+Action.c(110):           <li><i>HermioneGranger      <li><i>HermioneGranger      <li><i>HermioneGranger      
+Action.c(110):     <li><i>\n
+Action.c(110):           <li><i></i>\n
+Action.c(110):           </td></tr></table></center>\n
+Action.c(110):       </TD>\n
+Action.c(110):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+Action.c(110):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+Action.c(110):           <center>\n
+Action.c(110):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+Action.c(110):               Hermione Granger\n
+Action.c(110):     <br/>\n
+Action.c(110):               Hampstead Garden<br/>\n
+Action.c(110):               London<br/>\n
+Action.c(110):               <br/>\n
+Action.c(110):               Total Charge: $ 3756 <BR/> (CC: x-9889)\n
+Action.c(110):           </td> </tr> </table>\n
+Action.c(110):           </center>\n
+Action.c(110):       </TD>\n
+Action.c(110):     </TR>\n
+Action.c(110):     <TR bgcolor="#EFF2F7">\n
+Action.c(110):       <TD COLSPAN="3">\n
+Action.c(110):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(110):       02/16/2023\n
+Action.c(110):      :  11pm : Flight 803 leaves Sydney  for Denver.<br>  </center>\n
+Action.c(110):       </TD>\n
+Action.c(110):     </TR>\n
+Action.c(110):     \n
+Action.c(110):     <TR bgcolor="#EFF2F7">\n
+Action.c(110):       <TD COLSPAN="4">\n
+Action.c(110):       <hr/>\n
+Action.c(110):       </TD>\n
+Action.c(110):     </TR>\n
+Action.c(110):     \n
+Action.c(110):     <!-- Flight #1 -->\n
+Action.c(110):     <TR bgcolor="#EFF2F7">\n
+Action.c(110):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+Action.c(110):     <b>\n
+Action.c(110):     <label><input type="checkbox" name="135" value="on" /></label></font></b>\n
+Action.c(110):     <input type="hidden" name="flightID" value="366263826-103918-HG"  />\n
+Action.c(110):       </TD>\n
+Action.c(110):       <TD width="45%" valign="top">\n
+Action.c(110):           <b>&nbsp;&nbsp;3 Business class tickets for :</b><br/>\n
+Action.c(110):           <center><table border="0" width="85%"><tr><td>\n
+Action.c(110):           <li><i>HermioneGranger      <li><i>HermioneGranger      <li><i>HermioneGranger\n
+Action.c(110):           <li><i></i>\n
+Action.c(110):           </td></tr></table>
+Action.c(110): t=4147490ms: 6-byte chunked response overhead for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1, Internal ID=261)
+Action.c(110):     1000\r\n
+Action.c(110): t=4147490ms: 2-byte chunked response overhead for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1, Internal ID=261)
+Action.c(110):     \r\n
+Action.c(110): t=4147490ms: 4096-byte chunked response body for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1, Internal ID=261)
+Action.c(110):     </center>\n
+Action.c(110):       </TD>\n
+Action.c(110):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+Action.c(110):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+Action.c(110):           <center>\n
+Action.c(110):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+Action.c(110):               Hermione Granger\n
+Action.c(110):     <br/>\n
+Action.c(110):               Hampstead Garden<br/>\n
+Action.c(110):               London<br/>\n
+Action.c(110):               <br/>\n
+Action.c(110):               Total Charge: $ 945 <BR/> (CC: x-9889)\n
+Action.c(110):           </td> </tr> </table>\n
+Action.c(110):           </center>\n
+Action.c(110):       </TD>\n
+Action.c(110):     </TR>\n
+Action.c(110):     <TR bgcolor="#EFF2F7">\n
+Action.c(110):       <TD COLSPAN="3">\n
+Action.c(110):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(110):       02/16/2023\n
+Action.c(110):      :  11pm : Flight 123 leaves Frankfurt  for London.<br>  </center>\n
+Action.c(110):       </TD>\n
+Action.c(110):     </TR>\n
+Action.c(110):     \n
+Action.c(110):     <TR bgcolor="#EFF2F7">\n
+Action.c(110):       <TD COLSPAN="4">\n
+Action.c(110):       <hr/>\n
+Action.c(110):       </TD>\n
+Action.c(110):     </TR>\n
+Action.c(110):     \n
+Action.c(110):     <!-- Flight #1 -->\n
+Action.c(110):     <TR bgcolor="#EFF2F7">\n
+Action.c(110):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+Action.c(110):     <b>\n
+Action.c(110):     <label><input type="checkbox" name="136" value="on" /></label></font></b>\n
+Action.c(110):     <input type="hidden" name="flightID" value="366287523-104625-HG"  />\n
+Action.c(110):       </TD>\n
+Action.c(110):       <TD width="45%" valign="top">\n
+Action.c(110):           <b>&nbsp;&nbsp;A First class ticket for :</b><br/>\n
+Action.c(110):           <center><table border="0" width="85%"><tr><td>\n
+Action.c(110):           <li><i>HermioneGranger\n
+Action.c(110):           <li><i></i>\n
+Action.c(110):           </td></tr></table></center>\n
+Action.c(110):       </TD>\n
+Action.c(110):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+Action.c(110):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+Action.c(110):           <center>\n
+Action.c(110):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+Action.c(110):               Hermione Granger\n
+Action.c(110):     <br/>\n
+Action.c(110):               Hampstead Garden<br/>\n
+Action.c(110):               London<br/>\n
+Action.c(110):               <br/>\n
+Action.c(110):               Total Charge: $ 133 <BR/> (CC: x-9889)\n
+Action.c(110):           </td> </tr> </table>\n
+Action.c(110):           </center>\n
+Action.c(110):       </TD>\n
+Action.c(110):     </TR>\n
+Action.c(110):     <TR bgcolor="#EFF2F7">\n
+Action.c(110):       <TD COLSPAN="3">\n
+Action.c(110):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(110):       02/16/2023\n
+Action.c(110):      :  11pm : Flight 763 leaves Seattle  for San Francisco.<br>  </center>\n
+Action.c(110):       </TD>\n
+Action.c(110):     </TR>\n
+Action.c(110):     \n
+Action.c(110):     <TR bgcolor="#EFF2F7">\n
+Action.c(110):       <TD COLSPAN="4">\n
+Action.c(110):       <hr/>\n
+Action.c(110):       </TD>\n
+Action.c(110):     </TR>\n
+Action.c(110):     \n
+Action.c(110):     <!-- Flight #1 -->\n
+Action.c(110):     <TR bgcolor="#EFF2F7">\n
+Action.c(110):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+Action.c(110):     <b>\n
+Action.c(110):     <label><input type="checkbox" name="137" value="on" /></label></font></b>\n
+Action.c(110):     <input type="hidden" name="flightID" value="366268190-105406-HG"  />\n
+Action.c(110):       </TD>\n
+Action.c(110):       <TD width="45%" valign="top">\n
+Action.c(110):           <b>&nbsp;&nbsp;2 Business class tickets for :</b><br/>\n
+Action.c(110):           <center><table border="0" width="85%"><tr><td>\n
+Action.c(110):           <li><i>HermioneGranger      <li><i>HermioneGranger\n
+Action.c(110):           <li><i></i>\n
+Action.c(110):           </td></tr></table></center>\n
+Action.c(110):       </TD>\n
+Action.c(110):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+Action.c(110):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+Action.c(110):           <center>\n
+Action.c(110):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+Action.c(110):               Hermione Granger\n
+Action.c(110):     <br/>\n
+Action.c(110):               Hampstead Garden<br/>\n
+Action.c(110):               London<br/>\n
+Action.c(110):               <br/>\n
+Action.c(110):               Total Charge: $ 280 <BR/> (CC: x-9889)\n
+Action.c(110):           </td> </tr> </table>\n
+Action.c(110):           </center>\n
+Action.c(110):       </TD>\n
+Action.c(110):     </TR>\n
+Action.c(110):     <TR bgcolor="#EFF2F7">\n
+Action.c(110):       <TD COLSPAN="3">\n
+Action.c(110):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(110):       02/16/2023\n
+Action.c(110):      :  1pm : Flight 241 leaves London  for Paris.<br>  </center>\n
+Action.c(110):       </TD>\n
+Action.c(110):     </TR>\n
+Action.c(110):     \n
+Action.c(110):     <TR bgcolor="#EFF2F7">\n
+Action.c(110):       <TD COLSPAN="4">\n
+Action.c(110):       <hr/>\n
+Action.c(110):       </TD>\n
+Action.c(110):     </TR>\n
+Action.c(110):     \n
+Action.c(110):     <!-- Flight #1 -->\n
+Action.c(110):     <TR bgcolor="#EFF2F7">\n
+Action.c(110):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+Action.c(110):     <b>\n
+Action.c(110):     <label><input type="checkbox" name="138" value="on" /></label></font></b>\n
+Action.c(110):     <input type="hidden" name="flightID" value="366267082-106190-HG"  />\n
+Action.c(110):       </TD>\n
+Action.c(110):       <TD width="45%" valign="top">\n
+Action.c(110):           <b>&nbsp;&nbsp;2 Coach class tickets for :</b><br/>\n
+Action.c(110):           <center><table border="0" width="85%"><tr><td>\n
+Action.c(110):           <li><i>HermioneGranger      <li><i>HermioneGranger\n
+Action.c(110):           <li><i></i>\n
+Action.c(110):           </td></tr></table></center>\n
+Action.c(110):       </TD>\n
+Action.c(110):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+Action.c(110):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+Action.c(110):           <center>\n
+Action.c(110):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+Action.c(110):               Hermione Granger\n
+Action.c(110):     <br/>\n
+Action.c(110):               Hampstead Garden<br/>\n
+Action.c(110):               London<br/>\n
+Action.c(110):               <br/>\n
+Action.c(110):               Total Charge: $ 474 <BR/> (CC: x-9889)\n
+Action.c(110):           </td> </tr> </table>\n
+Action.c(110):           </center>\n
+Action.c(110):       </TD>\n
+Action.c(110):     </TR>\n
+Action.c(110):     <TR bgcolor="#EFF2F7">\n
+Action.c(110):       <TD COLSPAN="3">\n
+Action.c(110):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(110):       02/16/2023\n
+Action.c(110):      :  1pm : Flight 211 leaves London  for Frankfurt.<br>  </center>\n
+Action.c(110):       </TD>\n
+Action.c(110):     </TR>\n
+Action.c(110):     \n
+Action.c(110):     <TR bgcolor="#EFF2F7">\n
+Action.c(110):       <TD COLSPAN="4">\n
+Action.c(110):       <hr/>\n
+Action.c(110):       </TD>\n
+Action.c(110):     </TR>\n
+Action.c(110):     \n
+Action.c(110):     <!-- Flight #1 -->\n
+Action.c(110):     <TR bgcolor="#EFF2F7">\n
+Action.c(110):       <TD width="5%" rowspan="2" align="left" va
+Action.c(110): t=4147491ms: 6-byte chunked response overhead for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1, Internal ID=261)
+Action.c(110):     1000\r\n
+Action.c(110): t=4147491ms: 2-byte chunked response overhead for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1, Internal ID=261)
+Action.c(110):     \r\n
+Action.c(110): t=4147491ms: 4096-byte chunked response body for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1, Internal ID=261)
+Action.c(110):     lign="top">\n
+Action.c(110):     <b>\n
+Action.c(110):     <label><input type="checkbox" name="139" value="on" /></label></font></b>\n
+Action.c(110):     <input type="hidden" name="flightID" value="366270785-106984-HG"  />\n
+Action.c(110):       </TD>\n
+Action.c(110):       <TD width="45%" valign="top">\n
+Action.c(110):           <b>&nbsp;&nbsp;4 Coach class tickets for :</b><br/>\n
+Action.c(110):           <center><table border="0" width="85%"><tr><td>\n
+Action.c(110):           <li><i>HermioneGranger      <li><i>HermioneGranger      <li><i>HermioneGranger      
+Action.c(110):     <li><i>\n
+Action.c(110):           <li><i></i>\n
+Action.c(110):           </td></tr></table></center>\n
+Action.c(110):       </TD>\n
+Action.c(110):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+Action.c(110):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+Action.c(110):           <center>\n
+Action.c(110):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+Action.c(110):               Hermione Granger\n
+Action.c(110):     <br/>\n
+Action.c(110):               Hampstead Garden<br/>\n
+Action.c(110):               London<br/>\n
+Action.c(110):               <br/>\n
+Action.c(110):               Total Charge: $ 804 <BR/> (CC: x-9889)\n
+Action.c(110):           </td> </tr> </table>\n
+Action.c(110):           </center>\n
+Action.c(110):       </TD>\n
+Action.c(110):     </TR>\n
+Action.c(110):     <TR bgcolor="#EFF2F7">\n
+Action.c(110):       <TD COLSPAN="3">\n
+Action.c(110):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(110):       02/16/2023\n
+Action.c(110):      :  1pm : Flight 311 leaves Los Angeles  for Frankfurt.<br>  </center>\n
+Action.c(110):       </TD>\n
+Action.c(110):     </TR>\n
+Action.c(110):     \n
+Action.c(110):     <TR bgcolor="#EFF2F7">\n
+Action.c(110):       <TD COLSPAN="4">\n
+Action.c(110):       <hr/>\n
+Action.c(110):       </TD>\n
+Action.c(110):     </TR>\n
+Action.c(110):     \n
+Action.c(110):     <!-- Flight #1 -->\n
+Action.c(110):     <TR bgcolor="#EFF2F7">\n
+Action.c(110):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+Action.c(110):     <b>\n
+Action.c(110):     <label><input type="checkbox" name="140" value="on" /></label></font></b>\n
+Action.c(110):     <input type="hidden" name="flightID" value="366260453-1077014-HG"  />\n
+Action.c(110):       </TD>\n
+Action.c(110):       <TD width="45%" valign="top">\n
+Action.c(110):           <b>&nbsp;&nbsp;5 Coach class tickets for :</b><br/>\n
+Action.c(110):           <center><table border="0" width="85%"><tr><td>\n
+Action.c(110):           <li><i>HermioneGranger      <li><i>HermioneGranger      <li><i>HermioneGranger      
+Action.c(110):     <li><i>      <li><i>\n
+Action.c(110):           <li><i></i>\n
+Action.c(110):           </td></tr></table></center>\n
+Action.c(110):       </TD>\n
+Action.c(110):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+Action.c(110):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+Action.c(110):           <center>\n
+Action.c(110):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+Action.c(110):               Hermione Granger\n
+Action.c(110):     <br/>\n
+Action.c(110):               Hampstead Garden<br/>\n
+Action.c(110):               London<br/>\n
+Action.c(110):               <br/>\n
+Action.c(110):               Total Charge: $ 1190 <BR/> (CC: x-9889)\n
+Action.c(110):           </td> </tr> </table>\n
+Action.c(110):           </center>\n
+Action.c(110):       </TD>\n
+Action.c(110):     </TR>\n
+Action.c(110):     <TR bgcolor="#EFF2F7">\n
+Action.c(110):       <TD COLSPAN="3">\n
+Action.c(110):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(110):       02/16/2023\n
+Action.c(110):      :  5pm : Flight 032 leaves Denver  for Los Angeles.<br>  </center>\n
+Action.c(110):       </TD>\n
+Action.c(110):     </TR>\n
+Action.c(110):     \n
+Action.c(110):     <TR bgcolor="#EFF2F7">\n
+Action.c(110):       <TD COLSPAN="4">\n
+Action.c(110):       <hr/>\n
+Action.c(110):       </TD>\n
+Action.c(110):     </TR>\n
+Action.c(110):     \n
+Action.c(110):     <!-- Flight #1 -->\n
+Action.c(110):     <TR bgcolor="#EFF2F7">\n
+Action.c(110):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+Action.c(110):     <b>\n
+Action.c(110):     <label><input type="checkbox" name="141" value="on" /></label></font></b>\n
+Action.c(110):     <input type="hidden" name="flightID" value="366286028-1084853-HG"  />\n
+Action.c(110):       </TD>\n
+Action.c(110):       <TD width="45%" valign="top">\n
+Action.c(110):           <b>&nbsp;&nbsp;4 Business class tickets for :</b><br/>\n
+Action.c(110):           <center><table border="0" width="85%"><tr><td>\n
+Action.c(110):           <li><i>HermioneGranger      <li><i>HermioneGranger      <li><i>HermioneGranger      
+Action.c(110):     <li><i>\n
+Action.c(110):           <li><i></i>\n
+Action.c(110):           </td></tr></table></center>\n
+Action.c(110):       </TD>\n
+Action.c(110):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+Action.c(110):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+Action.c(110):           <center>\n
+Action.c(110):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+Action.c(110):               Hermione Granger\n
+Action.c(110):     <br/>\n
+Action.c(110):               Hampstead Garden<br/>\n
+Action.c(110):               London<br/>\n
+Action.c(110):               <br/>\n
+Action.c(110):               Total Charge: $ 3100 <BR/> (CC: x-9889)\n
+Action.c(110):           </td> </tr> </table>\n
+Action.c(110):           </center>\n
+Action.c(110):       </TD>\n
+Action.c(110):     </TR>\n
+Action.c(110):     <TR bgcolor="#EFF2F7">\n
+Action.c(110):       <TD COLSPAN="3">\n
+Action.c(110):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(110):       02/16/2023\n
+Action.c(110):      :  5pm : Flight 722 leaves Seattle  for London.<br>  </center>\n
+Action.c(110):       </TD>\n
+Action.c(110):     </TR>\n
+Action.c(110):     \n
+Action.c(110):     <TR bgcolor="#EFF2F7">\n
+Action.c(110):       <TD COLSPAN="4">\n
+Action.c(110):       <hr/>\n
+Action.c(110):       </TD>\n
+Action.c(110):     </TR>\n
+Action.c(110):     \n
+Action.c(110):     <!-- Flight #1 -->\n
+Action.c(110):     <TR bgcolor="#EFF2F7">\n
+Action.c(110):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+Action.c(110):     <b>\n
+Action.c(110):     <label><input type="checkbox" name="142" value="on" /></label></font></b>\n
+Action.c(110):     <input type="hidden" name="flightID" value="36628010-109258-HG"  />\n
+Action.c(110):       </TD>\n
+Action.c(110):       <TD width="45%" valign="top">\n
+Action.c(110):           <b>&nbsp;&nbsp;5 Coach class tickets for :</b><br/>\n
+Action.c(110):           <center><table border="0" width="85%"><tr><td>\n
+Action.c(110):           <li><i>HermioneGranger      <li><i>HermioneGranger      <li><i>HermioneGranger      
+Action.c(110):     <li><i>      <li><i>\n
+Action.c(110):           <li><i></i>\n
+Action.c(110):           </td></tr></table></center>\n
+Action.c(110):       </TD>\n
+Action.c(110):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+Action.c(110):       <TD width="45%" valign=top>
+Action.c(110): t=4147492ms: 6-byte chunked response overhead for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1, Internal ID=261)
+Action.c(110):     1000\r\n
+Action.c(110): t=4147492ms: 2-byte chunked response overhead for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1, Internal ID=261)
+Action.c(110):     \r\n
+Action.c(110): t=4147492ms: 4096-byte chunked response body for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1, Internal ID=261)
+Action.c(110):     <b>Invoice sent to:</b><br/>\n
+Action.c(110):           <center>\n
+Action.c(110):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+Action.c(110):               Hermione Granger\n
+Action.c(110):     <br/>\n
+Action.c(110):               Hampstead Garden<br/>\n
+Action.c(110):               London<br/>\n
+Action.c(110):               <br/>\n
+Action.c(110):               Total Charge: $ 355 <BR/> (CC: x-9889)\n
+Action.c(110):           </td> </tr> </table>\n
+Action.c(110):           </center>\n
+Action.c(110):       </TD>\n
+Action.c(110):     </TR>\n
+Action.c(110):     <TR bgcolor="#EFF2F7">\n
+Action.c(110):       <TD COLSPAN="3">\n
+Action.c(110):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(110):       02/16/2023\n
+Action.c(110):      :  5pm : Flight 562 leaves Portland  for San Francisco.<br>  </center>\n
+Action.c(110):       </TD>\n
+Action.c(110):     </TR>\n
+Action.c(110):     \n
+Action.c(110):     <TR bgcolor="#EFF2F7">\n
+Action.c(110):       <TD COLSPAN="4">\n
+Action.c(110):       <hr/>\n
+Action.c(110):       </TD>\n
+Action.c(110):     </TR>\n
+Action.c(110):     \n
+Action.c(110):     <!-- Flight #1 -->\n
+Action.c(110):     <TR bgcolor="#EFF2F7">\n
+Action.c(110):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+Action.c(110):     <b>\n
+Action.c(110):     <label><input type="checkbox" name="143" value="on" /></label></font></b>\n
+Action.c(110):     <input type="hidden" name="flightID" value="366285689-1100186-HG"  />\n
+Action.c(110):       </TD>\n
+Action.c(110):       <TD width="45%" valign="top">\n
+Action.c(110):           <b>&nbsp;&nbsp;4 Business class tickets for :</b><br/>\n
+Action.c(110):           <center><table border="0" width="85%"><tr><td>\n
+Action.c(110):           <li><i>HermioneGranger      <li><i>HermioneGranger      <li><i>HermioneGranger      
+Action.c(110):     <li><i>\n
+Action.c(110):           <li><i></i>\n
+Action.c(110):           </td></tr></table></center>\n
+Action.c(110):       </TD>\n
+Action.c(110):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+Action.c(110):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+Action.c(110):           <center>\n
+Action.c(110):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+Action.c(110):               Hermione Granger\n
+Action.c(110):     <br/>\n
+Action.c(110):               Hampstead Garden<br/>\n
+Action.c(110):               London<br/>\n
+Action.c(110):               <br/>\n
+Action.c(110):               Total Charge: $ 2420 <BR/> (CC: x-9889)\n
+Action.c(110):           </td> </tr> </table>\n
+Action.c(110):           </center>\n
+Action.c(110):       </TD>\n
+Action.c(110):     </TR>\n
+Action.c(110):     <TR bgcolor="#EFF2F7">\n
+Action.c(110):       <TD COLSPAN="3">\n
+Action.c(110):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(110):       02/16/2023\n
+Action.c(110):      :  11pm : Flight 713 leaves Seattle  for Frankfurt.<br>  </center>\n
+Action.c(110):       </TD>\n
+Action.c(110):     </TR>\n
+Action.c(110):     \n
+Action.c(110):     <TR bgcolor="#EFF2F7">\n
+Action.c(110):       <TD COLSPAN="4">\n
+Action.c(110):       <hr/>\n
+Action.c(110):       </TD>\n
+Action.c(110):     </TR>\n
+Action.c(110):     \n
+Action.c(110):     <!-- Flight #1 -->\n
+Action.c(110):     <TR bgcolor="#EFF2F7">\n
+Action.c(110):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+Action.c(110):     <b>\n
+Action.c(110):     <label><input type="checkbox" name="144" value="on" /></label></font></b>\n
+Action.c(110):     <input type="hidden" name="flightID" value="366259762-1107874-HG"  />\n
+Action.c(110):       </TD>\n
+Action.c(110):       <TD width="45%" valign="top">\n
+Action.c(110):           <b>&nbsp;&nbsp;4 First class tickets for :</b><br/>\n
+Action.c(110):           <center><table border="0" width="85%"><tr><td>\n
+Action.c(110):           <li><i>HermioneGranger      <li><i>HermioneGranger      <li><i>HermioneGranger      
+Action.c(110):     <li><i>\n
+Action.c(110):           <li><i></i>\n
+Action.c(110):           </td></tr></table></center>\n
+Action.c(110):       </TD>\n
+Action.c(110):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+Action.c(110):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+Action.c(110):           <center>\n
+Action.c(110):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+Action.c(110):               Hermione Granger\n
+Action.c(110):     <br/>\n
+Action.c(110):               Hampstead Garden<br/>\n
+Action.c(110):               London<br/>\n
+Action.c(110):               <br/>\n
+Action.c(110):               Total Charge: $ 2368 <BR/> (CC: x-9889)\n
+Action.c(110):           </td> </tr> </table>\n
+Action.c(110):           </center>\n
+Action.c(110):       </TD>\n
+Action.c(110):     </TR>\n
+Action.c(110):     <TR bgcolor="#EFF2F7">\n
+Action.c(110):       <TD COLSPAN="3">\n
+Action.c(110):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(110):       02/16/2023\n
+Action.c(110):      :  11pm : Flight 013 leaves Denver  for Frankfurt.<br>  </center>\n
+Action.c(110):       </TD>\n
+Action.c(110):     </TR>\n
+Action.c(110):     \n
+Action.c(110):     <TR bgcolor="#EFF2F7">\n
+Action.c(110):       <TD COLSPAN="4">\n
+Action.c(110):       <hr/>\n
+Action.c(110):       </TD>\n
+Action.c(110):     </TR>\n
+Action.c(110):     \n
+Action.c(110):     <!-- Flight #1 -->\n
+Action.c(110):     <TR bgcolor="#EFF2F7">\n
+Action.c(110):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+Action.c(110):     <b>\n
+Action.c(110):     <label><input type="checkbox" name="145" value="on" /></label></font></b>\n
+Action.c(110):     <input type="hidden" name="flightID" value="366295699-1115722-HG"  />\n
+Action.c(110):       </TD>\n
+Action.c(110):       <TD width="45%" valign="top">\n
+Action.c(110):           <b>&nbsp;&nbsp;5 Coach class tickets for :</b><br/>\n
+Action.c(110):           <center><table border="0" width="85%"><tr><td>\n
+Action.c(110):           <li><i>HermioneGranger      <li><i>HermioneGranger      <li><i>HermioneGranger      
+Action.c(110):     <li><i>      <li><i>\n
+Action.c(110):           <li><i></i>\n
+Action.c(110):           </td></tr></table></center>\n
+Action.c(110):       </TD>\n
+Action.c(110):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+Action.c(110):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+Action.c(110):           <center>\n
+Action.c(110):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+Action.c(110):               Hermione Granger\n
+Action.c(110):     <br/>\n
+Action.c(110):               Hampstead Garden<br/>\n
+Action.c(110):               London<br/>\n
+Action.c(110):               <br/>\n
+Action.c(110):               Total Charge: $ 4390 <BR/> (CC: x-9889)\n
+Action.c(110):           </td> </tr> </table>\n
+Action.c(110):           </center>\n
+Action.c(110):       </TD>\n
+Action.c(110):     </TR>\n
+Action.c(110):     <TR bgcolor="#EFF2F7">\n
+Action.c(110):       <TD COLSPAN="3">\n
+Action.c(110):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(110):       02/16/2023\n
+Action.c(110):      :  11pm : Flight 983 leaves Zurich  for Sydney.<br>  </center>\n
+Action.c(110):       </TD>\n
+Action.c(110):     </TR>\n
+Action.c(110):     \n
+Action.c(110):     <TR bgcolor="#EFF2F7">\n
+Action.c(110):       <TD COLSPAN="4">\n
+Action.c(110):       <hr/>\n
+Action.c(110):       </TD>\n
+Action.c(110):     </TR>\n
+Action.c(110):     \n
+Action.c(110):     <
+Action.c(110): t=4147493ms: 6-byte chunked response overhead for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1, Internal ID=261)
+Action.c(110):     1000\r\n
+Action.c(110): t=4147493ms: 2-byte chunked response overhead for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1, Internal ID=261)
+Action.c(110):     \r\n
+Action.c(110): t=4147493ms: 4096-byte chunked response body for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1, Internal ID=261)
+Action.c(110):     !-- Flight #1 -->\n
+Action.c(110):     <TR bgcolor="#EFF2F7">\n
+Action.c(110):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+Action.c(110):     <b>\n
+Action.c(110):     <label><input type="checkbox" name="146" value="on" /></label></font></b>\n
+Action.c(110):     <input type="hidden" name="flightID" value="366277417-1123180-HG"  />\n
+Action.c(110):       </TD>\n
+Action.c(110):       <TD width="45%" valign="top">\n
+Action.c(110):           <b>&nbsp;&nbsp;5 First class tickets for :</b><br/>\n
+Action.c(110):           <center><table border="0" width="85%"><tr><td>\n
+Action.c(110):           <li><i>HermioneGranger      <li><i>HermioneGranger      <li><i>HermioneGranger      
+Action.c(110):     <li><i>      <li><i>\n
+Action.c(110):           <li><i></i>\n
+Action.c(110):           </td></tr></table></center>\n
+Action.c(110):       </TD>\n
+Action.c(110):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+Action.c(110):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+Action.c(110):           <center>\n
+Action.c(110):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+Action.c(110):               Hermione Granger\n
+Action.c(110):     <br/>\n
+Action.c(110):               Hampstead Garden<br/>\n
+Action.c(110):               London<br/>\n
+Action.c(110):               <br/>\n
+Action.c(110):               Total Charge: $ 1340 <BR/> (CC: x-9889)\n
+Action.c(110):           </td> </tr> </table>\n
+Action.c(110):           </center>\n
+Action.c(110):       </TD>\n
+Action.c(110):     </TR>\n
+Action.c(110):     <TR bgcolor="#EFF2F7">\n
+Action.c(110):       <TD COLSPAN="3">\n
+Action.c(110):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(110):       02/16/2023\n
+Action.c(110):      :  8am : Flight 490 leaves Paris  for Zurich.<br>  </center>\n
+Action.c(110):       </TD>\n
+Action.c(110):     </TR>\n
+Action.c(110):     \n
+Action.c(110):     <TR bgcolor="#EFF2F7">\n
+Action.c(110):       <TD COLSPAN="4">\n
+Action.c(110):       <hr/>\n
+Action.c(110):       </TD>\n
+Action.c(110):     </TR>\n
+Action.c(110):     \n
+Action.c(110):     <!-- Flight #1 -->\n
+Action.c(110):     <TR bgcolor="#EFF2F7">\n
+Action.c(110):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+Action.c(110):     <b>\n
+Action.c(110):     <label><input type="checkbox" name="147" value="on" /></label></font></b>\n
+Action.c(110):     <input type="hidden" name="flightID" value="366265201-113110-HG"  />\n
+Action.c(110):       </TD>\n
+Action.c(110):       <TD width="45%" valign="top">\n
+Action.c(110):           <b>&nbsp;&nbsp;A Coach class ticket for :</b><br/>\n
+Action.c(110):           <center><table border="0" width="85%"><tr><td>\n
+Action.c(110):           <li><i>HermioneGranger\n
+Action.c(110):           <li><i></i>\n
+Action.c(110):           </td></tr></table></center>\n
+Action.c(110):       </TD>\n
+Action.c(110):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+Action.c(110):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+Action.c(110):           <center>\n
+Action.c(110):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+Action.c(110):               Hermione Granger\n
+Action.c(110):     <br/>\n
+Action.c(110):               Hampstead Garden<br/>\n
+Action.c(110):               London<br/>\n
+Action.c(110):               <br/>\n
+Action.c(110):               Total Charge: $ 431 <BR/> (CC: x-9889)\n
+Action.c(110):           </td> </tr> </table>\n
+Action.c(110):           </center>\n
+Action.c(110):       </TD>\n
+Action.c(110):     </TR>\n
+Action.c(110):     <TR bgcolor="#EFF2F7">\n
+Action.c(110):       <TD COLSPAN="3">\n
+Action.c(110):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(110):       02/16/2023\n
+Action.c(110):      :  8am : Flight 160 leaves Frankfurt  for San Francisco.<br>  </center>\n
+Action.c(110):       </TD>\n
+Action.c(110):     </TR>\n
+Action.c(110):     \n
+Action.c(110):     <TR bgcolor="#EFF2F7">\n
+Action.c(110):       <TD COLSPAN="4">\n
+Action.c(110):       <hr/>\n
+Action.c(110):       </TD>\n
+Action.c(110):     </TR>\n
+Action.c(110):     \n
+Action.c(110):     <!-- Flight #1 -->\n
+Action.c(110):     <TR bgcolor="#EFF2F7">\n
+Action.c(110):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+Action.c(110):     <b>\n
+Action.c(110):     <label><input type="checkbox" name="148" value="on" /></label></font></b>\n
+Action.c(110):     <input type="hidden" name="flightID" value="3662685223-1138781-HG"  />\n
+Action.c(110):       </TD>\n
+Action.c(110):       <TD width="45%" valign="top">\n
+Action.c(110):           <b>&nbsp;&nbsp;4 First class tickets for :</b><br/>\n
+Action.c(110):           <center><table border="0" width="85%"><tr><td>\n
+Action.c(110):           <li><i>HermioneGranger      <li><i>HermioneGranger      <li><i>HermioneGranger      
+Action.c(110):     <li><i>\n
+Action.c(110):           <li><i></i>\n
+Action.c(110):           </td></tr></table></center>\n
+Action.c(110):       </TD>\n
+Action.c(110):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+Action.c(110):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+Action.c(110):           <center>\n
+Action.c(110):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+Action.c(110):               Hermione Granger\n
+Action.c(110):     <br/>\n
+Action.c(110):               Hampstead Garden<br/>\n
+Action.c(110):               London<br/>\n
+Action.c(110):               <br/>\n
+Action.c(110):               Total Charge: $ 4164 <BR/> (CC: x-9889)\n
+Action.c(110):           </td> </tr> </table>\n
+Action.c(110):           </center>\n
+Action.c(110):       </TD>\n
+Action.c(110):     </TR>\n
+Action.c(110):     <TR bgcolor="#EFF2F7">\n
+Action.c(110):       <TD COLSPAN="3">\n
+Action.c(110):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(110):       02/16/2023\n
+Action.c(110):      :  8am : Flight 250 leaves London  for Portland.<br>  </center>\n
+Action.c(110):       </TD>\n
+Action.c(110):     </TR>\n
+Action.c(110):     \n
+Action.c(110):     <TR bgcolor="#EFF2F7">\n
+Action.c(110):       <TD COLSPAN="4">\n
+Action.c(110):       <hr/>\n
+Action.c(110):       </TD>\n
+Action.c(110):     </TR>\n
+Action.c(110):     \n
+Action.c(110):     <!-- Flight #1 -->\n
+Action.c(110):     <TR bgcolor="#EFF2F7">\n
+Action.c(110):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+Action.c(110):     <b>\n
+Action.c(110):     <label><input type="checkbox" name="149" value="on" /></label></font></b>\n
+Action.c(110):     <input type="hidden" name="flightID" value="366266724-114658-HG"  />\n
+Action.c(110):       </TD>\n
+Action.c(110):       <TD width="45%" valign="top">\n
+Action.c(110):           <b>&nbsp;&nbsp;A First class ticket for :</b><br/>\n
+Action.c(110):           <center><table border="0" width="85%"><tr><td>\n
+Action.c(110):           <li><i>HermioneGranger\n
+Action.c(110):           <li><i></i>\n
+Action.c(110):           </td></tr></table></center>\n
+Action.c(110):       </TD>\n
+Action.c(110):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+Action.c(110):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+Action.c(110):           <center>\n
+Action.c(110):           <Table width="80%" cel
+Action.c(110): t=4147496ms: 6-byte chunked response overhead for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1, Internal ID=261)
+Action.c(110):     2000\r\n
+Action.c(110): t=4147496ms: 2-byte chunked response overhead for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1, Internal ID=261)
+Action.c(110):     \r\n
+Action.c(110): t=4147496ms: 8192-byte chunked response body for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1, Internal ID=261)
+Action.c(110):     lspacing="0" > <tr> <td>\n
+Action.c(110):               Hermione Granger\n
+Action.c(110):     <br/>\n
+Action.c(110):               Hampstead Garden<br/>\n
+Action.c(110):               London<br/>\n
+Action.c(110):               <br/>\n
+Action.c(110):               Total Charge: $ 565 <BR/> (CC: x-9889)\n
+Action.c(110):           </td> </tr> </table>\n
+Action.c(110):           </center>\n
+Action.c(110):       </TD>\n
+Action.c(110):     </TR>\n
+Action.c(110):     <TR bgcolor="#EFF2F7">\n
+Action.c(110):       <TD COLSPAN="3">\n
+Action.c(110):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(110):       02/16/2023\n
+Action.c(110):      :  1pm : Flight 201 leaves London  for Denver.<br>  </center>\n
+Action.c(110):       </TD>\n
+Action.c(110):     </TR>\n
+Action.c(110):     \n
+Action.c(110):     <TR bgcolor="#EFF2F7">\n
+Action.c(110):       <TD COLSPAN="4">\n
+Action.c(110):       <hr/>\n
+Action.c(110):       </TD>\n
+Action.c(110):     </TR>\n
+Action.c(110):     <TR>\n
+Action.c(110):        <TD align="center" COLSPAN="4">\n
+Action.c(110):        <b>A total of 149 scheduled flights.</font></b>\n
+Action.c(110):        </TD>\n
+Action.c(110):     </TR>\n
+Action.c(110):     </TABLE>\n
+Action.c(110):     \n
+Action.c(110):     <TABLE WIDTH="87%" BORDER="0" CELLSPACING="0">\n
+Action.c(110):     <TR>\n
+Action.c(110):     <TD align="left" width="50%" >\n
+Action.c(110):     <input type="image" name="removeFlights" src="/WebTours/images/cancelreservation.gif" bord
+Action.c(110):     er="0" /></TD>\n
+Action.c(110):     <TD align="right" width="50%" >\n
+Action.c(110):     <input type="image" name="removeAllFlights" src="/WebTours/images/cancelallreservations.gi
+Action.c(110):     f" border="0" /></TD>\n
+Action.c(110):     </TABLE>\n
+Action.c(110):     \n
+Action.c(110):     <div><input type="hidden" name=".cgifields" value="127"  /><input type="hidden" name=".cgi
+Action.c(110):     fields" value="32"  /><input type="hidden" name=".cgifields" value="90"  /><input type="hi
+Action.c(110):     dden" name=".cgifields" value="118"  /><input type="hidden" name=".cgifields" value="71"  
+Action.c(110):     /><input type="hidden" name=".cgifields" value="102"  /><input type="hidden" name=".cgifie
+Action.c(110):     lds" value="18"  /><input type="hidden" name=".cgifields" value="125"  /><input type="hidd
+Action.c(110):     en" name=".cgifields" value="16"  /><input type="hidden" name=".cgifields" value="44"  /><
+Action.c(110):     input type="hidden" name=".cgifields" value="55"  /><input type="hidden" name=".cgifields"
+Action.c(110):      value="84"  /><input type="hidden" name=".cgifields" value="27"  /><input type="hidden" n
+Action.c(110):     ame=".cgifields" value="95"  /><input type="hidden" name=".cgifields" value="57"  /><input
+Action.c(110):      type="hidden" name=".cgifields" value="20"  /><input type="hidden" name=".cgifields" valu
+Action.c(110):     e="109"  /><input type="hidden" name=".cgifields" value="89"  /><input type="hidden" name=
+Action.c(110):     ".cgifields" value="148"  /><input type="hidden" name=".cgifields" value="31"  /><input ty
+Action.c(110):     pe="hidden" name=".cgifields" value="35"  /><input type="hidden" name=".cgifields" value="
+Action.c(110):     11"  /><input type="hidden" name=".cgifields" value="78"  /><input type="hidden" name=".cg
+Action.c(110):     ifields" value="93"  /><input type="hidden" name=".cgifields" value="106"  /><input type="
+Action.c(110):     hidden" name=".cgifields" value="65"  /><input type="hidden" name=".cgifields" value="29" 
+Action.c(110):      /><input type="hidden" name=".cgifields" value="138"  /><input type="hidden" name=".cgifi
+Action.c(110):     elds" value="114"  /><input type="hidden" name=".cgifields" value="58"  /><input type="hid
+Action.c(110):     den" name=".cgifields" value="15"  /><input type="hidden" name=".cgifields" value="137"  /
+Action.c(110):     ><input type="hidden" name=".cgifields" value="81"  /><input type="hidden" name=".cgifield
+Action.c(110):     s" value="60"  /><input type="hidden" name=".cgifields" value="101"  /><input type="hidden
+Action.c(110):     " name=".cgifields" value="73"  /><input type="hidden" name=".cgifields" value="86"  /><in
+Action.c(110):     put type="hidden" name=".cgifields" value="76"  /><input type="hidden" name=".cgifields" v
+Action.c(110):     alue="62"  /><input type="hidden" name=".cgifields" value="67"  /><input type="hidden" nam
+Action.c(110):     e=".cgifields" value="139"  /><input type="hidden" name=".cgifields" value="129"  /><input
+Action.c(110):      type="hidden" name=".cgifields" value="2"  /><input type="hidden" name=".cgifields" value
+Action.c(110):     ="17"  /><input type="hidden" name=".cgifields" value="110"  /><input type="hidden" name="
+Action.c(110):     .cgifields" value="82"  /><input type="hidden" name=".cgifields" value="147"  /><input typ
+Action.c(110):     e="hidden" name=".cgifields" value="135"  /><input type="hidden" name=".cgifields" value="
+Action.c(110):     14"  /><input type="hidden" name=".cgifields" value="112"  /><input type="hidden" name=".c
+Action.c(110):     gifields" value="69"  /><input type="hidden" name=".cgifields" value="145"  /><input type=
+Action.c(110):     "hidden" name=".cgifields" value="49"  /><input type="hidden" name=".cgifields" value="24"
+Action.c(110):       /><input type="hidden" name=".cgifields" value="140"  /><input type="hidden" name=".cgif
+Action.c(110):     ields" value="124"  /><input type="hidden" name=".cgifields" value="104"  /><input type="h
+Action.c(110):     idden" name=".cgifields" value="131"  /><input type="hidden" name=".cgifields" value="121"
+Action.c(110):       /><input type="hidden" name=".cgifields" value="79"  /><input type="hidden" name=".cgifi
+Action.c(110):     elds" value="23"  /><input type="hidden" name=".cgifields" value="96"  /><input type="hidd
+Action.c(110):     en" name=".cgifields" value="126"  /><input type="hidden" name=".cgifields" value="47"  />
+Action.c(110):     <input type="hidden" name=".cgifields" value="8"  /><input type="hidden" name=".cgifields"
+Action.c(110):      value="98"  /><input type="hidden" name=".cgifields" value="37"  /><input type="hidden" n
+Action.c(110):     ame=".cgifields" value="117"  /><input type="hidden" name=".cgifields" value="43"  /><inpu
+Action.c(110):     t type="hidden" name=".cgifields" value="5"  /><input type="hidden" name=".cgifields" valu
+Action.c(110):     e="33"  /><input type="hidden" name=".cgifields" value="21"  /><input type="hidden" name="
+Action.c(110):     .cgifields" value="63"  /><input type="hidden" name=".cgifields" value="7"  /><input type=
+Action.c(110):     "hidden" name=".cgifields" value="26"  /><input type="hidden" name=".cgifields" value="80"
+Action.c(110):       /><input type="hidden" name=".cgifields" value="119"  /><input type="hidden" name=".cgif
+Action.c(110):     ields" value="99"  /><input type="hidden" name=".cgifields" value="72"  /><input type="hid
+Action.c(110):     den" name=".cgifields" value="74"  /><input type="hidden" name=".cgifields" value="61"  />
+Action.c(110):     <input type="hidden" name=".cgifields" value="108"  /><input type="hidden" name=".cgifield
+Action.c(110):     s" value="115"  /><input type="hidden" name=".cgifields" value="92"  /><input type="hidden
+Action.c(110):     " name=".cgifields" value="103"  /><input type="hidden" name=".cgifields" value="10"  /><i
+Action.c(110):     nput type="hidden" name=".cgifields" value="113"  /><input type="hidden" name=".cgifields"
+Action.c(110):      value="142"  /><input type="hidden" name=".cgifields" value="91"  /><input type="hidden" 
+Action.c(110):     name=".cgifields" value="48"  /><input type="hidden" name=".cgifields" value="107"  /><inp
+Action.c(110):     ut type="hidden" name=".cgifields" value="87"  /><input type="hidden" name=".cgifields" va
+Action.c(110):     lue="77"  /><input type="hidden" name=".cgifields" value="133"  /><input type="hidden" nam
+Action.c(110):     e=".cgifields" value="149"  /><input type="hidden" name=".cgifields" value="123"  /><input
+Action.c(110):      type="hidden" name=".cgifields" value="50"  /><input type="hidden" name=".cgifields" valu
+Action.c(110):     e="39"  /><input type="hidden" name=".cgifields" value="64"  /><input type="hidden" name="
+Action.c(110):     .cgifields" value="97"  /><input type="hidden" name=".cgifields" value="12"  /><input type
+Action.c(110):     ="hidden" name=".cgifields" value="41"  /><input type="hidden" name=".cgifields" value="52
+Action.c(110):     "  /><input type="hidden" name=".cgifields" value="56"  /><input type="hidden" name=".cgif
+Action.c(110):     ields" value="45"  /><input type="hidden" name=".cgifields" value="66"  /><input type="hid
+Action.c(110):     den" name=".cgifields" value="19"  /><input type="hidden" name=".cgifields" value="54"  />
+Action.c(110):     <input type="hidden" name=".cgifields" value="70"  /><input type="hidden" name=".cgifields
+Action.c(110):     " value="68"  /><input type="hidden" name=".cgifields" value="1"  /><input type="hidden" n
+Action.c(110):     ame=".cgifields" value="136"  /><input type="hidden" name=".cgifields" value="88"  /><inpu
+Action.c(110):     t type="hidden" name=".cgifields" value="116"  /><input type="hidden" name=".cgifields" va
+Action.c(110):     lue="144"  /><input type="hidden" name=".cgifields" value="141"  /><input type="hidden" na
+Action.c(110):     me=".cgifields" value="30"  /><input type="hidden" name=".cgifields" value="100"  /><input
+Action.c(110):      type="hidden" name=".cgifields" value="25"  /><input type="hidden" name=".cgifields" valu
+Action.c(110):     e="128"  /><input type="hidden" name=".cgifields" value="28"  /><input type="hidden" name=
+Action.c(110):     ".cgifields" value="120"  /><input type="hidden" name=".cgifields" value="134"  /><input t
+Action.c(110):     ype="hidden" name=".cgifields" value="40"  /><input type="hidden" name=".cgifields" value=
+Action.c(110):     "75"  /><input type="hidden" name=".cgifields" value="83"  /><input type="hidden" name=".c
+Action.c(110):     gifields" value="59"  /><input type="hidden" name=".cgifields" value="130"  /><input type=
+Action.c(110):     "hidden" name=".cgifields" value="53"  /><input type="hidden" name=".cgifields" value="122
+Action.c(110):     "  /><input type="hidden" name=".cgifields" value="143"  /><input type="hidden" name=".cgi
+Action.c(110):     fields" value="42"  /><input type="hidden" name=".cgifields" value="22"  /><input type="hi
+Action.c(110):     dden" name=".cgifields" value="46"  /><input type="hidden" name=".cgifields" value="13"  /
+Action.c(110):     ><input type="hidden" name=".cgifields" value="105"  /><input t
+Action.c(110): Resource "http://localhost:1080/WebTours/images/cancelreservation.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(110): Resource "http://localhost:1080/WebTours/images/cancelallreservations.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(110): t=4147497ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1, Internal ID=261)
+Action.c(110):     2d1\r\n
+Action.c(110): t=4147497ms: 2-byte chunked response overhead for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1, Internal ID=261)
+Action.c(110):     \r\n
+Action.c(110): t=4147497ms: 721-byte chunked response body for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1, Internal ID=261)
+Action.c(110):     ype="hidden" name=".cgifields" value="6"  /><input type="hidden" name=".cgifields" value="
+Action.c(110):     85"  /><input type="hidden" name=".cgifields" value="36"  /><input type="hidden" name=".cg
+Action.c(110):     ifields" value="3"  /><input type="hidden" name=".cgifields" value="94"  /><input type="hi
+Action.c(110):     dden" name=".cgifields" value="146"  /><input type="hidden" name=".cgifields" value="51"  
+Action.c(110):     /><input type="hidden" name=".cgifields" value="9"  /><input type="hidden" name=".cgifield
+Action.c(110):     s" value="111"  /><input type="hidden" name=".cgifields" value="38"  /><input type="hidden
+Action.c(110):     " name=".cgifields" value="4"  /><input type="hidden" name=".cgifields" value="34"  /><inp
+Action.c(110):     ut type="hidden" name=".cgifields" value="132"  /></div></form>\n
+Action.c(110):     \n
+Action.c(110):     </center>\n
+Action.c(110):     \n
+Action.c(110):     </body>\n
+Action.c(110):     </html>
+Action.c(110): t=4147500ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1, Internal ID=261)
+Action.c(110):     0\r\n
+Action.c(110):     \r\n
+Action.c(110): t=4147500ms: Request done "http://localhost:1080/cgi-bin/itinerary.pl"  	[MsgId: MMSG-26000]
+Action.c(110): Error -26368: "Text=3662659705-8005-HG" found for web_reg_find (count=1)  	[MsgId: MERR-26368]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 35.	[MsgId: MMSG-10545]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(4): Notify: Transaction "UC5_DeletingTicket" started.	[MsgId: MMSG-16999]
+Action.c(6): Notify: Transaction "open_site" started.	[MsgId: MMSG-16999]
+Action.c(8): web_reg_find started  	[MsgId: MMSG-26355]
+Action.c(8): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(12): web_set_sockets_option started  	[MsgId: MMSG-26355]
+Action.c(12): web_set_sockets_option was successful  	[MsgId: MMSG-26392]
+Action.c(14): web_add_auto_header("Sec-Fetch-Dest") started  	[MsgId: MMSG-26355]
+Action.c(14): An unrecognized header ("Sec-Fetch-Dest") is being added  	[MsgId: MMSG-26595]
+Action.c(14): "Sec-Fetch-Dest: frame" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(14): web_add_auto_header("Sec-Fetch-Dest") was successful  	[MsgId: MMSG-26392]
+Action.c(17): web_add_auto_header("Sec-Fetch-Mode") started  	[MsgId: MMSG-26355]
+Action.c(17): An unrecognized header ("Sec-Fetch-Mode") is being added  	[MsgId: MMSG-26595]
+Action.c(17): "Sec-Fetch-Mode: navigate" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(17): web_add_auto_header("Sec-Fetch-Mode") was successful  	[MsgId: MMSG-26392]
+Action.c(20): web_add_auto_header("Sec-Fetch-Site") started  	[MsgId: MMSG-26355]
+Action.c(20): An unrecognized header ("Sec-Fetch-Site") is being added  	[MsgId: MMSG-26595]
+Action.c(20): "Sec-Fetch-Site: same-origin" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(20): web_add_auto_header("Sec-Fetch-Site") was successful  	[MsgId: MMSG-26392]
+Action.c(23): web_add_auto_header("Upgrade-Insecure-Requests") started  	[MsgId: MMSG-26355]
+Action.c(23): An unrecognized header ("Upgrade-Insecure-Requests") is being added  	[MsgId: MMSG-26595]
+Action.c(23): "Upgrade-Insecure-Requests: 1" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(23): web_add_auto_header("Upgrade-Insecure-Requests") was successful  	[MsgId: MMSG-26392]
+Action.c(26): web_add_auto_header("sec-ch-ua") started  	[MsgId: MMSG-26355]
+Action.c(26): An unrecognized header ("sec-ch-ua") is being added  	[MsgId: MMSG-26595]
+Action.c(26): "sec-ch-ua: "Not?A_Brand";v="8", "Chromium";v="108", "Google Chrome";v="108"" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(26): web_add_auto_header("sec-ch-ua") was successful  	[MsgId: MMSG-26392]
+Action.c(29): web_add_auto_header("sec-ch-ua-mobile") started  	[MsgId: MMSG-26355]
+Action.c(29): An unrecognized header ("sec-ch-ua-mobile") is being added  	[MsgId: MMSG-26595]
+Action.c(29): "sec-ch-ua-mobile: ?0" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(29): web_add_auto_header("sec-ch-ua-mobile") was successful  	[MsgId: MMSG-26392]
+Action.c(32): web_add_auto_header("sec-ch-ua-platform") started  	[MsgId: MMSG-26355]
+Action.c(32): An unrecognized header ("sec-ch-ua-platform") is being added  	[MsgId: MMSG-26595]
+Action.c(32): "sec-ch-ua-platform: "Windows"" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(32): web_add_auto_header("sec-ch-ua-platform") was successful  	[MsgId: MMSG-26392]
+Action.c(35): web_url("welcome.pl") started  	[MsgId: MMSG-26355]
+Action.c(35): t=4886493ms: Connecting [0] to host 127.0.0.1:1080  	[MsgId: MMSG-26000]
+Action.c(35): t=4886493ms: Connected socket [0] from 127.0.0.1:8564 to 127.0.0.1:1080 in 0 ms  	[MsgId: MMSG-26000]
+Action.c(35): t=4886493ms: 599-byte request headers for "http://localhost:1080/cgi-bin/welcome.pl?signOff=true" (RelFrameId=1, Internal ID=749)
+Action.c(35):     GET /cgi-bin/welcome.pl?signOff=true HTTP/1.1\r\n
+Action.c(35):     Referer: http://localhost:1080/WebTours/\r\n
+Action.c(35):     Sec-Fetch-Dest: frame\r\n
+Action.c(35):     Sec-Fetch-Mode: navigate\r\n
+Action.c(35):     Sec-Fetch-Site: same-origin\r\n
+Action.c(35):     Upgrade-Insecure-Requests: 1\r\n
+Action.c(35):     sec-ch-ua: "Not?A_Brand";v="8", "Chromium";v="108", "Google Chrome";v="108"\r\n
+Action.c(35):     sec-ch-ua-mobile: ?0\r\n
+Action.c(35):     sec-ch-ua-platform: "Windows"\r\n
+Action.c(35):     User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck
+Action.c(35):     o) Chrome/108.0.0.0 Safari/537.36\r\n
+Action.c(35):     Accept-Encoding: gzip, deflate\r\n
+Action.c(35):     Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7\r\n
+Action.c(35):     Accept: */*\r\n
+Action.c(35):     Connection: Keep-Alive\r\n
+Action.c(35):     Host: localhost:1080\r\n
+Action.c(35):     \r\n
+Action.c(35): t=4886808ms: 328-byte response headers for "http://localhost:1080/cgi-bin/welcome.pl?signOff=true" (RelFrameId=1, Internal ID=749)
+Action.c(35):     HTTP/1.1 200 OK\r\n
+Action.c(35):     Date: Tue, 14 Feb 2023 11:13:25 GMT\r\n
+Action.c(35):     Server: Apache/2.2.21 (Win32)\r\n
+Action.c(35):     Set-Cookie: MSO=SID&1676373205; path=/\r\n
+Action.c(35):     Set-Cookie: MTUserInfo=; path=/; expires=Mon, 13-Feb-2023 11:13:25 GMT\r\n
+Action.c(35):     Keep-Alive: timeout=5, max=100\r\n
+Action.c(35):     Connection: Keep-Alive\r\n
+Action.c(35):     Transfer-Encoding: chunked\r\n
+Action.c(35):     Content-Type: text/html; charset=ISO-8859-1\r\n
+Action.c(35):     \r\n
+Action.c(35): t=4886808ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/welcome.pl?signOff=true" (RelFrameId=1, Internal ID=749)
+Action.c(35):     2ae\r\n
+Action.c(35): t=4886808ms: 2-byte chunked response overhead for "http://localhost:1080/cgi-bin/welcome.pl?signOff=true" (RelFrameId=1, Internal ID=749)
+Action.c(35):     \r\n
+Action.c(35): t=4886808ms: 686-byte chunked response body for "http://localhost:1080/cgi-bin/welcome.pl?signOff=true" (RelFrameId=1, Internal ID=749)
+Action.c(35):     <!-- \n
+Action.c(35):      A Session ID has been created and loaded into a cookie called MSO.\n
+Action.c(35):      Also, the server options have been loaded into the cookie called\n
+Action.c(35):      MSO as well.  The server options can be set via the Admin page.\n
+Action.c(35):      --->\n
+Action.c(35):     \n
+Action.c(35):     <html>\n
+Action.c(35):     <title>Web Tours</title>\n
+Action.c(35):        <!-- Frame Set -->\n
+Action.c(35):        <frameset cols="160,*" border="1" frameborder="1">\n
+Action.c(35):           <!-- Navigation Frame -->\n
+Action.c(35):           <frame src="nav.pl?in=home" name="navbar" marginheight="2" marginwidth="2" \n
+Action.c(35):                 noresize="noresize" scrolling="auto"/>\n
+Action.c(35):           <!-- Home Frame -->\n
+Action.c(35):           <frame src="/WebTours/home.html" name="info" marginheight="2" marginwidth="2" \n
+Action.c(35):                 noresize="noresize" scrolling="auto"/>\n
+Action.c(35):        </frameset>\n
+Action.c(35):     </html>\n
+Action.c(35):     \n
+Action.c(35):     </body>\n
+Action.c(35):     </html>
+Action.c(35): Detected non-resource "http://localhost:1080/cgi-bin/nav.pl?in=home" in "http://localhost:1080/cgi-bin/welcome.pl?signOff=true"  	[MsgId: MMSG-26574]
+Action.c(35): Detected non-resource "http://localhost:1080/WebTours/home.html" in "http://localhost:1080/cgi-bin/welcome.pl?signOff=true"  	[MsgId: MMSG-26574]
+Action.c(35): t=4886809ms: Connecting [1] to host 127.0.0.1:1080  	[MsgId: MMSG-26000]
+Action.c(35): t=4886809ms: Connecting [2] to host 127.0.0.1:1080  	[MsgId: MMSG-26000]
+Action.c(35): t=4886810ms: Connected socket [1] from 127.0.0.1:8566 to 127.0.0.1:1080 in 1 ms  	[MsgId: MMSG-26000]
+Action.c(35): t=4886810ms: 640-byte request headers for "http://localhost:1080/cgi-bin/nav.pl?in=home" (RelFrameId=1.1, Internal ID=750)
+Action.c(35):     GET /cgi-bin/nav.pl?in=home HTTP/1.1\r\n
+Action.c(35):     Referer: http://localhost:1080/cgi-bin/welcome.pl?signOff=true\r\n
+Action.c(35):     Sec-Fetch-Dest: frame\r\n
+Action.c(35):     Sec-Fetch-Mode: navigate\r\n
+Action.c(35):     Sec-Fetch-Site: same-origin\r\n
+Action.c(35):     Upgrade-Insecure-Requests: 1\r\n
+Action.c(35):     sec-ch-ua: "Not?A_Brand";v="8", "Chromium";v="108", "Google Chrome";v="108"\r\n
+Action.c(35):     sec-ch-ua-mobile: ?0\r\n
+Action.c(35):     sec-ch-ua-platform: "Windows"\r\n
+Action.c(35):     User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck
+Action.c(35):     o) Chrome/108.0.0.0 Safari/537.36\r\n
+Action.c(35):     Accept-Encoding: gzip, deflate\r\n
+Action.c(35):     Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7\r\n
+Action.c(35):     Accept: */*\r\n
+Action.c(35):     Connection: Keep-Alive\r\n
+Action.c(35):     Host: localhost:1080\r\n
+Action.c(35):     Cookie: MSO=SID&1676373205\r\n
+Action.c(35):     \r\n
+Action.c(35): t=4886811ms: Connected socket [2] from 127.0.0.1:8567 to 127.0.0.1:1080 in 1 ms  	[MsgId: MMSG-26000]
+Action.c(35): t=4886811ms: 636-byte request headers for "http://localhost:1080/WebTours/home.html" (RelFrameId=1.2, Internal ID=751)
+Action.c(35):     GET /WebTours/home.html HTTP/1.1\r\n
+Action.c(35):     Referer: http://localhost:1080/cgi-bin/welcome.pl?signOff=true\r\n
+Action.c(35):     Sec-Fetch-Dest: frame\r\n
+Action.c(35):     Sec-Fetch-Mode: navigate\r\n
+Action.c(35):     Sec-Fetch-Site: same-origin\r\n
+Action.c(35):     Upgrade-Insecure-Requests: 1\r\n
+Action.c(35):     sec-ch-ua: "Not?A_Brand";v="8", "Chromium";v="108", "Google Chrome";v="108"\r\n
+Action.c(35):     sec-ch-ua-mobile: ?0\r\n
+Action.c(35):     sec-ch-ua-platform: "Windows"\r\n
+Action.c(35):     User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck
+Action.c(35):     o) Chrome/108.0.0.0 Safari/537.36\r\n
+Action.c(35):     Accept-Encoding: gzip, deflate\r\n
+Action.c(35):     Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7\r\n
+Action.c(35):     Accept: */*\r\n
+Action.c(35):     Connection: Keep-Alive\r\n
+Action.c(35):     Host: localhost:1080\r\n
+Action.c(35):     Cookie: MSO=SID&1676373205\r\n
+Action.c(35):     \r\n
+Action.c(35): t=4886812ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/welcome.pl?signOff=true" (RelFrameId=1, Internal ID=749)
+Action.c(35):     0\r\n
+Action.c(35):     \r\n
+Action.c(35): t=4886813ms: Request done "http://localhost:1080/cgi-bin/welcome.pl?signOff=true"  	[MsgId: MMSG-26000]
+Action.c(35): t=4886870ms: 256-byte response headers for "http://localhost:1080/cgi-bin/nav.pl?in=home" (RelFrameId=1.1, Internal ID=750)
+Action.c(35):     HTTP/1.1 200 OK\r\n
+Action.c(35):     Date: Tue, 14 Feb 2023 11:13:25 GMT\r\n
+Action.c(35):     Server: Apache/2.2.21 (Win32)\r\n
+Action.c(35):     Expires: Mon, 13 Feb 2023 11:13:25 GMT\r\n
+Action.c(35):     Keep-Alive: timeout=5, max=100\r\n
+Action.c(35):     Connection: Keep-Alive\r\n
+Action.c(35):     Transfer-Encoding: chunked\r\n
+Action.c(35):     Content-Type: text/html; charset=ISO-8859-1\r\n
+Action.c(35):     \r\n
+Action.c(35): t=4886870ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/nav.pl?in=home" (RelFrameId=1.1, Internal ID=750)
+Action.c(35):     5d2\r\n
+Action.c(35): t=4886870ms: 2-byte chunked response overhead for "http://localhost:1080/cgi-bin/nav.pl?in=home" (RelFrameId=1.1, Internal ID=750)
+Action.c(35):     \r\n
+Action.c(35): t=4886870ms: 1490-byte chunked response body for "http://localhost:1080/cgi-bin/nav.pl?in=home" (RelFrameId=1.1, Internal ID=750)
+Action.c(35):     <!DOCTYPE html\n
+Action.c(35):     \tPUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"\n
+Action.c(35):     \t "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">\n
+Action.c(35):     <html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xml:lang="en-US">\n
+Action.c(35):     <head>\n
+Action.c(35):     <title>Web Tours Navigation Bar</title>\n
+Action.c(35):     <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />\n
+Action.c(35):     </head>\n
+Action.c(35):     <body bgcolor="#E0E7F1">\n
+Action.c(35):     <style>\n
+Action.c(35):     blockquote {font-family: tahoma; font-size : 10pt}\n
+Action.c(35):     H1 {font-family: tahoma; font-size : 22pt; color: #993333}\n
+Action.c(35):     H3 {font-family: tahoma; font-size : 10pt; color: black}\n
+Action.c(35):     small {font-family: tahoma; font-size : 8pt}\n
+Action.c(35):     </style>\n
+Action.c(35):     <form method="post" action="/cgi-bin/login.pl" target="body">\n
+Action.c(35):     <input type="hidden" name="userSession" value="135793.698258404zQitiiipDftVzzzHtVQAQpDDAVc
+Action.c(35):     f"/>\n
+Action.c(35):     <table border="0"><tr><td>&nbsp;</td>\n
+Action.c(35):     <td>&nbsp;</td></tr>\n
+Action.c(35):     <tr><td>&nbsp;</td>\n
+Action.c(35):     <td>&nbsp;</td></tr>\n
+Action.c(35):     <tr><td>&nbsp;</td>\n
+Action.c(35):     <td><small>&nbsp;Username</small></td></tr>\n
+Action.c(35):     <tr><td>&nbsp;</td>\n
+Action.c(35):     <td><input type="text" name="username" value="" size="14" maxlength="14"/></td></tr>\n
+Action.c(35):     <tr><td>&nbsp;</td>\n
+Action.c(35):     <td><small>&nbsp;Password</small></td>\n
+Action.c(35):     <tr><td>&nbsp;</td>\n
+Action.c(35):     <td><input type="password" name="password" value="" size="14" maxlength="14"/></td></tr>\n
+Action.c(35):     <tr><td>&nbsp;</td>\n
+Action.c(35):     <td>&nbsp;</td></tr>\n
+Action.c(35):     <tr><td>&nbsp;</td>\n
+Action.c(35):     <td><input type="image" name="login" value="Login" alt="Login" border="1" \n
+Action.c(35):     src="/WebTours/images/mer_login.gif"/></td></tr>\n
+Action.c(35):     <tr><td>&nbsp;</td><td>&nbsp;</td></tr>\n
+Action.c(35):     </table><input type="hidden" name="JSFormSubmit" value="off"/>\n
+Action.c(35):     </form>\n
+Action.c(35):     \n
+Action.c(35):     </body>\n
+Action.c(35):     </html>\n
+Action.c(35): Found resource "http://localhost:1080/WebTours/images/mer_login.gif" in HTML "http://localhost:1080/cgi-bin/nav.pl?in=home"  	[MsgId: MMSG-26659]
+Action.c(35): t=4886873ms: Already connected [0] to localhost:1080  	[MsgId: MMSG-26000]
+Action.c(35): t=4886873ms: 638-byte request headers for "http://localhost:1080/WebTours/images/mer_login.gif" (RelFrameId=, Internal ID=752)
+Action.c(35):     GET /WebTours/images/mer_login.gif HTTP/1.1\r\n
+Action.c(35):     Referer: http://localhost:1080/cgi-bin/nav.pl?in=home\r\n
+Action.c(35):     Sec-Fetch-Dest: frame\r\n
+Action.c(35):     Sec-Fetch-Mode: navigate\r\n
+Action.c(35):     Sec-Fetch-Site: same-origin\r\n
+Action.c(35):     Upgrade-Insecure-Requests: 1\r\n
+Action.c(35):     sec-ch-ua: "Not?A_Brand";v="8", "Chromium";v="108", "Google Chrome";v="108"\r\n
+Action.c(35):     sec-ch-ua-mobile: ?0\r\n
+Action.c(35):     sec-ch-ua-platform: "Windows"\r\n
+Action.c(35):     User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck
+Action.c(35):     o) Chrome/108.0.0.0 Safari/537.36\r\n
+Action.c(35):     Accept-Encoding: gzip, deflate\r\n
+Action.c(35):     Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7\r\n
+Action.c(35):     Accept: */*\r\n
+Action.c(35):     Connection: Keep-Alive\r\n
+Action.c(35):     Host: localhost:1080\r\n
+Action.c(35):     Cookie: MSO=SID&1676373205\r\n
+Action.c(35):     \r\n
+Action.c(35): t=4886873ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/nav.pl?in=home" (RelFrameId=1.1, Internal ID=750)
+Action.c(35):     0\r\n
+Action.c(35):     \r\n
+Action.c(35): t=4886873ms: Request done "http://localhost:1080/cgi-bin/nav.pl?in=home"  	[MsgId: MMSG-26000]
+Action.c(35): t=4886874ms: 298-byte response headers for "http://localhost:1080/WebTours/images/mer_login.gif" (RelFrameId=, Internal ID=752)
+Action.c(35):     HTTP/1.1 200 OK\r\n
+Action.c(35):     Date: Tue, 14 Feb 2023 11:13:25 GMT\r\n
+Action.c(35):     Server: Apache/2.2.21 (Win32)\r\n
+Action.c(35):     Last-Modified: Thu, 12 Jan 2012 13:30:28 GMT\r\n
+Action.c(35):     ETag: "4d00000000cc02-2a7-4b654c0620500"\r\n
+Action.c(35):     Accept-Ranges: bytes\r\n
+Action.c(35):     Content-Length: 679\r\n
+Action.c(35):     Keep-Alive: timeout=5, max=99\r\n
+Action.c(35):     Connection: Keep-Alive\r\n
+Action.c(35):     Content-Type: image/gif\r\n
+Action.c(35):     \r\n
+Action.c(35): t=4886874ms: 679-byte response body for "http://localhost:1080/WebTours/images/mer_login.gif" (RelFrameId=, Internal ID=752)
+Action.c(35): t=4886874ms: Request done "http://localhost:1080/WebTours/images/mer_login.gif"  	[MsgId: MMSG-26000]
+Action.c(35): t=4886967ms: 300-byte response headers for "http://localhost:1080/WebTours/home.html" (RelFrameId=1.2, Internal ID=751)
+Action.c(35):     HTTP/1.1 200 OK\r\n
+Action.c(35):     Date: Tue, 14 Feb 2023 11:13:25 GMT\r\n
+Action.c(35):     Server: Apache/2.2.21 (Win32)\r\n
+Action.c(35):     Last-Modified: Mon, 27 May 2013 11:20:22 GMT\r\n
+Action.c(35):     ETag: "4c00000000cbcf-551-4ddb1559ac980"\r\n
+Action.c(35):     Accept-Ranges: bytes\r\n
+Action.c(35):     Content-Length: 1361\r\n
+Action.c(35):     Keep-Alive: timeout=5, max=100\r\n
+Action.c(35):     Connection: Keep-Alive\r\n
+Action.c(35):     Content-Type: text/html\r\n
+Action.c(35):     \r\n
+Action.c(35): t=4886967ms: 1361-byte response body for "http://localhost:1080/WebTours/home.html" (RelFrameId=1.2, Internal ID=751)
+Action.c(35):     <HTML>\n
+Action.c(35):     <HEAD>\n
+Action.c(35):     \t<title>Web Tours</title>\n
+Action.c(35):     </HEAD>\n
+Action.c(35):     <style>\n
+Action.c(35):     \tblockquote {font-family: tahoma; font-size : 10pt}\n
+Action.c(35):     \tH1 {font-family: tahoma; font-size : 22pt; color: #003366}\n
+Action.c(35):     \tsmall {font-family: tahoma; font-size : 8pt}\n
+Action.c(35):     \tH3{font-family: tahoma; font-size : 10pt; color: black}\n
+Action.c(35):     \tA {FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Tahoma; TEXT-DECORATIO
+Action.c(35):     N: none}\n
+Action.c(35):     \tA:hover{ FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: #993333; FONT-FAMILY: Tahoma;TEXT-DE
+Action.c(35):     CORATION: underline}\n
+Action.c(35):     \tTD {font-family: tahoma; font-size : 10pt; color: black}\n
+Action.c(35):     </style>\n
+Action.c(35):     <body bgcolor="#e0e7f1">\n
+Action.c(35):     <BR/>\n
+Action.c(35):     <BR/>\n
+Action.c(35):     <BR/>\n
+Action.c(35):     <br/>\n
+Action.c(35):     <table border="0">\n
+Action.c(35):     <tr><td></td></tr>\n
+Action.c(35):     <TR><TD></TD></TR>\n
+Action.c(35):     <TR><TD>\n
+Action.c(35):     <blockquote>\n
+Action.c(35):     <H1><b>Web Tours</b></H1>\n
+Action.c(35):     Welcome to the Web Tours site.\n
+Action.c(35):     <br/>\n
+Action.c(35):     To make reservations,please enter your account information to the left.\n
+Action.c(35):     <br/>\n
+Action.c(35):     If you haven't registered yet, <A href="/cgi-bin/login.pl?username=&amp;password=&amp;getI
+Action.c(35):     nfo=true" ><B>sign up now</B></A> to get access to all our resources.\n
+Action.c(35):     <br/>\n
+Action.c(35):     To configure the server options, use <A href="/cgi-bin/admin.pl" target="body" ><b>adminis
+Action.c(35):     tration</b></A> link.\n
+Action.c(35):     <br/><br/><br/><br/><br/><br/>\n
+Action.c(35):     <br/><small>\n
+Action.c(35):     This product uses parts of the SMT Kernel, Copyright (c) 1991-99 <A href="http://www.imati
+Action.c(35):     x.com" target="new"><B><small>iMatix Corporation</small></B></A> \n
+Action.c(35):     </small>\n
+Action.c(35):     </blockquote></TD>\n
+Action.c(35):     <TD></TD></TR>\n
+Action.c(35):     </table>\n
+Action.c(35):     </body>\n
+Action.c(35):     </HTML>\n
+Action.c(35): t=4886967ms: Request done "http://localhost:1080/WebTours/home.html"  	[MsgId: MMSG-26000]
+Action.c(35): Registered web_reg_find successful for "Text=Welcome to the Web Tours site." (count=1)  	[MsgId: MMSG-26364]
+Action.c(35): web_url("welcome.pl") was successful, 4216 body bytes, 1182 header bytes, 24 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(44): Notify: Transaction "open_site" ended with a "Pass" status (Duration: 0,4764).	[MsgId: MMSG-16873]
+Action.c(46): Notify: Transaction "login" started.	[MsgId: MMSG-16999]
+Action.c(48): web_reg_find started  	[MsgId: MMSG-26355]
+Action.c(48): Notify: Parameter Substitution: parameter "login" =  "luna"	[MsgId: MMSG-13992]
+Action.c(48): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(52): web_add_header("Origin") started  	[MsgId: MMSG-26355]
+Action.c(52): An unrecognized header ("Origin") is being added  	[MsgId: MMSG-26595]
+Action.c(52): "Origin: http://localhost:1080" header registered for adding to requests from the immediately following Action function  	[MsgId: MMSG-26506]
+Action.c(52): web_add_header("Origin") was successful  	[MsgId: MMSG-26392]
+Action.c(55): web_add_auto_header("Sec-Fetch-User") started  	[MsgId: MMSG-26355]
+Action.c(55): An unrecognized header ("Sec-Fetch-User") is being added  	[MsgId: MMSG-26595]
+Action.c(55): "Sec-Fetch-User: ?1" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(55): web_add_auto_header("Sec-Fetch-User") was successful  	[MsgId: MMSG-26392]
+Action.c(58): Think time - Waiting 5,00 seconds (according to limit).	[MsgId: MMSG-15946]
+Action.c(58): lr_think_time: 5,00 seconds (recorded think time was 6,00 seconds).	[MsgId: MMSG-15947]
+Action.c(60): web_submit_form("login.pl") started  	[MsgId: MMSG-26355]
+Action.c(60): Notify: Parameter Substitution: parameter "login" =  "luna"	[MsgId: MMSG-13992]
+Action.c(60): Notify: Next row for parameter password = 5 [table  = password].	[MsgId: MMSG-13876]
+Action.c(60): Notify: Parameter Substitution: parameter "password" =  "luna"	[MsgId: MMSG-13992]
+Action.c(60): Submitting form to "http://localhost:1080/cgi-bin/login.pl", Target Frame="body"  	[MsgId: MMSG-27978]
+Action.c(60): t=4891980ms: Closed connection [0] to localhost:1080 after completing 2 request(s)  	[MsgId: MMSG-26000]
+Action.c(60): t=4891980ms: Connecting [0] to host 127.0.0.1:1080  	[MsgId: MMSG-26000]
+Action.c(60): t=4891981ms: Connected socket [0] from 127.0.0.1:8627 to 127.0.0.1:1080 in 1 ms  	[MsgId: MMSG-26000]
+Action.c(60): t=4891981ms: 747-byte request headers for "http://localhost:1080/cgi-bin/login.pl" (RelFrameId=1, Internal ID=753)
+Action.c(60):     POST /cgi-bin/login.pl HTTP/1.1\r\n
+Action.c(60):     Content-Type: application/x-www-form-urlencoded\r\n
+Action.c(60):     Referer: http://localhost:1080/cgi-bin/nav.pl?in=home\r\n
+Action.c(60):     Origin: http://localhost:1080\r\n
+Action.c(60):     Sec-Fetch-Dest: frame\r\n
+Action.c(60):     Sec-Fetch-Mode: navigate\r\n
+Action.c(60):     Sec-Fetch-Site: same-origin\r\n
+Action.c(60):     Upgrade-Insecure-Requests: 1\r\n
+Action.c(60):     sec-ch-ua: "Not?A_Brand";v="8", "Chromium";v="108", "Google Chrome";v="108"\r\n
+Action.c(60):     sec-ch-ua-mobile: ?0\r\n
+Action.c(60):     sec-ch-ua-platform: "Windows"\r\n
+Action.c(60):     Sec-Fetch-User: ?1\r\n
+Action.c(60):     User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck
+Action.c(60):     o) Chrome/108.0.0.0 Safari/537.36\r\n
+Action.c(60):     Accept-Encoding: gzip, deflate\r\n
+Action.c(60):     Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7\r\n
+Action.c(60):     Accept: */*\r\n
+Action.c(60):     Connection: Keep-Alive\r\n
+Action.c(60):     Host: localhost:1080\r\n
+Action.c(60):     Cookie: MSO=SID&1676373205\r\n
+Action.c(60):     Content-Length: 101\r\n
+Action.c(60):     \r\n
+Action.c(60): t=4891981ms: 101-byte request body for "http://localhost:1080/cgi-bin/login.pl" (RelFrameId=1, Internal ID=753)
+Action.c(60):     userSession=135793.698258404zQitiiipDftVzzzHtVQAQpDDAVcf&username=luna&password=luna&JSFor
+Action.c(60):     mSubmit=off
+Action.c(60): t=4891981ms: Inactive socket [1] was closed by localhost:1080, probably due to Keep-Alive timeout  	[MsgId: MMSG-26000]
+Action.c(60): t=4891981ms: Closed connection [1] to localhost:1080 after completing 1 request(s)  	[MsgId: MMSG-26000]
+Action.c(60): t=4891982ms: Inactive socket [2] was closed by localhost:1080, probably due to Keep-Alive timeout  	[MsgId: MMSG-26000]
+Action.c(60): t=4891982ms: Closed connection [2] to localhost:1080 after completing 1 request(s)  	[MsgId: MMSG-26000]
+Action.c(60): t=4892058ms: 377-byte response headers for "http://localhost:1080/cgi-bin/login.pl" (RelFrameId=1, Internal ID=753)
+Action.c(60):     HTTP/1.1 200 OK\r\n
+Action.c(60):     Date: Tue, 14 Feb 2023 11:13:30 GMT\r\n
+Action.c(60):     Server: Apache/2.2.21 (Win32)\r\n
+Action.c(60):     Expires: 5s\r\n
+Action.c(60):     Set-Cookie: MTUserInfo=firstName&Luna&address2&Devonian&username&luna&hash&33&lastName&Lov
+Action.c(60):     egood%0A&address1&Ottery&creditCard&&expDate&%0A; path=/\r\n
+Action.c(60):     Keep-Alive: timeout=5, max=100\r\n
+Action.c(60):     Connection: Keep-Alive\r\n
+Action.c(60):     Transfer-Encoding: chunked\r\n
+Action.c(60):     Content-Type: text/html; charset=ISO-8859-1\r\n
+Action.c(60):     \r\n
+Action.c(60): t=4892058ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/login.pl" (RelFrameId=1, Internal ID=753)
+Action.c(60):     1e1\r\n
+Action.c(60): t=4892058ms: 2-byte chunked response overhead for "http://localhost:1080/cgi-bin/login.pl" (RelFrameId=1, Internal ID=753)
+Action.c(60):     \r\n
+Action.c(60): t=4892058ms: 481-byte chunked response body for "http://localhost:1080/cgi-bin/login.pl" (RelFrameId=1, Internal ID=753)
+Action.c(60):     <!--\n
+Action.c(60):     User password was correct - added a cookie with the user's default\n
+Action.c(60):     information.  Set the user up to make reservations...\n
+Action.c(60):     \n
+Action.c(60):     --->\n
+Action.c(60):     \n
+Action.c(60):     <html>\n
+Action.c(60):     <title>Web Tours</title>\n
+Action.c(60):     <frameset cols="160,*" border=1 frameborder=1>\n
+Action.c(60):     <frame src="nav.pl?page=menu&in=home" name="navbar" marginheight="2" marginwidth="2" nores
+Action.c(60):     ize="noresize" scrolling="auto"/>\n
+Action.c(60):     <frame src="login.pl?intro=true" name="info" marginheight="2" marginwidth="2" noresize="no
+Action.c(60):     resize" scrolling="auto"/>\n
+Action.c(60):     </frameset>\n
+Action.c(60):     \n
+Action.c(60):     </body>\n
+Action.c(60):     </html>
+Action.c(60): Detected non-resource "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=home" in "http://localhost:1080/cgi-bin/login.pl"  	[MsgId: MMSG-26574]
+Action.c(60): Detected non-resource "http://localhost:1080/cgi-bin/login.pl?intro=true" in "http://localhost:1080/cgi-bin/login.pl"  	[MsgId: MMSG-26574]
+Action.c(60): t=4892059ms: Connecting [1] to host 127.0.0.1:1080  	[MsgId: MMSG-26000]
+Action.c(60): t=4892059ms: Connecting [2] to host 127.0.0.1:1080  	[MsgId: MMSG-26000]
+Action.c(60): t=4892059ms: Connected socket [1] from 127.0.0.1:8629 to 127.0.0.1:1080 in 0 ms  	[MsgId: MMSG-26000]
+Action.c(60): t=4892059ms: 814-byte request headers for "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=home" (RelFrameId=1.1, Internal ID=754)
+Action.c(60):     GET /cgi-bin/nav.pl?page=menu&in=home HTTP/1.1\r\n
+Action.c(60):     Referer: http://localhost:1080/cgi-bin/login.pl\r\n
+Action.c(60):     Origin: http://localhost:1080\r\n
+Action.c(60):     Sec-Fetch-Dest: frame\r\n
+Action.c(60):     Sec-Fetch-Mode: navigate\r\n
+Action.c(60):     Sec-Fetch-Site: same-origin\r\n
+Action.c(60):     Upgrade-Insecure-Requests: 1\r\n
+Action.c(60):     sec-ch-ua: "Not?A_Brand";v="8", "Chromium";v="108", "Google Chrome";v="108"\r\n
+Action.c(60):     sec-ch-ua-mobile: ?0\r\n
+Action.c(60):     sec-ch-ua-platform: "Windows"\r\n
+Action.c(60):     Sec-Fetch-User: ?1\r\n
+Action.c(60):     User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck
+Action.c(60):     o) Chrome/108.0.0.0 Safari/537.36\r\n
+Action.c(60):     Accept-Encoding: gzip, deflate\r\n
+Action.c(60):     Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7\r\n
+Action.c(60):     Accept: */*\r\n
+Action.c(60):     Connection: Keep-Alive\r\n
+Action.c(60):     Host: localhost:1080\r\n
+Action.c(60):     Cookie: MSO=SID&1676373205; MTUserInfo=firstName&Luna&address2&Devonian&username&luna&hash
+Action.c(60):     &33&lastName&Lovegood%0A&address1&Ottery&creditCard&&expDate&%0A\r\n
+Action.c(60):     \r\n
+Action.c(60): t=4892059ms: Connected socket [2] from 127.0.0.1:8630 to 127.0.0.1:1080 in 0 ms  	[MsgId: MMSG-26000]
+Action.c(60): t=4892059ms: 809-byte request headers for "http://localhost:1080/cgi-bin/login.pl?intro=true" (RelFrameId=1.2, Internal ID=755)
+Action.c(60):     GET /cgi-bin/login.pl?intro=true HTTP/1.1\r\n
+Action.c(60):     Referer: http://localhost:1080/cgi-bin/login.pl\r\n
+Action.c(60):     Origin: http://localhost:1080\r\n
+Action.c(60):     Sec-Fetch-Dest: frame\r\n
+Action.c(60):     Sec-Fetch-Mode: navigate\r\n
+Action.c(60):     Sec-Fetch-Site: same-origin\r\n
+Action.c(60):     Upgrade-Insecure-Requests: 1\r\n
+Action.c(60):     sec-ch-ua: "Not?A_Brand";v="8", "Chromium";v="108", "Google Chrome";v="108"\r\n
+Action.c(60):     sec-ch-ua-mobile: ?0\r\n
+Action.c(60):     sec-ch-ua-platform: "Windows"\r\n
+Action.c(60):     Sec-Fetch-User: ?1\r\n
+Action.c(60):     User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck
+Action.c(60):     o) Chrome/108.0.0.0 Safari/537.36\r\n
+Action.c(60):     Accept-Encoding: gzip, deflate\r\n
+Action.c(60):     Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7\r\n
+Action.c(60):     Accept: */*\r\n
+Action.c(60):     Connection: Keep-Alive\r\n
+Action.c(60):     Host: localhost:1080\r\n
+Action.c(60):     Cookie: MSO=SID&1676373205; MTUserInfo=firstName&Luna&address2&Devonian&username&luna&hash
+Action.c(60):     &33&lastName&Lovegood%0A&address1&Ottery&creditCard&&expDate&%0A\r\n
+Action.c(60):     \r\n
+Action.c(60): t=4892062ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/login.pl" (RelFrameId=1, Internal ID=753)
+Action.c(60):     0\r\n
+Action.c(60):     \r\n
+Action.c(60): t=4892062ms: Request done "http://localhost:1080/cgi-bin/login.pl"  	[MsgId: MMSG-26000]
+Action.c(60): t=4892355ms: 256-byte response headers for "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=home" (RelFrameId=1.1, Internal ID=754)
+Action.c(60):     HTTP/1.1 200 OK\r\n
+Action.c(60):     Date: Tue, 14 Feb 2023 11:13:30 GMT\r\n
+Action.c(60):     Server: Apache/2.2.21 (Win32)\r\n
+Action.c(60):     Expires: Mon, 13 Feb 2023 11:13:30 GMT\r\n
+Action.c(60):     Keep-Alive: timeout=5, max=100\r\n
+Action.c(60):     Connection: Keep-Alive\r\n
+Action.c(60):     Transfer-Encoding: chunked\r\n
+Action.c(60):     Content-Type: text/html; charset=ISO-8859-1\r\n
+Action.c(60):     \r\n
+Action.c(60): t=4892355ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=home" (RelFrameId=1.1, Internal ID=754)
+Action.c(60):     5ca\r\n
+Action.c(60): t=4892355ms: 2-byte chunked response overhead for "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=home" (RelFrameId=1.1, Internal ID=754)
+Action.c(60):     \r\n
+Action.c(60): t=4892355ms: 1482-byte chunked response body for "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=home" (RelFrameId=1.1, Internal ID=754)
+Action.c(60):     <!DOCTYPE html\n
+Action.c(60):     \tPUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"\n
+Action.c(60):     \t "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">\n
+Action.c(60):     <html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xml:lang="en-US">\n
+Action.c(60):     <head>\n
+Action.c(60):     <title>Web Tours Navigation Bar</title>\n
+Action.c(60):     <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />\n
+Action.c(60):     </head>\n
+Action.c(60):     <body bgcolor="#E0E7F1">\n
+Action.c(60):     \n
+Action.c(60):     <style>\n
+Action.c(60):     \tblockquote {font-family: tahoma; font-size : 10pt}\n
+Action.c(60):     \tH1 {font-family: tahoma; font-size : 22pt; color: #993333}\n
+Action.c(60):     \tsmall {font-family: tahoma; font-size : 8pt}\n
+Action.c(60):     \tH3{font-family: tahoma; font-size : 10pt; color: black}\n
+Action.c(60):     \tA {FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Tahoma; TEXT-DECORATIO
+Action.c(60):     N: none}\n
+Action.c(60):     \tA:hover{ FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: #993333; FONT-FAMILY: Tahoma;TEXT-DE
+Action.c(60):     CORATION: underline}\n
+Action.c(60):     \tTD {font-family: tahoma; font-size : 10pt; color: black}\n
+Action.c(60):     </style>\n
+Action.c(60):     \n
+Action.c(60):     <BR><BR><center>\n
+Action.c(60):     \n
+Action.c(60):     <br clear="both"/><center><A HREF="welcome.pl?page=search" TARGET="body"><IMG BORDER="0" S
+Action.c(60):     RC="/WebTours/images/flights.gif" \n
+Action.c(60):     ALT="Search Flights Button"/></A>\n
+Action.c(60):     <br clear="both"/><A HREF="welcome.pl?page=itinerary" TARGET="body"><IMG BORDER="0" SRC="/
+Action.c(60):     WebTours/images/itinerary.gif" \n
+Action.c(60):     ALT="Itinerary Button"/></A>\n
+Action.c(60):     <br clear="both"/><A HREF="welcome.pl?page=menus" TARGET="body"><IMG BORDER="0" SRC="/WebT
+Action.c(60):     ours/images/in_home.gif" \n
+Action.c(60):     ALT="Home Button"/></A>\n
+Action.c(60):     <br clear><A HREF="welcome.pl?signOff=1" TARGET="body"><IMG BORDER="0" SRC="/WebTours/imag
+Action.c(60):     es/signoff.gif" \n
+Action.c(60):     ALT="SignOff Button"/></A></center>\n
+Action.c(60):     \n
+Action.c(60):     </body>\n
+Action.c(60):     </html>\n
+Action.c(60): Found resource "http://localhost:1080/WebTours/images/flights.gif" in HTML "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=home"  	[MsgId: MMSG-26659]
+Action.c(60): Found resource "http://localhost:1080/WebTours/images/itinerary.gif" in HTML "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=home"  	[MsgId: MMSG-26659]
+Action.c(60): Found resource "http://localhost:1080/WebTours/images/in_home.gif" in HTML "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=home"  	[MsgId: MMSG-26659]
+Action.c(60): Found resource "http://localhost:1080/WebTours/images/signoff.gif" in HTML "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=home"  	[MsgId: MMSG-26659]
+Action.c(60): t=4892356ms: Connecting [3] to host 127.0.0.1:1080  	[MsgId: MMSG-26000]
+Action.c(60): t=4892356ms: Connecting [4] to host 127.0.0.1:1080  	[MsgId: MMSG-26000]
+Action.c(60): t=4892357ms: Connecting [5] to host 127.0.0.1:1080  	[MsgId: MMSG-26000]
+Action.c(60): t=4892357ms: Already connected [0] to localhost:1080  	[MsgId: MMSG-26000]
+Action.c(60): t=4892357ms: 825-byte request headers for "http://localhost:1080/WebTours/images/flights.gif" (RelFrameId=, Internal ID=756)
+Action.c(60):     GET /WebTours/images/flights.gif HTTP/1.1\r\n
+Action.c(60):     Referer: http://localhost:1080/cgi-bin/nav.pl?page=menu&in=home\r\n
+Action.c(60):     Origin: http://localhost:1080\r\n
+Action.c(60):     Sec-Fetch-Dest: frame\r\n
+Action.c(60):     Sec-Fetch-Mode: navigate\r\n
+Action.c(60):     Sec-Fetch-Site: same-origin\r\n
+Action.c(60):     Upgrade-Insecure-Requests: 1\r\n
+Action.c(60):     sec-ch-ua: "Not?A_Brand";v="8", "Chromium";v="108", "Google Chrome";v="108"\r\n
+Action.c(60):     sec-ch-ua-mobile: ?0\r\n
+Action.c(60):     sec-ch-ua-platform: "Windows"\r\n
+Action.c(60):     Sec-Fetch-User: ?1\r\n
+Action.c(60):     User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck
+Action.c(60):     o) Chrome/108.0.0.0 Safari/537.36\r\n
+Action.c(60):     Accept-Encoding: gzip, deflate\r\n
+Action.c(60):     Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7\r\n
+Action.c(60):     Accept: */*\r\n
+Action.c(60):     Connection: Keep-Alive\r\n
+Action.c(60):     Host: localhost:1080\r\n
+Action.c(60):     Cookie: MSO=SID&1676373205; MTUserInfo=firstName&Luna&address2&Devonian&username&luna&hash
+Action.c(60):     &33&lastName&Lovegood%0A&address1&Ottery&creditCard&&expDate&%0A\r\n
+Action.c(60):     \r\n
+Action.c(60): t=4892358ms: Connected socket [3] from 127.0.0.1:8635 to 127.0.0.1:1080 in 2 ms  	[MsgId: MMSG-26000]
+Action.c(60): t=4892358ms: 827-byte request headers for "http://localhost:1080/WebTours/images/itinerary.gif" (RelFrameId=, Internal ID=757)
+Action.c(60):     GET /WebTours/images/itinerary.gif HTTP/1.1\r\n
+Action.c(60):     Referer: http://localhost:1080/cgi-bin/nav.pl?page=menu&in=home\r\n
+Action.c(60):     Origin: http://localhost:1080\r\n
+Action.c(60):     Sec-Fetch-Dest: frame\r\n
+Action.c(60):     Sec-Fetch-Mode: navigate\r\n
+Action.c(60):     Sec-Fetch-Site: same-origin\r\n
+Action.c(60):     Upgrade-Insecure-Requests: 1\r\n
+Action.c(60):     sec-ch-ua: "Not?A_Brand";v="8", "Chromium";v="108", "Google Chrome";v="108"\r\n
+Action.c(60):     sec-ch-ua-mobile: ?0\r\n
+Action.c(60):     sec-ch-ua-platform: "Windows"\r\n
+Action.c(60):     Sec-Fetch-User: ?1\r\n
+Action.c(60):     User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck
+Action.c(60):     o) Chrome/108.0.0.0 Safari/537.36\r\n
+Action.c(60):     Accept-Encoding: gzip, deflate\r\n
+Action.c(60):     Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7\r\n
+Action.c(60):     Accept: */*\r\n
+Action.c(60):     Connection: Keep-Alive\r\n
+Action.c(60):     Host: localhost:1080\r\n
+Action.c(60):     Cookie: MSO=SID&1676373205; MTUserInfo=firstName&Luna&address2&Devonian&username&luna&hash
+Action.c(60):     &33&lastName&Lovegood%0A&address1&Ottery&creditCard&&expDate&%0A\r\n
+Action.c(60):     \r\n
+Action.c(60): t=4892358ms: Connected socket [4] from 127.0.0.1:8636 to 127.0.0.1:1080 in 2 ms  	[MsgId: MMSG-26000]
+Action.c(60): t=4892358ms: 825-byte request headers for "http://localhost:1080/WebTours/images/in_home.gif" (RelFrameId=, Internal ID=758)
+Action.c(60):     GET /WebTours/images/in_home.gif HTTP/1.1\r\n
+Action.c(60):     Referer: http://localhost:1080/cgi-bin/nav.pl?page=menu&in=home\r\n
+Action.c(60):     Origin: http://localhost:1080\r\n
+Action.c(60):     Sec-Fetch-Dest: frame\r\n
+Action.c(60):     Sec-Fetch-Mode: navigate\r\n
+Action.c(60):     Sec-Fetch-Site: same-origin\r\n
+Action.c(60):     Upgrade-Insecure-Requests: 1\r\n
+Action.c(60):     sec-ch-ua: "Not?A_Brand";v="8", "Chromium";v="108", "Google Chrome";v="108"\r\n
+Action.c(60):     sec-ch-ua-mobile: ?0\r\n
+Action.c(60):     sec-ch-ua-platform: "Windows"\r\n
+Action.c(60):     Sec-Fetch-User: ?1\r\n
+Action.c(60):     User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck
+Action.c(60):     o) Chrome/108.0.0.0 Safari/537.36\r\n
+Action.c(60):     Accept-Encoding: gzip, deflate\r\n
+Action.c(60):     Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7\r\n
+Action.c(60):     Accept: */*\r\n
+Action.c(60):     Connection: Keep-Alive\r\n
+Action.c(60):     Host: localhost:1080\r\n
+Action.c(60):     Cookie: MSO=SID&1676373205; MTUserInfo=firstName&Luna&address2&Devonian&username&luna&hash
+Action.c(60):     &33&lastName&Lovegood%0A&address1&Ottery&creditCard&&expDate&%0A\r\n
+Action.c(60):     \r\n
+Action.c(60): t=4892358ms: Connected socket [5] from 127.0.0.1:8637 to 127.0.0.1:1080 in 1 ms  	[MsgId: MMSG-26000]
+Action.c(60): t=4892358ms: 825-byte request headers for "http://localhost:1080/WebTours/images/signoff.gif" (RelFrameId=, Internal ID=759)
+Action.c(60):     GET /WebTours/images/signoff.gif HTTP/1.1\r\n
+Action.c(60):     Referer: http://localhost:1080/cgi-bin/nav.pl?page=menu&in=home\r\n
+Action.c(60):     Origin: http://localhost:1080\r\n
+Action.c(60):     Sec-Fetch-Dest: frame\r\n
+Action.c(60):     Sec-Fetch-Mode: navigate\r\n
+Action.c(60):     Sec-Fetch-Site: same-origin\r\n
+Action.c(60):     Upgrade-Insecure-Requests: 1\r\n
+Action.c(60):     sec-ch-ua: "Not?A_Brand";v="8", "Chromium";v="108", "Google Chrome";v="108"\r\n
+Action.c(60):     sec-ch-ua-mobile: ?0\r\n
+Action.c(60):     sec-ch-ua-platform: "Windows"\r\n
+Action.c(60):     Sec-Fetch-User: ?1\r\n
+Action.c(60):     User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck
+Action.c(60):     o) Chrome/108.0.0.0 Safari/537.36\r\n
+Action.c(60):     Accept-Encoding: gzip, deflate\r\n
+Action.c(60):     Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7\r\n
+Action.c(60):     Accept: */*\r\n
+Action.c(60):     Connection: Keep-Alive\r\n
+Action.c(60):     Host: localhost:1080\r\n
+Action.c(60):     Cookie: MSO=SID&1676373205; MTUserInfo=firstName&Luna&address2&Devonian&username&luna&hash
+Action.c(60):     &33&lastName&Lovegood%0A&address1&Ottery&creditCard&&expDate&%0A\r\n
+Action.c(60):     \r\n
+Action.c(60): t=4892358ms: 298-byte response headers for "http://localhost:1080/WebTours/images/flights.gif" (RelFrameId=, Internal ID=756)
+Action.c(60):     HTTP/1.1 200 OK\r\n
+Action.c(60):     Date: Tue, 14 Feb 2023 11:13:30 GMT\r\n
+Action.c(60):     Server: Apache/2.2.21 (Win32)\r\n
+Action.c(60):     Last-Modified: Thu, 12 Jan 2012 13:30:28 GMT\r\n
+Action.c(60):     ETag: "2d00000000cbe3-2d6-4b654c0620500"\r\n
+Action.c(60):     Accept-Ranges: bytes\r\n
+Action.c(60):     Content-Length: 726\r\n
+Action.c(60):     Keep-Alive: timeout=5, max=99\r\n
+Action.c(60):     Connection: Keep-Alive\r\n
+Action.c(60):     Content-Type: image/gif\r\n
+Action.c(60):     \r\n
+Action.c(60): t=4892359ms: 726-byte response body for "http://localhost:1080/WebTours/images/flights.gif" (RelFrameId=, Internal ID=756)
+Action.c(60): t=4892359ms: Request done "http://localhost:1080/WebTours/images/flights.gif"  	[MsgId: MMSG-26000]
+Action.c(60): t=4892367ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=home" (RelFrameId=1.1, Internal ID=754)
+Action.c(60):     0\r\n
+Action.c(60):     \r\n
+Action.c(60): t=4892367ms: Request done "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=home"  	[MsgId: MMSG-26000]
+Action.c(60): t=4892375ms: 191-byte response headers for "http://localhost:1080/cgi-bin/login.pl?intro=true" (RelFrameId=1.2, Internal ID=755)
+Action.c(60):     HTTP/1.1 500 Internal Server Error\r\n
+Action.c(60):     Date: Tue, 14 Feb 2023 11:13:30 GMT\r\n
+Action.c(60):     Server: Apache/2.2.21 (Win32)\r\n
+Action.c(60):     Content-Length: 535\r\n
+Action.c(60):     Connection: close\r\n
+Action.c(60):     Content-Type: text/html; charset=iso-8859-1\r\n
+Action.c(60):     \r\n
+Action.c(60): t=4892375ms: 535-byte response body for "http://localhost:1080/cgi-bin/login.pl?intro=true" (RelFrameId=1.2, Internal ID=755)
+Action.c(60):     <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">\n
+Action.c(60):     <html><head>\n
+Action.c(60):     <title>500 Internal Server Error</title>\n
+Action.c(60):     </head><body>\n
+Action.c(60):     <h1>Internal Server Error</h1>\n
+Action.c(60):     <p>The server encountered an internal error or\n
+Action.c(60):     misconfiguration and was unable to complete\n
+Action.c(60):     your request.</p>\n
+Action.c(60):     <p>Please contact the server administrator,\n
+Action.c(60):      admin@localhost and inform them of the time the error occurred,\n
+Action.c(60):     and anything you might have done that may have\n
+Action.c(60):     caused the error.</p>\n
+Action.c(60):     <p>More information about this error may be available\n
+Action.c(60):     in the server error log.</p>\n
+Action.c(60):     </body></html>\n
+Action.c(60): Error -26612: HTTP Status-Code=500 (Internal Server Error) for "http://localhost:1080/cgi-bin/login.pl?intro=true"  	[MsgId: MERR-26612]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 35.	[MsgId: MMSG-10545]
+Action.c(60): t=4892397ms: Closing connection [2] to server localhost - server indicated that the connection should be closed  	[MsgId: MMSG-26000]
+Action.c(60): t=4892398ms: Closed connection [2] to localhost:1080 after completing 1 request(s)  	[MsgId: MMSG-26000]
+Action.c(60): t=4892398ms: Request done "http://localhost:1080/cgi-bin/login.pl?intro=true"  	[MsgId: MMSG-26000]
+Action.c(60): t=4892398ms: 299-byte response headers for "http://localhost:1080/WebTours/images/itinerary.gif" (RelFrameId=, Internal ID=757)
+Action.c(60):     HTTP/1.1 200 OK\r\n
+Action.c(60):     Date: Tue, 14 Feb 2023 11:13:30 GMT\r\n
+Action.c(60):     Server: Apache/2.2.21 (Win32)\r\n
+Action.c(60):     Last-Modified: Thu, 12 Jan 2012 13:30:28 GMT\r\n
+Action.c(60):     ETag: "4200000000cbfe-2dd-4b654c0620500"\r\n
+Action.c(60):     Accept-Ranges: bytes\r\n
+Action.c(60):     Content-Length: 733\r\n
+Action.c(60):     Keep-Alive: timeout=5, max=100\r\n
+Action.c(60):     Connection: Keep-Alive\r\n
+Action.c(60):     Content-Type: image/gif\r\n
+Action.c(60):     \r\n
+Action.c(60): t=4892398ms: 733-byte response body for "http://localhost:1080/WebTours/images/itinerary.gif" (RelFrameId=, Internal ID=757)
+Action.c(60): t=4892398ms: Request done "http://localhost:1080/WebTours/images/itinerary.gif"  	[MsgId: MMSG-26000]
+Action.c(60): t=4892398ms: 299-byte response headers for "http://localhost:1080/WebTours/images/in_home.gif" (RelFrameId=, Internal ID=758)
+Action.c(60):     HTTP/1.1 200 OK\r\n
+Action.c(60):     Date: Tue, 14 Feb 2023 11:13:30 GMT\r\n
+Action.c(60):     Server: Apache/2.2.21 (Win32)\r\n
+Action.c(60):     Last-Modified: Thu, 12 Jan 2012 13:30:28 GMT\r\n
+Action.c(60):     ETag: "6600000000cbfa-2b0-4b654c0620500"\r\n
+Action.c(60):     Accept-Ranges: bytes\r\n
+Action.c(60):     Content-Length: 688\r\n
+Action.c(60):     Keep-Alive: timeout=5, max=100\r\n
+Action.c(60):     Connection: Keep-Alive\r\n
+Action.c(60):     Content-Type: image/gif\r\n
+Action.c(60):     \r\n
+Action.c(60): t=4892398ms: 688-byte response body for "http://localhost:1080/WebTours/images/in_home.gif" (RelFrameId=, Internal ID=758)
+Action.c(60): t=4892398ms: Request done "http://localhost:1080/WebTours/images/in_home.gif"  	[MsgId: MMSG-26000]
+Action.c(60): t=4892398ms: 299-byte response headers for "http://localhost:1080/WebTours/images/signoff.gif" (RelFrameId=, Internal ID=759)
+Action.c(60):     HTTP/1.1 200 OK\r\n
+Action.c(60):     Date: Tue, 14 Feb 2023 11:13:30 GMT\r\n
+Action.c(60):     Server: Apache/2.2.21 (Win32)\r\n
+Action.c(60):     Last-Modified: Thu, 12 Jan 2012 13:30:28 GMT\r\n
+Action.c(60):     ETag: "6600000000cc06-2ef-4b654c0620500"\r\n
+Action.c(60):     Accept-Ranges: bytes\r\n
+Action.c(60):     Content-Length: 751\r\n
+Action.c(60):     Keep-Alive: timeout=5, max=100\r\n
+Action.c(60):     Connection: Keep-Alive\r\n
+Action.c(60):     Content-Type: image/gif\r\n
+Action.c(60):     \r\n
+Action.c(60): t=4892398ms: 751-byte response body for "http://localhost:1080/WebTours/images/signoff.gif" (RelFrameId=, Internal ID=759)
+Action.c(60): t=4892398ms: Request done "http://localhost:1080/WebTours/images/signoff.gif"  	[MsgId: MMSG-26000]
+Action.c(60): Error -26366: "Text=Welcome, <b>luna</b>, to the Web Tours reservation pages." not found for web_reg_find  	[MsgId: MERR-26366]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 55.	[MsgId: MMSG-10545]
+Action.c(110):           </td> </tr> </table>\n
+Action.c(110):           </center>\n
+Action.c(110):       </TD>\n
+Action.c(110):     </TR>\n
+Action.c(110):     <TR bgcolor="#EFF2F7">\n
+Action.c(110):       <TD COLSPAN="3">\n
+Action.c(110):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(110):       02/16/2023\n
+Action.c(110):      :  8am : Flight 370 leaves Los Angeles  for Seattle.<br>  </center>\n
+Action.c(110):       </TD>\n
+Action.c(110):     </TR>\n
+Action.c(110):     \n
+Action.c(110):     <TR bgcolor="#EFF2F7">\n
+Action.c(110):       <TD COLSPAN="4">\n
+Action.c(110):       <hr/>\n
+Action.c(110):       </TD>\n
+Action.c(110):     </TR>\n
+Action.c(110):     \n
+Action.c(110):     <!-- Flight #1 -->\n
+Action.c(110):     <TR bgcolor="#EFF2F7">\n
+Action.c(110):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+Action.c(110):     <b>\n
+Action.c(110):     <label><input type="checkbox" name="131" value="on" /></label></font></b>\n
+Action.c(110):     <input type="hidden" name="flightID" value="88524842-1007863-LL"  />\n
+Action.c(110):       </TD>\n
+Action.c(110):       <TD width="45%" valign="top">\n
+Action.c(110):           <b>&nbsp;&nbsp;3 Business class tickets for :</b><br/>\n
+Action.c(110):           <center><table border="0" width="85%"><tr><td>\n
+Action.c(110):           <li><i>LunaLovegood      <li><i>LunaLovegood      <li><i>LunaLovegood\n
+Action.c(110):           <li><i></i>\n
+Action.c(110):           </td></tr></table></center>\n
+Action.c(110):       </TD>\n
+Action.c(110):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+Action.c(110):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+Action.c(110):           <center>\n
+Action.c(110):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+Action.c(110):               Luna Lovegood\n
+Action.c(110):     <br/>\n
+Action.c(110):               Ottery<br/>\n
+Action.c(110):               Devonian<br/>\n
+Action.c(110):               <br/>\n
+Action.c(110):               Total Charge: $ 2220 <BR/> (CC: x-2390)\n
+Action.c(110):           </td> </tr> </table>\n
+Action.c(110):           </center>\n
+Action.c(110):       </TD>\n
+Action.c(110):     </TR>\n
+Action.c(110):     <TR bgcolor="#EFF2F7">\n
+Action.c(110):       <TD COLSPAN="3">\n
+Action.c(110):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(110):       02/16/2023\n
+Action.c(110):      :  8am : Flight 170 leaves Frankfurt  for Seattle.<br>  </center>\n
+Action.c(110):       </TD>\n
+Action.c(110):     </TR>\n
+Action.c(110):     \n
+Action.c(110):     <TR bgcolor="#EFF2F7">\n
+Action.c(110):       <TD COLSPAN="4">\n
+Action.c(110):       <hr/>\n
+Action.c(110):       </TD>\n
+Action.c(110):     </TR>\n
+Action.c(110):     \n
+Action.c(110):     <!-- Flight #1 -->\n
+Action.c(110):     <TR bgcolor="#EFF2F7">\n
+Action.c(110):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+Action.c(110):     <b>\n
+Action.c(110):     <label><input type="checkbox" name="132" value="on" /></label></font></b>\n
+Action.c(110):     <input type="hidden" name="flightID" value="88526342-101556-LL"  />\n
+Action.c(110):       </TD>\n
+Action.c(110):       <TD width="45%" valign="top">\n
+Action.c(110):           <b>&nbsp;&nbsp;A Coach class ticket for :</b><br/>\n
+Action.c(110):           <center><table border="0" width="85%"><tr><td>\n
+Action.c(110):           <li><i>LunaLovegood\n
+Action.c(110):           <li><i></i>\n
+Action.c(110):           </td></tr></table></center>\n
+Action.c(110):       </TD>\n
+Action.c(110):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+Action.c(110):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+Action.c(110):           <center>\n
+Action.c(110):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+Action.c(110):               Luna Lovegood\n
+Action.c(110):     <br/>\n
+Action.c(110):               Ottery<br/>\n
+Action.c(110):               Devonian<br/>\n
+Action.c(110):               <br/>\n
+Action.c(110):               Total Charge: $ 237 <BR/> (CC: x-2390)\n
+Action.c(110):           </td> </tr> </table>\n
+Action.c(110):           </center>\n
+Action.c(110):       </TD>\n
+Action.c(110):     </TR>\n
+Action.c(110):     <TR bgcolor="#EFF2F7">\n
+Action.c(110):       <TD COLSPAN="3">\n
+Action.c(110):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(110):       02/16/2023\n
+Action.c(110):      :  1pm : Flight 211 leaves London  for Frankfurt.<br>  </center>\n
+Action.c(110):       </TD>\n
+Action.c(110):     </TR>\n
+Action.c(110):     \n
+Action.c(110):     <TR bgcolor="#EFF2F7">\n
+Action.c(110):       <TD COLSPAN="4">\n
+Action.c(110):       <hr/>\n
+Action.c(110):       </TD>\n
+Action.c(110):     </TR>\n
+Action.c(110):     \n
+Action.c(110):     <!-- Flight #1 -->\n
+Action.c(110):     <TR bgcolor="#EFF2F7">\n
+Action.c(110):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+Action.c(110):     <b>\n
+Action.c(110):     <label><input type="checkbox" name="133" value="on" /></label></font></b>\n
+Action.c(110):     <input type="hidden" name="flightID" value="885430-1023-LL"  />\n
+Action.c(110):       </TD>\n
+Action.c(110):       <TD width="45%" valign="top">\n
+Action.c(110):           <b>&nbsp;&nbsp;2 First class tickets for :</b><br/>\n
+Action.c(110):           <center><table border="0" width="85%"><tr><td>\n
+Action.c(110):           <li><i>LunaLovegood      <li><i>LunaLovegood\n
+Action.c(110):           <li><i></i>\n
+Action.c(110):           </td></tr></table></center>\n
+Action.c(110):       </TD>\n
+Action.c(110):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+Action.c(110):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+Action.c(110):           <center>\n
+Action.c(110):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+Action.c(110):               Luna Lovegood\n
+Action.c(110):     <br/>\n
+Action.c(110):               Ottery<br/>\n
+Action.c(110):               Devonian<br/>\n
+Action.c(110):               <br/>\n
+Action.c(110):               Total Charge: $ 0 <BR/> (CC: x-2390)\n
+Action.c(110):           </td> </tr> </table>\n
+Action.c(110):           </center>\n
+Action.c(110):       </TD>\n
+Action.c(110):     </TR>\n
+Action.c(110):     <TR bgcolor="#EFF2F7">\n
+Action.c(110):       <TD COLSPAN="3">\n
+Action.c(110):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(110):       02/16/2023\n
+Action.c(110):      :  1pm : Flight 661 lea
+Action.c(110): t=5535839ms: 6-byte chunked response overhead for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1, Internal ID=1207)
+Action.c(110):     1000\r\n
+Action.c(110): t=5535839ms: 2-byte chunked response overhead for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1, Internal ID=1207)
+Action.c(110):     \r\n
+Action.c(110): t=5535839ms: 4096-byte chunked response body for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1, Internal ID=1207)
+Action.c(110):     ves San Francisco  for San Francisco.<br>  </center>\n
+Action.c(110):       </TD>\n
+Action.c(110):     </TR>\n
+Action.c(110):     \n
+Action.c(110):     <TR bgcolor="#EFF2F7">\n
+Action.c(110):       <TD COLSPAN="4">\n
+Action.c(110):       <hr/>\n
+Action.c(110):       </TD>\n
+Action.c(110):     </TR>\n
+Action.c(110):     \n
+Action.c(110):     <!-- Flight #1 -->\n
+Action.c(110):     <TR bgcolor="#EFF2F7">\n
+Action.c(110):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+Action.c(110):     <b>\n
+Action.c(110):     <label><input type="checkbox" name="134" value="on" /></label></font></b>\n
+Action.c(110):     <input type="hidden" name="flightID" value="885430-1030-LL"  />\n
+Action.c(110):       </TD>\n
+Action.c(110):       <TD width="45%" valign="top">\n
+Action.c(110):           <b>&nbsp;&nbsp;4 Business class tickets for :</b><br/>\n
+Action.c(110):           <center><table border="0" width="85%"><tr><td>\n
+Action.c(110):           <li><i>LunaLovegood      <li><i>LunaLovegood      <li><i>LunaLovegood      <li><i>\n
+Action.c(110):           <li><i></i>\n
+Action.c(110):           </td></tr></table></center>\n
+Action.c(110):       </TD>\n
+Action.c(110):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+Action.c(110):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+Action.c(110):           <center>\n
+Action.c(110):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+Action.c(110):               Luna Lovegood\n
+Action.c(110):     <br/>\n
+Action.c(110):               Ottery<br/>\n
+Action.c(110):               Devonian<br/>\n
+Action.c(110):               <br/>\n
+Action.c(110):               Total Charge: $ 0 <BR/> (CC: x-2390)\n
+Action.c(110):           </td> </tr> </table>\n
+Action.c(110):           </center>\n
+Action.c(110):       </TD>\n
+Action.c(110):     </TR>\n
+Action.c(110):     <TR bgcolor="#EFF2F7">\n
+Action.c(110):       <TD COLSPAN="3">\n
+Action.c(110):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(110):       02/16/2023\n
+Action.c(110):      :  1pm : Flight 661 leaves San Francisco  for San Francisco.<br>  </center>\n
+Action.c(110):       </TD>\n
+Action.c(110):     </TR>\n
+Action.c(110):     \n
+Action.c(110):     <TR bgcolor="#EFF2F7">\n
+Action.c(110):       <TD COLSPAN="4">\n
+Action.c(110):       <hr/>\n
+Action.c(110):       </TD>\n
+Action.c(110):     </TR>\n
+Action.c(110):     \n
+Action.c(110):     <!-- Flight #1 -->\n
+Action.c(110):     <TR bgcolor="#EFF2F7">\n
+Action.c(110):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+Action.c(110):     <b>\n
+Action.c(110):     <label><input type="checkbox" name="135" value="on" /></label></font></b>\n
+Action.c(110):     <input type="hidden" name="flightID" value="88531568-1038569-LL"  />\n
+Action.c(110):       </TD>\n
+Action.c(110):       <TD width="45%" valign="top">\n
+Action.c(110):           <b>&nbsp;&nbsp;4 First class tickets for :</b><br/>\n
+Action.c(110):           <center><table border="0" width="85%"><tr><td>\n
+Action.c(110):           <li><i>LunaLovegood      <li><i>LunaLovegood      <li><i>LunaLovegood      <li><i>\n
+Action.c(110):           <li><i></i>\n
+Action.c(110):           </td></tr></table></center>\n
+Action.c(110):       </TD>\n
+Action.c(110):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+Action.c(110):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+Action.c(110):           <center>\n
+Action.c(110):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+Action.c(110):               Luna Lovegood\n
+Action.c(110):     <br/>\n
+Action.c(110):               Ottery<br/>\n
+Action.c(110):               Devonian<br/>\n
+Action.c(110):               <br/>\n
+Action.c(110):               Total Charge: $ 1404 <BR/> (CC: x-2390)\n
+Action.c(110):           </td> </tr> </table>\n
+Action.c(110):           </center>\n
+Action.c(110):       </TD>\n
+Action.c(110):     </TR>\n
+Action.c(110):     <TR bgcolor="#EFF2F7">\n
+Action.c(110):       <TD COLSPAN="3">\n
+Action.c(110):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(110):       02/16/2023\n
+Action.c(110):      :  5pm : Flight 352 leaves Los Angeles  for Portland.<br>  </center>\n
+Action.c(110):       </TD>\n
+Action.c(110):     </TR>\n
+Action.c(110):     \n
+Action.c(110):     <TR bgcolor="#EFF2F7">\n
+Action.c(110):       <TD COLSPAN="4">\n
+Action.c(110):       <hr/>\n
+Action.c(110):       </TD>\n
+Action.c(110):     </TR>\n
+Action.c(110):     \n
+Action.c(110):     <!-- Flight #1 -->\n
+Action.c(110):     <TR bgcolor="#EFF2F7">\n
+Action.c(110):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+Action.c(110):     <b>\n
+Action.c(110):     <label><input type="checkbox" name="136" value="on" /></label></font></b>\n
+Action.c(110):     <input type="hidden" name="flightID" value="88524533-104678-LL"  />\n
+Action.c(110):       </TD>\n
+Action.c(110):       <TD width="45%" valign="top">\n
+Action.c(110):           <b>&nbsp;&nbsp;2 Coach class tickets for :</b><br/>\n
+Action.c(110):           <center><table border="0" width="85%"><tr><td>\n
+Action.c(110):           <li><i>LunaLovegood      <li><i>LunaLovegood\n
+Action.c(110):           <li><i></i>\n
+Action.c(110):           </td></tr></table></center>\n
+Action.c(110):       </TD>\n
+Action.c(110):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+Action.c(110):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+Action.c(110):           <center>\n
+Action.c(110):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+Action.c(110):               Luna Lovegood\n
+Action.c(110):     <br/>\n
+Action.c(110):               Ottery<br/>\n
+Action.c(110):               Devonian<br/>\n
+Action.c(110):               <br/>\n
+Action.c(110):               Total Charge: $ 814 <BR/> (CC: x-2390)\n
+Action.c(110):           </td> </tr> </table>\n
+Action.c(110):           </center>\n
+Action.c(110):       </TD>\n
+Action.c(110):     </TR>\n
+Action.c(110):     <TR bgcolor="#EFF2F7">\n
+Action.c(110):       <TD COLSPAN="3">\n
+Action.c(110):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(110):       02/16/2023\n
+Action.c(110):      :  5pm : Flight 162 leaves Frankfurt  for San Francisco.<br>  </center>\n
+Action.c(110):       </TD>\n
+Action.c(110):     </TR>\n
+Action.c(110):     \n
+Action.c(110):     <TR bgcolor="#EFF2F7">\n
+Action.c(110):       <TD COLSPAN="4">\n
+Action.c(110):       <hr/>\n
+Action.c(110):       </TD>\n
+Action.c(110):     </TR>\n
+Action.c(110):     \n
+Action.c(110):     <!-- Flight #1 -->\n
+Action.c(110):     <TR bgcolor="#EFF2F7">\n
+Action.c(110):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+Action.c(110):     <b>\n
+Action.c(110):     <label><input type="checkbox" name="137" value="on" /></label></font></b>\n
+Action.c(110):     <input type="hidden" name="flightID" value="885485968-1053934-LL"  />\n
+Action.c(110):       </TD>\n
+Action.c(110):       <TD width="45%" valign="top">\n
+Action.c(110):           <b>&nbsp;&nbsp;A Coach class ticket for :</b><br/>\n
+Action.c(110):           <center><table border="0" width="85%"><tr><td>\n
+Action.c(110):           <li><i>LunaLovegood\n
+Action.c(110):           <li><i></i>\n
+Action.c(110):           </td></tr></table></center>\n
+Action.c(110):       </TD>\n
+Action.c(110):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>
+Action.c(110): t=5535840ms: 6-byte chunked response overhead for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1, Internal ID=1207)
+Action.c(110):     1000\r\n
+Action.c(110): t=5535840ms: 2-byte chunked response overhead for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1, Internal ID=1207)
+Action.c(110):     \r\n
+Action.c(110): t=5535840ms: 4096-byte chunked response body for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1, Internal ID=1207)
+Action.c(110):     \n
+Action.c(110):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+Action.c(110):           <center>\n
+Action.c(110):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+Action.c(110):               Luna Lovegood\n
+Action.c(110):     <br/>\n
+Action.c(110):               Ottery<br/>\n
+Action.c(110):               Devonian<br/>\n
+Action.c(110):               <br/>\n
+Action.c(110):               Total Charge: $ 1153 <BR/> (CC: x-2390)\n
+Action.c(110):           </td> </tr> </table>\n
+Action.c(110):           </center>\n
+Action.c(110):       </TD>\n
+Action.c(110):     </TR>\n
+Action.c(110):     <TR bgcolor="#EFF2F7">\n
+Action.c(110):       <TD COLSPAN="3">\n
+Action.c(110):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(110):       02/16/2023\n
+Action.c(110):      :  5pm : Flight 812 leaves Sydney  for Frankfurt.<br>  </center>\n
+Action.c(110):       </TD>\n
+Action.c(110):     </TR>\n
+Action.c(110):     \n
+Action.c(110):     <TR bgcolor="#EFF2F7">\n
+Action.c(110):       <TD COLSPAN="4">\n
+Action.c(110):       <hr/>\n
+Action.c(110):       </TD>\n
+Action.c(110):     </TR>\n
+Action.c(110):     \n
+Action.c(110):     <!-- Flight #1 -->\n
+Action.c(110):     <TR bgcolor="#EFF2F7">\n
+Action.c(110):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+Action.c(110):     <b>\n
+Action.c(110):     <label><input type="checkbox" name="138" value="on" /></label></font></b>\n
+Action.c(110):     <input type="hidden" name="flightID" value="88538197-106204-LL"  />\n
+Action.c(110):       </TD>\n
+Action.c(110):       <TD width="45%" valign="top">\n
+Action.c(110):           <b>&nbsp;&nbsp;2 First class tickets for :</b><br/>\n
+Action.c(110):           <center><table border="0" width="85%"><tr><td>\n
+Action.c(110):           <li><i>LunaLovegood      <li><i>LunaLovegood\n
+Action.c(110):           <li><i></i>\n
+Action.c(110):           </td></tr></table></center>\n
+Action.c(110):       </TD>\n
+Action.c(110):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+Action.c(110):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+Action.c(110):           <center>\n
+Action.c(110):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+Action.c(110):               Luna Lovegood\n
+Action.c(110):     <br/>\n
+Action.c(110):               Ottery<br/>\n
+Action.c(110):               Devonian<br/>\n
+Action.c(110):               <br/>\n
+Action.c(110):               Total Charge: $ 660 <BR/> (CC: x-2390)\n
+Action.c(110):           </td> </tr> </table>\n
+Action.c(110):           </center>\n
+Action.c(110):       </TD>\n
+Action.c(110):     </TR>\n
+Action.c(110):     <TR bgcolor="#EFF2F7">\n
+Action.c(110):       <TD COLSPAN="3">\n
+Action.c(110):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(110):       02/16/2023\n
+Action.c(110):      :  1pm : Flight 531 leaves Portland  for Los Angeles.<br>  </center>\n
+Action.c(110):       </TD>\n
+Action.c(110):     </TR>\n
+Action.c(110):     \n
+Action.c(110):     <TR bgcolor="#EFF2F7">\n
+Action.c(110):       <TD COLSPAN="4">\n
+Action.c(110):       <hr/>\n
+Action.c(110):       </TD>\n
+Action.c(110):     </TR>\n
+Action.c(110):     \n
+Action.c(110):     <!-- Flight #1 -->\n
+Action.c(110):     <TR bgcolor="#EFF2F7">\n
+Action.c(110):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+Action.c(110):     <b>\n
+Action.c(110):     <label><input type="checkbox" name="139" value="on" /></label></font></b>\n
+Action.c(110):     <input type="hidden" name="flightID" value="88535251-1069539-LL"  />\n
+Action.c(110):       </TD>\n
+Action.c(110):       <TD width="45%" valign="top">\n
+Action.c(110):           <b>&nbsp;&nbsp;5 Business class tickets for :</b><br/>\n
+Action.c(110):           <center><table border="0" width="85%"><tr><td>\n
+Action.c(110):           <li><i>LunaLovegood      <li><i>LunaLovegood      <li><i>LunaLovegood      <li><i>  
+Action.c(110):         <li><i>\n
+Action.c(110):           <li><i></i>\n
+Action.c(110):           </td></tr></table></center>\n
+Action.c(110):       </TD>\n
+Action.c(110):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+Action.c(110):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+Action.c(110):           <center>\n
+Action.c(110):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+Action.c(110):               Luna Lovegood\n
+Action.c(110):     <br/>\n
+Action.c(110):               Ottery<br/>\n
+Action.c(110):               Devonian<br/>\n
+Action.c(110):               <br/>\n
+Action.c(110):               Total Charge: $ 4010 <BR/> (CC: x-2390)\n
+Action.c(110):           </td> </tr> </table>\n
+Action.c(110):           </center>\n
+Action.c(110):       </TD>\n
+Action.c(110):     </TR>\n
+Action.c(110):     <TR bgcolor="#EFF2F7">\n
+Action.c(110):       <TD COLSPAN="3">\n
+Action.c(110):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(110):       02/16/2023\n
+Action.c(110):      :  1pm : Flight 451 leaves Paris  for Portland.<br>  </center>\n
+Action.c(110):       </TD>\n
+Action.c(110):     </TR>\n
+Action.c(110):     \n
+Action.c(110):     <TR bgcolor="#EFF2F7">\n
+Action.c(110):       <TD COLSPAN="4">\n
+Action.c(110):       <hr/>\n
+Action.c(110):       </TD>\n
+Action.c(110):     </TR>\n
+Action.c(110):     \n
+Action.c(110):     <!-- Flight #1 -->\n
+Action.c(110):     <TR bgcolor="#EFF2F7">\n
+Action.c(110):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+Action.c(110):     <b>\n
+Action.c(110):     <label><input type="checkbox" name="140" value="on" /></label></font></b>\n
+Action.c(110):     <input type="hidden" name="flightID" value="88520784-107747-LL"  />\n
+Action.c(110):       </TD>\n
+Action.c(110):       <TD width="45%" valign="top">\n
+Action.c(110):           <b>&nbsp;&nbsp;4 Coach class tickets for :</b><br/>\n
+Action.c(110):           <center><table border="0" width="85%"><tr><td>\n
+Action.c(110):           <li><i>LunaLovegood      <li><i>LunaLovegood      <li><i>LunaLovegood      <li><i>\n
+Action.c(110):           <li><i></i>\n
+Action.c(110):           </td></tr></table></center>\n
+Action.c(110):       </TD>\n
+Action.c(110):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+Action.c(110):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+Action.c(110):           <center>\n
+Action.c(110):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+Action.c(110):               Luna Lovegood\n
+Action.c(110):     <br/>\n
+Action.c(110):               Ottery<br/>\n
+Action.c(110):               Devonian<br/>\n
+Action.c(110):               <br/>\n
+Action.c(110):               Total Charge: $ 720 <BR/> (CC: x-2390)\n
+Action.c(110):           </td> </tr> </table>\n
+Action.c(110):           </center>\n
+Action.c(110):       </TD>\n
+Action.c(110):     </TR>\n
+Action.c(110):     <TR bgcolor="#EFF2F7">\n
+Action.c(110):       <TD COLSPAN="3">\n
+Action.c(110):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(110):       02/16/2023\n
+Action.c(110):      :  1pm : Flight 061 leaves Denver  for San Francisco.<br>  </center>\n
+Action.c(110):       </TD>\n
+Action.c(110):     </TR>\n
+Action.c(110):     \n
+Action.c(110):     <TR bgcolor="#EFF2F7">\n
+Action.c(110):       <TD COLSPAN="4">\n
+Action.c(110):       <hr/>\n
+Action.c(110):       </TD>\n
+Action.c(110):     </TR>\n
+Action.c(110):     \n
+Action.c(110):     <!-- Flight #1 -->\n
+Action.c(110):     <TR bgcolor="#EFF2F7">\n
+Action.c(110):       <TD width="5%" rowspan="2" align="left" val
+Action.c(110): t=5535841ms: 6-byte chunked response overhead for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1, Internal ID=1207)
+Action.c(110):     1000\r\n
+Action.c(110): t=5535841ms: 2-byte chunked response overhead for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1, Internal ID=1207)
+Action.c(110):     \r\n
+Action.c(110): t=5535841ms: 4096-byte chunked response body for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1, Internal ID=1207)
+Action.c(110):     ign="top">\n
+Action.c(110):     <b>\n
+Action.c(110):     <label><input type="checkbox" name="141" value="on" /></label></font></b>\n
+Action.c(110):     <input type="hidden" name="flightID" value="885307-1084-LL"  />\n
+Action.c(110):       </TD>\n
+Action.c(110):       <TD width="45%" valign="top">\n
+Action.c(110):           <b>&nbsp;&nbsp;2 First class tickets for :</b><br/>\n
+Action.c(110):           <center><table border="0" width="85%"><tr><td>\n
+Action.c(110):           <li><i>LunaLovegood      <li><i>LunaLovegood\n
+Action.c(110):           <li><i></i>\n
+Action.c(110):           </td></tr></table></center>\n
+Action.c(110):       </TD>\n
+Action.c(110):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+Action.c(110):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+Action.c(110):           <center>\n
+Action.c(110):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+Action.c(110):               Luna Lovegood\n
+Action.c(110):     <br/>\n
+Action.c(110):               Ottery<br/>\n
+Action.c(110):               Devonian<br/>\n
+Action.c(110):               <br/>\n
+Action.c(110):               Total Charge: $ 0 <BR/> (CC: x-2390)\n
+Action.c(110):           </td> </tr> </table>\n
+Action.c(110):           </center>\n
+Action.c(110):       </TD>\n
+Action.c(110):     </TR>\n
+Action.c(110):     <TR bgcolor="#EFF2F7">\n
+Action.c(110):       <TD COLSPAN="3">\n
+Action.c(110):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(110):       02/16/2023\n
+Action.c(110):      :  1pm : Flight 331 leaves Los Angeles  for Los Angeles.<br>  </center>\n
+Action.c(110):       </TD>\n
+Action.c(110):     </TR>\n
+Action.c(110):     \n
+Action.c(110):     <TR bgcolor="#EFF2F7">\n
+Action.c(110):       <TD COLSPAN="4">\n
+Action.c(110):       <hr/>\n
+Action.c(110):       </TD>\n
+Action.c(110):     </TR>\n
+Action.c(110):     \n
+Action.c(110):     <!-- Flight #1 -->\n
+Action.c(110):     <TR bgcolor="#EFF2F7">\n
+Action.c(110):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+Action.c(110):     <b>\n
+Action.c(110):     <label><input type="checkbox" name="142" value="on" /></label></font></b>\n
+Action.c(110):     <input type="hidden" name="flightID" value="88525599-109244-LL"  />\n
+Action.c(110):       </TD>\n
+Action.c(110):       <TD width="45%" valign="top">\n
+Action.c(110):           <b>&nbsp;&nbsp;A Coach class ticket for :</b><br/>\n
+Action.c(110):           <center><table border="0" width="85%"><tr><td>\n
+Action.c(110):           <li><i>LunaLovegood\n
+Action.c(110):           <li><i></i>\n
+Action.c(110):           </td></tr></table></center>\n
+Action.c(110):       </TD>\n
+Action.c(110):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+Action.c(110):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+Action.c(110):           <center>\n
+Action.c(110):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+Action.c(110):               Luna Lovegood\n
+Action.c(110):     <br/>\n
+Action.c(110):               Ottery<br/>\n
+Action.c(110):               Devonian<br/>\n
+Action.c(110):               <br/>\n
+Action.c(110):               Total Charge: $ 176 <BR/> (CC: x-2390)\n
+Action.c(110):           </td> </tr> </table>\n
+Action.c(110):           </center>\n
+Action.c(110):       </TD>\n
+Action.c(110):     </TR>\n
+Action.c(110):     <TR bgcolor="#EFF2F7">\n
+Action.c(110):       <TD COLSPAN="3">\n
+Action.c(110):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(110):       02/16/2023\n
+Action.c(110):      :  1pm : Flight 191 leaves Frankfurt  for Zurich.<br>  </center>\n
+Action.c(110):       </TD>\n
+Action.c(110):     </TR>\n
+Action.c(110):     \n
+Action.c(110):     <TR bgcolor="#EFF2F7">\n
+Action.c(110):       <TD COLSPAN="4">\n
+Action.c(110):       <hr/>\n
+Action.c(110):       </TD>\n
+Action.c(110):     </TR>\n
+Action.c(110):     \n
+Action.c(110):     <!-- Flight #1 -->\n
+Action.c(110):     <TR bgcolor="#EFF2F7">\n
+Action.c(110):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+Action.c(110):     <b>\n
+Action.c(110):     <label><input type="checkbox" name="143" value="on" /></label></font></b>\n
+Action.c(110):     <input type="hidden" name="flightID" value="88541546-1100291-LL"  />\n
+Action.c(110):       </TD>\n
+Action.c(110):       <TD width="45%" valign="top">\n
+Action.c(110):           <b>&nbsp;&nbsp;5 Business class tickets for :</b><br/>\n
+Action.c(110):           <center><table border="0" width="85%"><tr><td>\n
+Action.c(110):           <li><i>LunaLovegood      <li><i>LunaLovegood      <li><i>LunaLovegood      <li><i>  
+Action.c(110):         <li><i>\n
+Action.c(110):           <li><i></i>\n
+Action.c(110):           </td></tr></table></center>\n
+Action.c(110):       </TD>\n
+Action.c(110):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+Action.c(110):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+Action.c(110):           <center>\n
+Action.c(110):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+Action.c(110):               Luna Lovegood\n
+Action.c(110):     <br/>\n
+Action.c(110):               Ottery<br/>\n
+Action.c(110):               Devonian<br/>\n
+Action.c(110):               <br/>\n
+Action.c(110):               Total Charge: $ 3785 <BR/> (CC: x-2390)\n
+Action.c(110):           </td> </tr> </table>\n
+Action.c(110):           </center>\n
+Action.c(110):       </TD>\n
+Action.c(110):     </TR>\n
+Action.c(110):     <TR bgcolor="#EFF2F7">\n
+Action.c(110):       <TD COLSPAN="3">\n
+Action.c(110):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(110):       02/16/2023\n
+Action.c(110):      :  1pm : Flight 621 leaves San Francisco  for London.<br>  </center>\n
+Action.c(110):       </TD>\n
+Action.c(110):     </TR>\n
+Action.c(110):     \n
+Action.c(110):     <TR bgcolor="#EFF2F7">\n
+Action.c(110):       <TD COLSPAN="4">\n
+Action.c(110):       <hr/>\n
+Action.c(110):       </TD>\n
+Action.c(110):     </TR>\n
+Action.c(110):     \n
+Action.c(110):     <!-- Flight #1 -->\n
+Action.c(110):     <TR bgcolor="#EFF2F7">\n
+Action.c(110):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+Action.c(110):     <b>\n
+Action.c(110):     <label><input type="checkbox" name="144" value="on" /></label></font></b>\n
+Action.c(110):     <input type="hidden" name="flightID" value="88547808-1108015-LL"  />\n
+Action.c(110):       </TD>\n
+Action.c(110):       <TD width="45%" valign="top">\n
+Action.c(110):           <b>&nbsp;&nbsp;5 First class tickets for :</b><br/>\n
+Action.c(110):           <center><table border="0" width="85%"><tr><td>\n
+Action.c(110):           <li><i>LunaLovegood      <li><i>LunaLovegood      <li><i>LunaLovegood      <li><i>  
+Action.c(110):         <li><i>\n
+Action.c(110):           <li><i></i>\n
+Action.c(110):           </td></tr></table></center>\n
+Action.c(110):       </TD>\n
+Action.c(110):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+Action.c(110):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+Action.c(110):           <center>\n
+Action.c(110):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+Action.c(110):               Luna Lovegood\n
+Action.c(110):     <br/>\n
+Action.c(110):               Ottery<br/>\n
+Action.c(110):               Devonian<br/>\n
+Action.c(110):        
+Action.c(110): t=5535841ms: 6-byte chunked response overhead for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1, Internal ID=1207)
+Action.c(110):     1000\r\n
+Action.c(110): t=5535841ms: 2-byte chunked response overhead for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1, Internal ID=1207)
+Action.c(110):     \r\n
+Action.c(110): t=5535841ms: 4096-byte chunked response body for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1, Internal ID=1207)
+Action.c(110):            <br/>\n
+Action.c(110):               Total Charge: $ 4195 <BR/> (CC: x-2390)\n
+Action.c(110):           </td> </tr> </table>\n
+Action.c(110):           </center>\n
+Action.c(110):       </TD>\n
+Action.c(110):     </TR>\n
+Action.c(110):     <TR bgcolor="#EFF2F7">\n
+Action.c(110):       <TD COLSPAN="3">\n
+Action.c(110):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(110):       02/16/2023\n
+Action.c(110):      :  8am : Flight 790 leaves Seattle  for Zurich.<br>  </center>\n
+Action.c(110):       </TD>\n
+Action.c(110):     </TR>\n
+Action.c(110):     \n
+Action.c(110):     <TR bgcolor="#EFF2F7">\n
+Action.c(110):       <TD COLSPAN="4">\n
+Action.c(110):       <hr/>\n
+Action.c(110):       </TD>\n
+Action.c(110):     </TR>\n
+Action.c(110):     \n
+Action.c(110):     <!-- Flight #1 -->\n
+Action.c(110):     <TR bgcolor="#EFF2F7">\n
+Action.c(110):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+Action.c(110):     <b>\n
+Action.c(110):     <label><input type="checkbox" name="145" value="on" /></label></font></b>\n
+Action.c(110):     <input type="hidden" name="flightID" value="88521131-1115468-LL"  />\n
+Action.c(110):       </TD>\n
+Action.c(110):       <TD width="45%" valign="top">\n
+Action.c(110):           <b>&nbsp;&nbsp;2 First class tickets for :</b><br/>\n
+Action.c(110):           <center><table border="0" width="85%"><tr><td>\n
+Action.c(110):           <li><i>LunaLovegood      <li><i>LunaLovegood\n
+Action.c(110):           <li><i></i>\n
+Action.c(110):           </td></tr></table></center>\n
+Action.c(110):       </TD>\n
+Action.c(110):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+Action.c(110):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+Action.c(110):           <center>\n
+Action.c(110):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+Action.c(110):               Luna Lovegood\n
+Action.c(110):     <br/>\n
+Action.c(110):               Ottery<br/>\n
+Action.c(110):               Devonian<br/>\n
+Action.c(110):               <br/>\n
+Action.c(110):               Total Charge: $ 1096 <BR/> (CC: x-2390)\n
+Action.c(110):           </td> </tr> </table>\n
+Action.c(110):           </center>\n
+Action.c(110):       </TD>\n
+Action.c(110):     </TR>\n
+Action.c(110):     <TR bgcolor="#EFF2F7">\n
+Action.c(110):       <TD COLSPAN="3">\n
+Action.c(110):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(110):       02/16/2023\n
+Action.c(110):      :  8am : Flight 070 leaves Denver  for Seattle.<br>  </center>\n
+Action.c(110):       </TD>\n
+Action.c(110):     </TR>\n
+Action.c(110):     \n
+Action.c(110):     <TR bgcolor="#EFF2F7">\n
+Action.c(110):       <TD COLSPAN="4">\n
+Action.c(110):       <hr/>\n
+Action.c(110):       </TD>\n
+Action.c(110):     </TR>\n
+Action.c(110):     \n
+Action.c(110):     <!-- Flight #1 -->\n
+Action.c(110):     <TR bgcolor="#EFF2F7">\n
+Action.c(110):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+Action.c(110):     <b>\n
+Action.c(110):     <label><input type="checkbox" name="146" value="on" /></label></font></b>\n
+Action.c(110):     <input type="hidden" name="flightID" value="88540748-112369-LL"  />\n
+Action.c(110):       </TD>\n
+Action.c(110):       <TD width="45%" valign="top">\n
+Action.c(110):           <b>&nbsp;&nbsp;4 Coach class tickets for :</b><br/>\n
+Action.c(110):           <center><table border="0" width="85%"><tr><td>\n
+Action.c(110):           <li><i>LunaLovegood      <li><i>LunaLovegood      <li><i>LunaLovegood      <li><i>\n
+Action.c(110):           <li><i></i>\n
+Action.c(110):           </td></tr></table></center>\n
+Action.c(110):       </TD>\n
+Action.c(110):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+Action.c(110):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+Action.c(110):           <center>\n
+Action.c(110):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+Action.c(110):               Luna Lovegood\n
+Action.c(110):     <br/>\n
+Action.c(110):               Ottery<br/>\n
+Action.c(110):               Devonian<br/>\n
+Action.c(110):               <br/>\n
+Action.c(110):               Total Charge: $ 808 <BR/> (CC: x-2390)\n
+Action.c(110):           </td> </tr> </table>\n
+Action.c(110):           </center>\n
+Action.c(110):       </TD>\n
+Action.c(110):     </TR>\n
+Action.c(110):     <TR bgcolor="#EFF2F7">\n
+Action.c(110):       <TD COLSPAN="3">\n
+Action.c(110):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(110):       02/16/2023\n
+Action.c(110):      :  8am : Flight 600 leaves San Francisco  for Denver.<br>  </center>\n
+Action.c(110):       </TD>\n
+Action.c(110):     </TR>\n
+Action.c(110):     \n
+Action.c(110):     <TR bgcolor="#EFF2F7">\n
+Action.c(110):       <TD COLSPAN="4">\n
+Action.c(110):       <hr/>\n
+Action.c(110):       </TD>\n
+Action.c(110):     </TR>\n
+Action.c(110):     \n
+Action.c(110):     <!-- Flight #1 -->\n
+Action.c(110):     <TR bgcolor="#EFF2F7">\n
+Action.c(110):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+Action.c(110):     <b>\n
+Action.c(110):     <label><input type="checkbox" name="147" value="on" /></label></font></b>\n
+Action.c(110):     <input type="hidden" name="flightID" value="88537497-1130937-LL"  />\n
+Action.c(110):       </TD>\n
+Action.c(110):       <TD width="45%" valign="top">\n
+Action.c(110):           <b>&nbsp;&nbsp;5 Business class tickets for :</b><br/>\n
+Action.c(110):           <center><table border="0" width="85%"><tr><td>\n
+Action.c(110):           <li><i>LunaLovegood      <li><i>LunaLovegood      <li><i>LunaLovegood      <li><i>  
+Action.c(110):         <li><i>\n
+Action.c(110):           <li><i></i>\n
+Action.c(110):           </td></tr></table></center>\n
+Action.c(110):       </TD>\n
+Action.c(110):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+Action.c(110):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+Action.c(110):           <center>\n
+Action.c(110):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+Action.c(110):               Luna Lovegood\n
+Action.c(110):     <br/>\n
+Action.c(110):               Ottery<br/>\n
+Action.c(110):               Devonian<br/>\n
+Action.c(110):               <br/>\n
+Action.c(110):               Total Charge: $ 2190 <BR/> (CC: x-2390)\n
+Action.c(110):           </td> </tr> </table>\n
+Action.c(110):           </center>\n
+Action.c(110):       </TD>\n
+Action.c(110):     </TR>\n
+Action.c(110):     <TR bgcolor="#EFF2F7">\n
+Action.c(110):       <TD COLSPAN="3">\n
+Action.c(110):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(110):       02/16/2023\n
+Action.c(110):      :  5pm : Flight 512 leaves Portland  for Frankfurt.<br>  </center>\n
+Action.c(110):       </TD>\n
+Action.c(110):     </TR>\n
+Action.c(110):     \n
+Action.c(110):     <TR bgcolor="#EFF2F7">\n
+Action.c(110):       <TD COLSPAN="4">\n
+Action.c(110):       <hr/>\n
+Action.c(110):       </TD>\n
+Action.c(110):     </TR>\n
+Action.c(110):     \n
+Action.c(110):     <!-- Flight #1 -->\n
+Action.c(110):     <TR bgcolor="#EFF2F7">\n
+Action.c(110):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+Action.c(110):     <b>\n
+Action.c(110):     <label><input type="checkbox" name="148" value="on" /></label></font></b>\n
+Action.c(110):     <input type="hidden" name="flightID" value="88521195-113909-LL"  />\n
+Action.c(110):       </TD>\n
+Action.c(110):       <TD width="45%" valign="top">\n
+Action.c(110):           <b>&n
+Action.c(110): t=5535842ms: 6-byte chunked response overhead for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1, Internal ID=1207)
+Action.c(110):     1000\r\n
+Action.c(110): t=5535842ms: 2-byte chunked response overhead for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1, Internal ID=1207)
+Action.c(110):     \r\n
+Action.c(110): t=5535842ms: 4096-byte chunked response body for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1, Internal ID=1207)
+Action.c(110):     bsp;&nbsp;3 Coach class tickets for :</b><br/>\n
+Action.c(110):           <center><table border="0" width="85%"><tr><td>\n
+Action.c(110):           <li><i>LunaLovegood      <li><i>LunaLovegood      <li><i>LunaLovegood\n
+Action.c(110):           <li><i></i>\n
+Action.c(110):           </td></tr></table></center>\n
+Action.c(110):       </TD>\n
+Action.c(110):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+Action.c(110):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+Action.c(110):           <center>\n
+Action.c(110):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+Action.c(110):               Luna Lovegood\n
+Action.c(110):     <br/>\n
+Action.c(110):               Ottery<br/>\n
+Action.c(110):               Devonian<br/>\n
+Action.c(110):               <br/>\n
+Action.c(110):               Total Charge: $ 828 <BR/> (CC: x-2390)\n
+Action.c(110):           </td> </tr> </table>\n
+Action.c(110):           </center>\n
+Action.c(110):       </TD>\n
+Action.c(110):     </TR>\n
+Action.c(110):     <TR bgcolor="#EFF2F7">\n
+Action.c(110):       <TD COLSPAN="3">\n
+Action.c(110):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(110):       02/16/2023\n
+Action.c(110):      :  5pm : Flight 072 leaves Denver  for Seattle.<br>  </center>\n
+Action.c(110):       </TD>\n
+Action.c(110):     </TR>\n
+Action.c(110):     \n
+Action.c(110):     <TR bgcolor="#EFF2F7">\n
+Action.c(110):       <TD COLSPAN="4">\n
+Action.c(110):       <hr/>\n
+Action.c(110):       </TD>\n
+Action.c(110):     </TR>\n
+Action.c(110):     \n
+Action.c(110):     <!-- Flight #1 -->\n
+Action.c(110):     <TR bgcolor="#EFF2F7">\n
+Action.c(110):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+Action.c(110):     <b>\n
+Action.c(110):     <label><input type="checkbox" name="149" value="on" /></label></font></b>\n
+Action.c(110):     <input type="hidden" name="flightID" value="88539707-114659-LL"  />\n
+Action.c(110):       </TD>\n
+Action.c(110):       <TD width="45%" valign="top">\n
+Action.c(110):           <b>&nbsp;&nbsp;5 First class tickets for :</b><br/>\n
+Action.c(110):           <center><table border="0" width="85%"><tr><td>\n
+Action.c(110):           <li><i>LunaLovegood      <li><i>LunaLovegood      <li><i>LunaLovegood      <li><i>  
+Action.c(110):         <li><i>\n
+Action.c(110):           <li><i></i>\n
+Action.c(110):           </td></tr></table></center>\n
+Action.c(110):       </TD>\n
+Action.c(110):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+Action.c(110):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+Action.c(110):           <center>\n
+Action.c(110):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+Action.c(110):               Luna Lovegood\n
+Action.c(110):     <br/>\n
+Action.c(110):               Ottery<br/>\n
+Action.c(110):               Devonian<br/>\n
+Action.c(110):               <br/>\n
+Action.c(110):               Total Charge: $ 575 <BR/> (CC: x-2390)\n
+Action.c(110):           </td> </tr> </table>\n
+Action.c(110):           </center>\n
+Action.c(110):       </TD>\n
+Action.c(110):     </TR>\n
+Action.c(110):     <TR bgcolor="#EFF2F7">\n
+Action.c(110):       <TD COLSPAN="3">\n
+Action.c(110):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(110):       02/16/2023\n
+Action.c(110):      :  5pm : Flight 572 leaves Portland  for Seattle.<br>  </center>\n
+Action.c(110):       </TD>\n
+Action.c(110):     </TR>\n
+Action.c(110):     \n
+Action.c(110):     <TR bgcolor="#EFF2F7">\n
+Action.c(110):       <TD COLSPAN="4">\n
+Action.c(110):       <hr/>\n
+Action.c(110):       </TD>\n
+Action.c(110):     </TR>\n
+Action.c(110):     \n
+Action.c(110):     <!-- Flight #1 -->\n
+Action.c(110):     <TR bgcolor="#EFF2F7">\n
+Action.c(110):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+Action.c(110):     <b>\n
+Action.c(110):     <label><input type="checkbox" name="150" value="on" /></label></font></b>\n
+Action.c(110):     <input type="hidden" name="flightID" value="88540748-115415-LL"  />\n
+Action.c(110):       </TD>\n
+Action.c(110):       <TD width="45%" valign="top">\n
+Action.c(110):           <b>&nbsp;&nbsp;2 Coach class tickets for :</b><br/>\n
+Action.c(110):           <center><table border="0" width="85%"><tr><td>\n
+Action.c(110):           <li><i>LunaLovegood      <li><i>LunaLovegood\n
+Action.c(110):           <li><i></i>\n
+Action.c(110):           </td></tr></table></center>\n
+Action.c(110):       </TD>\n
+Action.c(110):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+Action.c(110):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+Action.c(110):           <center>\n
+Action.c(110):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+Action.c(110):               Luna Lovegood\n
+Action.c(110):     <br/>\n
+Action.c(110):               Ottery<br/>\n
+Action.c(110):               Devonian<br/>\n
+Action.c(110):               <br/>\n
+Action.c(110):               Total Charge: $ 404 <BR/> (CC: x-2390)\n
+Action.c(110):           </td> </tr> </table>\n
+Action.c(110):           </center>\n
+Action.c(110):       </TD>\n
+Action.c(110):     </TR>\n
+Action.c(110):     <TR bgcolor="#EFF2F7">\n
+Action.c(110):       <TD COLSPAN="3">\n
+Action.c(110):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(110):       02/16/2023\n
+Action.c(110):      :  8am : Flight 600 leaves San Francisco  for Denver.<br>  </center>\n
+Action.c(110):       </TD>\n
+Action.c(110):     </TR>\n
+Action.c(110):     \n
+Action.c(110):     <TR bgcolor="#EFF2F7">\n
+Action.c(110):       <TD COLSPAN="4">\n
+Action.c(110):       <hr/>\n
+Action.c(110):       </TD>\n
+Action.c(110):     </TR>\n
+Action.c(110):     \n
+Action.c(110):     <!-- Flight #1 -->\n
+Action.c(110):     <TR bgcolor="#EFF2F7">\n
+Action.c(110):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+Action.c(110):     <b>\n
+Action.c(110):     <label><input type="checkbox" name="151" value="on" /></label></font></b>\n
+Action.c(110):     <input type="hidden" name="flightID" value="885470-1161-LL"  />\n
+Action.c(110):       </TD>\n
+Action.c(110):       <TD width="45%" valign="top">\n
+Action.c(110):           <b>&nbsp;&nbsp;A Coach class ticket for :</b><br/>\n
+Action.c(110):           <center><table border="0" width="85%"><tr><td>\n
+Action.c(110):           <li><i>LunaLovegood\n
+Action.c(110):           <li><i></i>\n
+Action.c(110):           </td></tr></table></center>\n
+Action.c(110):       </TD>\n
+Action.c(110):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+Action.c(110):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+Action.c(110):           <center>\n
+Action.c(110):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+Action.c(110):               Luna Lovegood\n
+Action.c(110):     <br/>\n
+Action.c(110):               Ottery<br/>\n
+Action.c(110):               Devonian<br/>\n
+Action.c(110):               <br/>\n
+Action.c(110):               Total Charge: $ 0 <BR/> (CC: x-2390)\n
+Action.c(110):           </td> </tr> </table>\n
+Action.c(110):           </center>\n
+Action.c(110):       </TD>\n
+Action.c(110):     </TR>\n
+Action.c(110):     <TR bgcolor="#EFF2F7">\n
+Action.c(110):       <TD COLSPAN="3">\n
+Action.c(110):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(110):       02/16/2023\n
+Action.c(110):      :  8am : Flight 770 leaves Seattle
+Action.c(110): t=5535845ms: 6-byte chunked response overhead for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1, Internal ID=1207)
+Action.c(110):     2000\r\n
+Action.c(110): t=5535845ms: 2-byte chunked response overhead for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1, Internal ID=1207)
+Action.c(110):     \r\n
+Action.c(110): t=5535845ms: 8192-byte chunked response body for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1, Internal ID=1207)
+Action.c(110):       for Seattle.<br>  </center>\n
+Action.c(110):       </TD>\n
+Action.c(110):     </TR>\n
+Action.c(110):     \n
+Action.c(110):     <TR bgcolor="#EFF2F7">\n
+Action.c(110):       <TD COLSPAN="4">\n
+Action.c(110):       <hr/>\n
+Action.c(110):       </TD>\n
+Action.c(110):     </TR>\n
+Action.c(110):     \n
+Action.c(110):     <!-- Flight #1 -->\n
+Action.c(110):     <TR bgcolor="#EFF2F7">\n
+Action.c(110):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+Action.c(110):     <b>\n
+Action.c(110):     <label><input type="checkbox" name="152" value="on" /></label></font></b>\n
+Action.c(110):     <input type="hidden" name="flightID" value="885470-1169-LL"  />\n
+Action.c(110):       </TD>\n
+Action.c(110):       <TD width="45%" valign="top">\n
+Action.c(110):           <b>&nbsp;&nbsp;2 Coach class tickets for :</b><br/>\n
+Action.c(110):           <center><table border="0" width="85%"><tr><td>\n
+Action.c(110):           <li><i>LunaLovegood      <li><i>LunaLovegood\n
+Action.c(110):           <li><i></i>\n
+Action.c(110):           </td></tr></table></center>\n
+Action.c(110):       </TD>\n
+Action.c(110):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+Action.c(110):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+Action.c(110):           <center>\n
+Action.c(110):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+Action.c(110):               Luna Lovegood\n
+Action.c(110):     <br/>\n
+Action.c(110):               Ottery<br/>\n
+Action.c(110):               Devonian<br/>\n
+Action.c(110):               <br/>\n
+Action.c(110):               Total Charge: $ 0 <BR/> (CC: x-2390)\n
+Action.c(110):           </td> </tr> </table>\n
+Action.c(110):           </center>\n
+Action.c(110):       </TD>\n
+Action.c(110):     </TR>\n
+Action.c(110):     <TR bgcolor="#EFF2F7">\n
+Action.c(110):       <TD COLSPAN="3">\n
+Action.c(110):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(110):       02/16/2023\n
+Action.c(110):      :  8am : Flight 770 leaves Seattle  for Seattle.<br>  </center>\n
+Action.c(110):       </TD>\n
+Action.c(110):     </TR>\n
+Action.c(110):     \n
+Action.c(110):     <TR bgcolor="#EFF2F7">\n
+Action.c(110):       <TD COLSPAN="4">\n
+Action.c(110):       <hr/>\n
+Action.c(110):       </TD>\n
+Action.c(110):     </TR>\n
+Action.c(110):     \n
+Action.c(110):     <!-- Flight #1 -->\n
+Action.c(110):     <TR bgcolor="#EFF2F7">\n
+Action.c(110):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+Action.c(110):     <b>\n
+Action.c(110):     <label><input type="checkbox" name="153" value="on" /></label></font></b>\n
+Action.c(110):     <input type="hidden" name="flightID" value="88533419-1177024-LL"  />\n
+Action.c(110):       </TD>\n
+Action.c(110):       <TD width="45%" valign="top">\n
+Action.c(110):           <b>&nbsp;&nbsp;4 Coach class tickets for :</b><br/>\n
+Action.c(110):           <center><table border="0" width="85%"><tr><td>\n
+Action.c(110):           <li><i>LunaLovegood      <li><i>LunaLovegood      <li><i>LunaLovegood      <li><i>\n
+Action.c(110):           <li><i></i>\n
+Action.c(110):           </td></tr></table></center>\n
+Action.c(110):       </TD>\n
+Action.c(110):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+Action.c(110):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+Action.c(110):           <center>\n
+Action.c(110):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+Action.c(110):               Luna Lovegood\n
+Action.c(110):     <br/>\n
+Action.c(110):               Ottery<br/>\n
+Action.c(110):               Devonian<br/>\n
+Action.c(110):               <br/>\n
+Action.c(110):               Total Charge: $ 1324 <BR/> (CC: x-2390)\n
+Action.c(110):           </td> </tr> </table>\n
+Action.c(110):           </center>\n
+Action.c(110):       </TD>\n
+Action.c(110):     </TR>\n
+Action.c(110):     <TR bgcolor="#EFF2F7">\n
+Action.c(110):       <TD COLSPAN="3">\n
+Action.c(110):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(110):       02/16/2023\n
+Action.c(110):      :  5pm : Flight 402 leaves Paris  for Denver.<br>  </center>\n
+Action.c(110):       </TD>\n
+Action.c(110):     </TR>\n
+Action.c(110):     \n
+Action.c(110):     <TR bgcolor="#EFF2F7">\n
+Action.c(110):       <TD COLSPAN="4">\n
+Action.c(110):       <hr/>\n
+Action.c(110):       </TD>\n
+Action.c(110):     </TR>\n
+Action.c(110):     <TR>\n
+Action.c(110):        <TD align="center" COLSPAN="4">\n
+Action.c(110):        <b>A total of 153 scheduled flights.</font></b>\n
+Action.c(110):        </TD>\n
+Action.c(110):     </TR>\n
+Action.c(110):     </TABLE>\n
+Action.c(110):     \n
+Action.c(110):     <TABLE WIDTH="87%" BORDER="0" CELLSPACING="0">\n
+Action.c(110):     <TR>\n
+Action.c(110):     <TD align="left" width="50%" >\n
+Action.c(110):     <input type="image" name="removeFlights" src="/WebTours/images/cancelreservation.gif" bord
+Action.c(110):     er="0" /></TD>\n
+Action.c(110):     <TD align="right" width="50%" >\n
+Action.c(110):     <input type="image" name="removeAllFlights" src="/WebTours/images/cancelallreservations.gi
+Action.c(110):     f" border="0" /></TD>\n
+Action.c(110):     </TABLE>\n
+Action.c(110):     \n
+Action.c(110):     <div><input type="hidden" name=".cgifields" value="127"  /><input type="hidden" name=".cgi
+Action.c(110):     fields" value="32"  /><input type="hidden" name=".cgifields" value="90"  /><input type="hi
+Action.c(110):     dden" name=".cgifields" value="118"  /><input type="hidden" name=".cgifields" value="71"  
+Action.c(110):     /><input type="hidden" name=".cgifields" value="102"  /><input type="hidden" name=".cgifie
+Action.c(110):     lds" value="18"  /><input type="hidden" name=".cgifields" value="125"  /><input type="hidd
+Action.c(110):     en" name=".cgifields" value="16"  /><input type="hidden" name=".cgifields" value="44"  /><
+Action.c(110):     input type="hidden" name=".cgifields" value="55"  /><input type="hidden" name=".cgifields"
+Action.c(110):      value="84"  /><input type="hidden" name=".cgifields" value="27"  /><input type="hidden" n
+Action.c(110):     ame=".cgifields" value="95"  /><input type="hidden" name=".cgifields" value="57"  /><input
+Action.c(110):      type="hidden" name=".cgifields" value="20"  /><input type="hidden" name=".cgifields" valu
+Action.c(110):     e="109"  /><input type="hidden" name=".cgifields" value="151"  /><input type="hidden" name
+Action.c(110):     =".cgifields" value="89"  /><input type="hidden" name=".cgifields" value="148"  /><input t
+Action.c(110):     ype="hidden" name=".cgifields" value="31"  /><input type="hidden" name=".cgifields" value=
+Action.c(110):     "35"  /><input type="hidden" name=".cgifields" value="11"  /><input type="hidden" name=".c
+Action.c(110):     gifields" value="78"  /><input type="hidden" name=".cgifields" value="93"  /><input type="
+Action.c(110):     hidden" name=".cgifields" value="106"  /><input type="hidden" name=".cgifields" value="65"
+Action.c(110):       /><input type="hidden" name=".cgifields" value="29"  /><input type="hidden" name=".cgifi
+Action.c(110):     elds" value="138"  /><input type="hidden" name=".cgifields" value="114"  /><input type="hi
+Action.c(110):     dden" name=".cgifields" value="58"  /><input type="hidden" name=".cgifields" value="153"  
+Action.c(110):     /><input type="hidden" name=".cgifields" value="15"  /><input type="hidden" name=".cgifiel
+Action.c(110):     ds" value="137"  /><input type="hidden" name=".cgifields" value="81"  /><input type="hidde
+Action.c(110):     n" name=".cgifields" value="60"  /><input type="hidden" name=".cgifields" value="101"  /><
+Action.c(110):     input type="hidden" name=".cgifields" value="73"  /><input type="hidden" name=".cgifields"
+Action.c(110):      value="86"  /><input type="hidden" name=".cgifields" value="76"  /><input type="hidden" n
+Action.c(110):     ame=".cgifields" value="62"  /><input type="hidden" name=".cgifields" value="67"  /><input
+Action.c(110):      type="hidden" name=".cgifields" value="139"  /><input type="hidden" name=".cgifields" val
+Action.c(110):     ue="129"  /><input type="hidden" name=".cgifields" value="2"  /><input type="hidden" name=
+Action.c(110):     ".cgifields" value="17"  /><input type="hidden" name=".cgifields" value="110"  /><input ty
+Action.c(110):     pe="hidden" name=".cgifields" value="82"  /><input type="hidden" name=".cgifields" value="
+Action.c(110):     147"  /><input type="hidden" name=".cgifields" value="135"  /><input type="hidden" name=".
+Action.c(110):     cgifields" value="14"  /><input type="hidden" name=".cgifields" value="112"  /><input type
+Action.c(110):     ="hidden" name=".cgifields" value="69"  /><input type="hidden" name=".cgifields" value="14
+Action.c(110):     5"  /><input type="hidden" name=".cgifields" value="49"  /><input type="hidden" name=".cgi
+Action.c(110):     fields" value="24"  /><input type="hidden" name=".cgifields" value="140"  /><input type="h
+Action.c(110):     idden" name=".cgifields" value="124"  /><input type="hidden" name=".cgifields" value="104"
+Action.c(110):       /><input type="hidden" name=".cgifields" value="131"  /><input type="hidden" name=".cgif
+Action.c(110):     ields" value="121"  /><input type="hidden" name=".cgifields" value="79"  /><input type="hi
+Action.c(110):     dden" name=".cgifields" value="23"  /><input type="hidden" name=".cgifields" value="96"  /
+Action.c(110):     ><input type="hidden" name=".cgifields" value="126"  /><input type="hidden" name=".cgifiel
+Action.c(110):     ds" value="47"  /><input type="hidden" name=".cgifields" value="8"  /><input type="hidden"
+Action.c(110):      name=".cgifields" value="98"  /><input type="hidden" name=".cgifields" value="37"  /><inp
+Action.c(110):     ut type="hidden" name=".cgifields" value="117"  /><input type="hidden" name=".cgifields" v
+Action.c(110):     alue="43"  /><input type="hidden" name=".cgifields" value="5"  /><input type="hidden" name
+Action.c(110):     =".cgifields" value="33"  /><input type="hidden" name=".cgifields" value="21"  /><input ty
+Action.c(110):     pe="hidden" name=".cgifields" value="63"  /><input type="hidden" name=".cgifields" value="
+Action.c(110):     7"  /><input type="hidden" name=".cgifields" value="26"  /><input type="hidden" name=".cgi
+Action.c(110):     fields" value="80"  /><input type="hidden" name=".cgifields" value="119"  /><input type="h
+Action.c(110):     idden" name=".cgifields" value="99"  /><input type="hidden" name=".cgifields" value="72"  
+Action.c(110):     /><input type="hidden" name=".cgifields" value="74"  /><input type="hidden" name=".cgifiel
+Action.c(110):     ds" value="61"  /><input type="hidden" name=".cgifields" value="108"  /><input type="hidde
+Action.c(110):     n" name=".cgifields" value="115"  /><input type="hidden" name=".cgifields" value="92"  /><
+Action.c(110):     input type="hidden" name=".cgifields" value="103"  /><input type="hidden" name=".cgifields
+Action.c(110):     " value="10"  /><input type="hidden" name=".cgifields" value="113"  /><input type="hidden"
+Action.c(110):      name=".cgifields" value="152"  /><input type="hidden" name=".cgifields" value="142"  /><i
+Action.c(110):     nput type="hidden" name=".cgifields" value="91"  /><input type="hidden" name=".cgifields" 
+Action.c(110):     value="48"  /><input type="hidden" name=".cgifields" value="107"  /><input type="hidden" n
+Action.c(110):     ame=".cgifields" value="87"  /><input type="hidden" name=".cgifields" value="77"  /><input
+Action.c(110):      type="hidden" name=".cgifields" value="133"  /><input type="hidden" name=".cgifields" val
+Action.c(110):     ue="149"  /><input type="hidden" name=".cgifields" value="123"  /><input type="hidden" nam
+Action.c(110):     e=".cgifields" value="50"  /><input type="hidden" name=".c
+Action.c(110): Resource "http://localhost:1080/WebTours/images/cancelreservation.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(110): Resource "http://localhost:1080/WebTours/images/cancelallreservations.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(110): t=5535846ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1, Internal ID=1207)
+Action.c(110):     b10\r\n
+Action.c(110): t=5535846ms: 2-byte chunked response overhead for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1, Internal ID=1207)
+Action.c(110):     \r\n
+Action.c(110): t=5535846ms: 2832-byte chunked response body for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1, Internal ID=1207)
+Action.c(110):     gifields" value="39"  /><input type="hidden" name=".cgifields" value="64"  /><input type="
+Action.c(110):     hidden" name=".cgifields" value="97"  /><input type="hidden" name=".cgifields" value="12" 
+Action.c(110):      /><input type="hidden" name=".cgifields" value="41"  /><input type="hidden" name=".cgifie
+Action.c(110):     lds" value="52"  /><input type="hidden" name=".cgifields" value="56"  /><input type="hidde
+Action.c(110):     n" name=".cgifields" value="45"  /><input type="hidden" name=".cgifields" value="66"  /><i
+Action.c(110):     nput type="hidden" name=".cgifields" value="19"  /><input type="hidden" name=".cgifields" 
+Action.c(110):     value="54"  /><input type="hidden" name=".cgifields" value="70"  /><input type="hidden" na
+Action.c(110):     me=".cgifields" value="68"  /><input type="hidden" name=".cgifields" value="1"  /><input t
+Action.c(110):     ype="hidden" name=".cgifields" value="136"  /><input type="hidden" name=".cgifields" value
+Action.c(110):     ="88"  /><input type="hidden" name=".cgifields" value="116"  /><input type="hidden" name="
+Action.c(110):     .cgifields" value="144"  /><input type="hidden" name=".cgifields" value="141"  /><input ty
+Action.c(110):     pe="hidden" name=".cgifields" value="30"  /><input type="hidden" name=".cgifields" value="
+Action.c(110):     100"  /><input type="hidden" name=".cgifields" value="25"  /><input type="hidden" name=".c
+Action.c(110):     gifields" value="128"  /><input type="hidden" name=".cgifields" value="28"  /><input type=
+Action.c(110):     "hidden" name=".cgifields" value="120"  /><input type="hidden" name=".cgifields" value="13
+Action.c(110):     4"  /><input type="hidden" name=".cgifields" value="40"  /><input type="hidden" name=".cgi
+Action.c(110):     fields" value="75"  /><input type="hidden" name=".cgifields" value="83"  /><input type="hi
+Action.c(110):     dden" name=".cgifields" value="59"  /><input type="hidden" name=".cgifields" value="150"  
+Action.c(110):     /><input type="hidden" name=".cgifields" value="130"  /><input type="hidden" name=".cgifie
+Action.c(110):     lds" value="53"  /><input type="hidden" name=".cgifields" value="122"  /><input type="hidd
+Action.c(110):     en" name=".cgifields" value="143"  /><input type="hidden" name=".cgifields" value="42"  />
+Action.c(110):     <input type="hidden" name=".cgifields" value="22"  /><input type="hidden" name=".cgifields
+Action.c(110):     " value="46"  /><input type="hidden" name=".cgifields" value="13"  /><input type="hidden" 
+Action.c(110):     name=".cgifields" value="105"  /><input type="hidden" name=".cgifields" value="6"  /><inpu
+Action.c(110):     t type="hidden" name=".cgifields" value="85"  /><input type="hidden" name=".cgifields" val
+Action.c(110):     ue="36"  /><input type="hidden" name=".cgifields" value="3"  /><input type="hidden" name="
+Action.c(110):     .cgifields" value="94"  /><input type="hidden" name=".cgifields" value="146"  /><input typ
+Action.c(110):     e="hidden" name=".cgifields" value="51"  /><input type="hidden" name=".cgifields" value="9
+Action.c(110):     "  /><input type="hidden" name=".cgifields" value="111"  /><input type="hidden" name=".cgi
+Action.c(110):     fields" value="38"  /><input type="hidden" name=".cgifields" value="4"  /><input type="hid
+Action.c(110):     den" name=".cgifields" value="34"  /><input type="hidden" name=".cgifields" value="132"  /
+Action.c(110):     ></div></form>\n
+Action.c(110):     \n
+Action.c(110):     </center>\n
+Action.c(110):     \n
+Action.c(110):     </body>\n
+Action.c(110):     </html>
+Action.c(110): t=5535849ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1, Internal ID=1207)
+Action.c(110):     0\r\n
+Action.c(110):     \r\n
+Action.c(110): t=5535849ms: Request done "http://localhost:1080/cgi-bin/itinerary.pl"  	[MsgId: MMSG-26000]
+Action.c(110): Error -26368: "Text=885348-7-LL" found for web_reg_find (count=1)  	[MsgId: MERR-26368]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 33.	[MsgId: MMSG-10545]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(4): Notify: Transaction "UC5_DeletingTicket" started.	[MsgId: MMSG-16999]
+Action.c(6): Notify: Transaction "open_site" started.	[MsgId: MMSG-16999]
+Action.c(8): web_reg_find started  	[MsgId: MMSG-26355]
+Action.c(8): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(12): web_set_sockets_option started  	[MsgId: MMSG-26355]
+Action.c(12): web_set_sockets_option was successful  	[MsgId: MMSG-26392]
+Action.c(14): web_add_auto_header("Sec-Fetch-Dest") started  	[MsgId: MMSG-26355]
+Action.c(14): An unrecognized header ("Sec-Fetch-Dest") is being added  	[MsgId: MMSG-26595]
+Action.c(14): "Sec-Fetch-Dest: frame" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(14): web_add_auto_header("Sec-Fetch-Dest") was successful  	[MsgId: MMSG-26392]
+Action.c(17): web_add_auto_header("Sec-Fetch-Mode") started  	[MsgId: MMSG-26355]
+Action.c(17): An unrecognized header ("Sec-Fetch-Mode") is being added  	[MsgId: MMSG-26595]
+Action.c(17): "Sec-Fetch-Mode: navigate" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(17): web_add_auto_header("Sec-Fetch-Mode") was successful  	[MsgId: MMSG-26392]
+Action.c(20): web_add_auto_header("Sec-Fetch-Site") started  	[MsgId: MMSG-26355]
+Action.c(20): An unrecognized header ("Sec-Fetch-Site") is being added  	[MsgId: MMSG-26595]
+Action.c(20): "Sec-Fetch-Site: same-origin" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(20): web_add_auto_header("Sec-Fetch-Site") was successful  	[MsgId: MMSG-26392]
+Action.c(23): web_add_auto_header("Upgrade-Insecure-Requests") started  	[MsgId: MMSG-26355]
+Action.c(23): An unrecognized header ("Upgrade-Insecure-Requests") is being added  	[MsgId: MMSG-26595]
+Action.c(23): "Upgrade-Insecure-Requests: 1" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(23): web_add_auto_header("Upgrade-Insecure-Requests") was successful  	[MsgId: MMSG-26392]
+Action.c(26): web_add_auto_header("sec-ch-ua") started  	[MsgId: MMSG-26355]
+Action.c(26): An unrecognized header ("sec-ch-ua") is being added  	[MsgId: MMSG-26595]
+Action.c(26): "sec-ch-ua: "Not?A_Brand";v="8", "Chromium";v="108", "Google Chrome";v="108"" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(26): web_add_auto_header("sec-ch-ua") was successful  	[MsgId: MMSG-26392]
+Action.c(29): web_add_auto_header("sec-ch-ua-mobile") started  	[MsgId: MMSG-26355]
+Action.c(29): An unrecognized header ("sec-ch-ua-mobile") is being added  	[MsgId: MMSG-26595]
+Action.c(29): "sec-ch-ua-mobile: ?0" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(29): web_add_auto_header("sec-ch-ua-mobile") was successful  	[MsgId: MMSG-26392]
+Action.c(32): web_add_auto_header("sec-ch-ua-platform") started  	[MsgId: MMSG-26355]
+Action.c(32): An unrecognized header ("sec-ch-ua-platform") is being added  	[MsgId: MMSG-26595]
+Action.c(32): "sec-ch-ua-platform: "Windows"" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(32): web_add_auto_header("sec-ch-ua-platform") was successful  	[MsgId: MMSG-26392]
+Action.c(35): web_url("welcome.pl") started  	[MsgId: MMSG-26355]
+Action.c(35): t=6232226ms: Connecting [0] to host 127.0.0.1:1080  	[MsgId: MMSG-26000]
+Action.c(35): t=6232226ms: Connected socket [0] from 127.0.0.1:20226 to 127.0.0.1:1080 in 0 ms  	[MsgId: MMSG-26000]
+Action.c(35): t=6232226ms: 599-byte request headers for "http://localhost:1080/cgi-bin/welcome.pl?signOff=true" (RelFrameId=1, Internal ID=702)
+Action.c(35):     GET /cgi-bin/welcome.pl?signOff=true HTTP/1.1\r\n
+Action.c(35):     Referer: http://localhost:1080/WebTours/\r\n
+Action.c(35):     Sec-Fetch-Dest: frame\r\n
+Action.c(35):     Sec-Fetch-Mode: navigate\r\n
+Action.c(35):     Sec-Fetch-Site: same-origin\r\n
+Action.c(35):     Upgrade-Insecure-Requests: 1\r\n
+Action.c(35):     sec-ch-ua: "Not?A_Brand";v="8", "Chromium";v="108", "Google Chrome";v="108"\r\n
+Action.c(35):     sec-ch-ua-mobile: ?0\r\n
+Action.c(35):     sec-ch-ua-platform: "Windows"\r\n
+Action.c(35):     User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck
+Action.c(35):     o) Chrome/108.0.0.0 Safari/537.36\r\n
+Action.c(35):     Accept-Encoding: gzip, deflate\r\n
+Action.c(35):     Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7\r\n
+Action.c(35):     Accept: */*\r\n
+Action.c(35):     Connection: Keep-Alive\r\n
+Action.c(35):     Host: localhost:1080\r\n
+Action.c(35):     \r\n
+Action.c(35): t=6237628ms: 328-byte response headers for "http://localhost:1080/cgi-bin/welcome.pl?signOff=true" (RelFrameId=1, Internal ID=702)
+Action.c(35):     HTTP/1.1 200 OK\r\n
+Action.c(35):     Date: Tue, 14 Feb 2023 11:35:56 GMT\r\n
+Action.c(35):     Server: Apache/2.2.21 (Win32)\r\n
+Action.c(35):     Set-Cookie: MSO=SID&1676374556; path=/\r\n
+Action.c(35):     Set-Cookie: MTUserInfo=; path=/; expires=Mon, 13-Feb-2023 11:35:56 GMT\r\n
+Action.c(35):     Keep-Alive: timeout=5, max=100\r\n
+Action.c(35):     Connection: Keep-Alive\r\n
+Action.c(35):     Transfer-Encoding: chunked\r\n
+Action.c(35):     Content-Type: text/html; charset=ISO-8859-1\r\n
+Action.c(35):     \r\n
+Action.c(35): t=6237628ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/welcome.pl?signOff=true" (RelFrameId=1, Internal ID=702)
+Action.c(35):     2ae\r\n
+Action.c(35): t=6237628ms: 2-byte chunked response overhead for "http://localhost:1080/cgi-bin/welcome.pl?signOff=true" (RelFrameId=1, Internal ID=702)
+Action.c(35):     \r\n
+Action.c(35): t=6237628ms: 686-byte chunked response body for "http://localhost:1080/cgi-bin/welcome.pl?signOff=true" (RelFrameId=1, Internal ID=702)
+Action.c(35):     <!-- \n
+Action.c(35):      A Session ID has been created and loaded into a cookie called MSO.\n
+Action.c(35):      Also, the server options have been loaded into the cookie called\n
+Action.c(35):      MSO as well.  The server options can be set via the Admin page.\n
+Action.c(35):      --->\n
+Action.c(35):     \n
+Action.c(35):     <html>\n
+Action.c(35):     <title>Web Tours</title>\n
+Action.c(35):        <!-- Frame Set -->\n
+Action.c(35):        <frameset cols="160,*" border="1" frameborder="1">\n
+Action.c(35):           <!-- Navigation Frame -->\n
+Action.c(35):           <frame src="nav.pl?in=home" name="navbar" marginheight="2" marginwidth="2" \n
+Action.c(35):                 noresize="noresize" scrolling="auto"/>\n
+Action.c(35):           <!-- Home Frame -->\n
+Action.c(35):           <frame src="/WebTours/home.html" name="info" marginheight="2" marginwidth="2" \n
+Action.c(35):                 noresize="noresize" scrolling="auto"/>\n
+Action.c(35):        </frameset>\n
+Action.c(35):     </html>\n
+Action.c(35):     \n
+Action.c(35):     </body>\n
+Action.c(35):     </html>
+Action.c(35): Detected non-resource "http://localhost:1080/cgi-bin/nav.pl?in=home" in "http://localhost:1080/cgi-bin/welcome.pl?signOff=true"  	[MsgId: MMSG-26574]
+Action.c(35): Detected non-resource "http://localhost:1080/WebTours/home.html" in "http://localhost:1080/cgi-bin/welcome.pl?signOff=true"  	[MsgId: MMSG-26574]
+Action.c(35): t=6237629ms: Connecting [1] to host 127.0.0.1:1080  	[MsgId: MMSG-26000]
+Action.c(35): t=6237629ms: Connecting [2] to host 127.0.0.1:1080  	[MsgId: MMSG-26000]
+Action.c(35): t=6237629ms: Connected socket [1] from 127.0.0.1:20256 to 127.0.0.1:1080 in 0 ms  	[MsgId: MMSG-26000]
+Action.c(35): t=6237629ms: 640-byte request headers for "http://localhost:1080/cgi-bin/nav.pl?in=home" (RelFrameId=1.1, Internal ID=703)
+Action.c(35):     GET /cgi-bin/nav.pl?in=home HTTP/1.1\r\n
+Action.c(35):     Referer: http://localhost:1080/cgi-bin/welcome.pl?signOff=true\r\n
+Action.c(35):     Sec-Fetch-Dest: frame\r\n
+Action.c(35):     Sec-Fetch-Mode: navigate\r\n
+Action.c(35):     Sec-Fetch-Site: same-origin\r\n
+Action.c(35):     Upgrade-Insecure-Requests: 1\r\n
+Action.c(35):     sec-ch-ua: "Not?A_Brand";v="8", "Chromium";v="108", "Google Chrome";v="108"\r\n
+Action.c(35):     sec-ch-ua-mobile: ?0\r\n
+Action.c(35):     sec-ch-ua-platform: "Windows"\r\n
+Action.c(35):     User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck
+Action.c(35):     o) Chrome/108.0.0.0 Safari/537.36\r\n
+Action.c(35):     Accept-Encoding: gzip, deflate\r\n
+Action.c(35):     Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7\r\n
+Action.c(35):     Accept: */*\r\n
+Action.c(35):     Connection: Keep-Alive\r\n
+Action.c(35):     Host: localhost:1080\r\n
+Action.c(35):     Cookie: MSO=SID&1676374556\r\n
+Action.c(35):     \r\n
+Action.c(35): t=6237629ms: Connected socket [2] from 127.0.0.1:20257 to 127.0.0.1:1080 in 0 ms  	[MsgId: MMSG-26000]
+Action.c(35): t=6237629ms: 636-byte request headers for "http://localhost:1080/WebTours/home.html" (RelFrameId=1.2, Internal ID=704)
+Action.c(35):     GET /WebTours/home.html HTTP/1.1\r\n
+Action.c(35):     Referer: http://localhost:1080/cgi-bin/welcome.pl?signOff=true\r\n
+Action.c(35):     Sec-Fetch-Dest: frame\r\n
+Action.c(35):     Sec-Fetch-Mode: navigate\r\n
+Action.c(35):     Sec-Fetch-Site: same-origin\r\n
+Action.c(35):     Upgrade-Insecure-Requests: 1\r\n
+Action.c(35):     sec-ch-ua: "Not?A_Brand";v="8", "Chromium";v="108", "Google Chrome";v="108"\r\n
+Action.c(35):     sec-ch-ua-mobile: ?0\r\n
+Action.c(35):     sec-ch-ua-platform: "Windows"\r\n
+Action.c(35):     User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck
+Action.c(35):     o) Chrome/108.0.0.0 Safari/537.36\r\n
+Action.c(35):     Accept-Encoding: gzip, deflate\r\n
+Action.c(35):     Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7\r\n
+Action.c(35):     Accept: */*\r\n
+Action.c(35):     Connection: Keep-Alive\r\n
+Action.c(35):     Host: localhost:1080\r\n
+Action.c(35):     Cookie: MSO=SID&1676374556\r\n
+Action.c(35):     \r\n
+Action.c(35): t=6237632ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/welcome.pl?signOff=true" (RelFrameId=1, Internal ID=702)
+Action.c(35):     0\r\n
+Action.c(35):     \r\n
+Action.c(35): t=6237632ms: Request done "http://localhost:1080/cgi-bin/welcome.pl?signOff=true"  	[MsgId: MMSG-26000]
+Action.c(35): t=6240618ms: 300-byte response headers for "http://localhost:1080/WebTours/home.html" (RelFrameId=1.2, Internal ID=704)
+Action.c(35):     HTTP/1.1 200 OK\r\n
+Action.c(35):     Date: Tue, 14 Feb 2023 11:35:59 GMT\r\n
+Action.c(35):     Server: Apache/2.2.21 (Win32)\r\n
+Action.c(35):     Last-Modified: Mon, 27 May 2013 11:20:22 GMT\r\n
+Action.c(35):     ETag: "4c00000000cbcf-551-4ddb1559ac980"\r\n
+Action.c(35):     Accept-Ranges: bytes\r\n
+Action.c(35):     Content-Length: 1361\r\n
+Action.c(35):     Keep-Alive: timeout=5, max=100\r\n
+Action.c(35):     Connection: Keep-Alive\r\n
+Action.c(35):     Content-Type: text/html\r\n
+Action.c(35):     \r\n
+Action.c(35): t=6240618ms: 1361-byte response body for "http://localhost:1080/WebTours/home.html" (RelFrameId=1.2, Internal ID=704)
+Action.c(35):     <HTML>\n
+Action.c(35):     <HEAD>\n
+Action.c(35):     \t<title>Web Tours</title>\n
+Action.c(35):     </HEAD>\n
+Action.c(35):     <style>\n
+Action.c(35):     \tblockquote {font-family: tahoma; font-size : 10pt}\n
+Action.c(35):     \tH1 {font-family: tahoma; font-size : 22pt; color: #003366}\n
+Action.c(35):     \tsmall {font-family: tahoma; font-size : 8pt}\n
+Action.c(35):     \tH3{font-family: tahoma; font-size : 10pt; color: black}\n
+Action.c(35):     \tA {FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Tahoma; TEXT-DECORATIO
+Action.c(35):     N: none}\n
+Action.c(35):     \tA:hover{ FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: #993333; FONT-FAMILY: Tahoma;TEXT-DE
+Action.c(35):     CORATION: underline}\n
+Action.c(35):     \tTD {font-family: tahoma; font-size : 10pt; color: black}\n
+Action.c(35):     </style>\n
+Action.c(35):     <body bgcolor="#e0e7f1">\n
+Action.c(35):     <BR/>\n
+Action.c(35):     <BR/>\n
+Action.c(35):     <BR/>\n
+Action.c(35):     <br/>\n
+Action.c(35):     <table border="0">\n
+Action.c(35):     <tr><td></td></tr>\n
+Action.c(35):     <TR><TD></TD></TR>\n
+Action.c(35):     <TR><TD>\n
+Action.c(35):     <blockquote>\n
+Action.c(35):     <H1><b>Web Tours</b></H1>\n
+Action.c(35):     Welcome to the Web Tours site.\n
+Action.c(35):     <br/>\n
+Action.c(35):     To make reservations,please enter your account information to the left.\n
+Action.c(35):     <br/>\n
+Action.c(35):     If you haven't registered yet, <A href="/cgi-bin/login.pl?username=&amp;password=&amp;getI
+Action.c(35):     nfo=true" ><B>sign up now</B></A> to get access to all our resources.\n
+Action.c(35):     <br/>\n
+Action.c(35):     To configure the server options, use <A href="/cgi-bin/admin.pl" target="body" ><b>adminis
+Action.c(35):     tration</b></A> link.\n
+Action.c(35):     <br/><br/><br/><br/><br/><br/>\n
+Action.c(35):     <br/><small>\n
+Action.c(35):     This product uses parts of the SMT Kernel, Copyright (c) 1991-99 <A href="http://www.imati
+Action.c(35):     x.com" target="new"><B><small>iMatix Corporation</small></B></A> \n
+Action.c(35):     </small>\n
+Action.c(35):     </blockquote></TD>\n
+Action.c(35):     <TD></TD></TR>\n
+Action.c(35):     </table>\n
+Action.c(35):     </body>\n
+Action.c(35):     </HTML>\n
+Action.c(35): t=6240619ms: Request done "http://localhost:1080/WebTours/home.html"  	[MsgId: MMSG-26000]
+Action.c(35): t=6240714ms: 191-byte response headers for "http://localhost:1080/cgi-bin/nav.pl?in=home" (RelFrameId=1.1, Internal ID=703)
+Action.c(35):     HTTP/1.1 500 Internal Server Error\r\n
+Action.c(35):     Date: Tue, 14 Feb 2023 11:35:59 GMT\r\n
+Action.c(35):     Server: Apache/2.2.21 (Win32)\r\n
+Action.c(35):     Content-Length: 535\r\n
+Action.c(35):     Connection: close\r\n
+Action.c(35):     Content-Type: text/html; charset=iso-8859-1\r\n
+Action.c(35):     \r\n
+Action.c(35): t=6240714ms: 535-byte response body for "http://localhost:1080/cgi-bin/nav.pl?in=home" (RelFrameId=1.1, Internal ID=703)
+Action.c(35):     <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">\n
+Action.c(35):     <html><head>\n
+Action.c(35):     <title>500 Internal Server Error</title>\n
+Action.c(35):     </head><body>\n
+Action.c(35):     <h1>Internal Server Error</h1>\n
+Action.c(35):     <p>The server encountered an internal error or\n
+Action.c(35):     misconfiguration and was unable to complete\n
+Action.c(35):     your request.</p>\n
+Action.c(35):     <p>Please contact the server administrator,\n
+Action.c(35):      admin@localhost and inform them of the time the error occurred,\n
+Action.c(35):     and anything you might have done that may have\n
+Action.c(35):     caused the error.</p>\n
+Action.c(35):     <p>More information about this error may be available\n
+Action.c(35):     in the server error log.</p>\n
+Action.c(35):     </body></html>\n
+Action.c(35): Error -26612: HTTP Status-Code=500 (Internal Server Error) for "http://localhost:1080/cgi-bin/nav.pl?in=home"  	[MsgId: MERR-26612]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+

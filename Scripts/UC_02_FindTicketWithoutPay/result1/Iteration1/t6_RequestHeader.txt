@@ -1,0 +1,19 @@
+POST /cgi-bin/reservations.pl HTTP/1.1
+Content-Type: application/x-www-form-urlencoded
+Referer: http://localhost:1080/cgi-bin/reservations.pl?page=welcome
+Sec-Fetch-Dest: frame
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: navigate
+DNT: 1
+Sec-Fetch-User: ?1
+Upgrade-Insecure-Requests: 1
+Origin: http://localhost:1080
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept: */*
+Connection: Keep-Alive
+Host: localhost:1080
+Cookie: MSO=SID&1698593064; MTUserInfo=firstName&dart&address2&Moscow&username&dart&hash&52&lastName&veyder%0A&address1&kalarash&creditCard&482379487528473&expDate&10%2F09%0A
+Content-Length: 240
+

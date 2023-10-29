@@ -1,0 +1,98 @@
+Start auto log messages stack - Iteration 9.	[MsgId: MMSG-10545]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(4): Notify: Transaction "UC6_UserRegistration" started.	[MsgId: MMSG-16999]
+Action.c(6): Notify: Transaction "open_site" started.	[MsgId: MMSG-16999]
+Action.c(8): web_reg_find started  	[MsgId: MMSG-26355]
+Action.c(8): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(12): web_set_sockets_option started  	[MsgId: MMSG-26355]
+Action.c(12): web_set_sockets_option was successful  	[MsgId: MMSG-26392]
+Action.c(14): web_add_auto_header("Sec-Fetch-Dest") started  	[MsgId: MMSG-26355]
+Action.c(14): An unrecognized header ("Sec-Fetch-Dest") is being added  	[MsgId: MMSG-26595]
+Action.c(14): "Sec-Fetch-Dest: frame" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(14): web_add_auto_header("Sec-Fetch-Dest") was successful  	[MsgId: MMSG-26392]
+Action.c(17): web_add_auto_header("Sec-Fetch-Mode") started  	[MsgId: MMSG-26355]
+Action.c(17): An unrecognized header ("Sec-Fetch-Mode") is being added  	[MsgId: MMSG-26595]
+Action.c(17): "Sec-Fetch-Mode: navigate" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(17): web_add_auto_header("Sec-Fetch-Mode") was successful  	[MsgId: MMSG-26392]
+Action.c(20): web_add_auto_header("Sec-Fetch-Site") started  	[MsgId: MMSG-26355]
+Action.c(20): An unrecognized header ("Sec-Fetch-Site") is being added  	[MsgId: MMSG-26595]
+Action.c(20): "Sec-Fetch-Site: same-origin" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(20): web_add_auto_header("Sec-Fetch-Site") was successful  	[MsgId: MMSG-26392]
+Action.c(23): web_add_auto_header("Upgrade-Insecure-Requests") started  	[MsgId: MMSG-26355]
+Action.c(23): An unrecognized header ("Upgrade-Insecure-Requests") is being added  	[MsgId: MMSG-26595]
+Action.c(23): "Upgrade-Insecure-Requests: 1" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(23): web_add_auto_header("Upgrade-Insecure-Requests") was successful  	[MsgId: MMSG-26392]
+Action.c(26): web_add_auto_header("sec-ch-ua") started  	[MsgId: MMSG-26355]
+Action.c(26): An unrecognized header ("sec-ch-ua") is being added  	[MsgId: MMSG-26595]
+Action.c(26): "sec-ch-ua: "Not?A_Brand";v="8", "Chromium";v="108", "Google Chrome";v="108"" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(26): web_add_auto_header("sec-ch-ua") was successful  	[MsgId: MMSG-26392]
+Action.c(29): web_add_auto_header("sec-ch-ua-mobile") started  	[MsgId: MMSG-26355]
+Action.c(29): An unrecognized header ("sec-ch-ua-mobile") is being added  	[MsgId: MMSG-26595]
+Action.c(29): "sec-ch-ua-mobile: ?0" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(29): web_add_auto_header("sec-ch-ua-mobile") was successful  	[MsgId: MMSG-26392]
+Action.c(32): web_add_auto_header("sec-ch-ua-platform") started  	[MsgId: MMSG-26355]
+Action.c(32): An unrecognized header ("sec-ch-ua-platform") is being added  	[MsgId: MMSG-26595]
+Action.c(32): "sec-ch-ua-platform: "Windows"" header registered for adding to requests from all following Action functions  	[MsgId: MMSG-26505]
+Action.c(32): web_add_auto_header("sec-ch-ua-platform") was successful  	[MsgId: MMSG-26392]
+Action.c(36): web_reg_save_param_attrib started  	[MsgId: MMSG-26355]
+Action.c(36): Registering web_reg_save_param_attrib was successful  	[MsgId: MMSG-26390]
+Action.c(48): web_url("welcome.pl") started  	[MsgId: MMSG-26355]
+Action.c(48): t=1036857ms: Connecting [0] to host 127.0.0.1:1080  	[MsgId: MMSG-26000]
+Action.c(48): t=1036858ms: Connected socket [0] from 127.0.0.1:36415 to 127.0.0.1:1080 in 1 ms  	[MsgId: MMSG-26000]
+Action.c(48): t=1036858ms: 599-byte request headers for "http://localhost:1080/cgi-bin/welcome.pl?signOff=true" (RelFrameId=1, Internal ID=145)
+Action.c(48):     GET /cgi-bin/welcome.pl?signOff=true HTTP/1.1\r\n
+Action.c(48):     Referer: http://localhost:1080/WebTours/\r\n
+Action.c(48):     Sec-Fetch-Dest: frame\r\n
+Action.c(48):     Sec-Fetch-Mode: navigate\r\n
+Action.c(48):     Sec-Fetch-Site: same-origin\r\n
+Action.c(48):     Upgrade-Insecure-Requests: 1\r\n
+Action.c(48):     sec-ch-ua: "Not?A_Brand";v="8", "Chromium";v="108", "Google Chrome";v="108"\r\n
+Action.c(48):     sec-ch-ua-mobile: ?0\r\n
+Action.c(48):     sec-ch-ua-platform: "Windows"\r\n
+Action.c(48):     User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck
+Action.c(48):     o) Chrome/108.0.0.0 Safari/537.36\r\n
+Action.c(48):     Accept-Encoding: gzip, deflate\r\n
+Action.c(48):     Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7\r\n
+Action.c(48):     Accept: */*\r\n
+Action.c(48):     Connection: Keep-Alive\r\n
+Action.c(48):     Host: localhost:1080\r\n
+Action.c(48):     \r\n
+Action.c(48): t=1036937ms: 191-byte response headers for "http://localhost:1080/cgi-bin/welcome.pl?signOff=true" (RelFrameId=1, Internal ID=145)
+Action.c(48):     HTTP/1.1 500 Internal Server Error\r\n
+Action.c(48):     Date: Tue, 14 Feb 2023 12:27:15 GMT\r\n
+Action.c(48):     Server: Apache/2.2.21 (Win32)\r\n
+Action.c(48):     Content-Length: 535\r\n
+Action.c(48):     Connection: close\r\n
+Action.c(48):     Content-Type: text/html; charset=iso-8859-1\r\n
+Action.c(48):     \r\n
+Action.c(48): t=1036938ms: 535-byte response body for "http://localhost:1080/cgi-bin/welcome.pl?signOff=true" (RelFrameId=1, Internal ID=145)
+Action.c(48):     <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">\n
+Action.c(48):     <html><head>\n
+Action.c(48):     <title>500 Internal Server Error</title>\n
+Action.c(48):     </head><body>\n
+Action.c(48):     <h1>Internal Server Error</h1>\n
+Action.c(48):     <p>The server encountered an internal error or\n
+Action.c(48):     misconfiguration and was unable to complete\n
+Action.c(48):     your request.</p>\n
+Action.c(48):     <p>Please contact the server administrator,\n
+Action.c(48):      admin@localhost and inform them of the time the error occurred,\n
+Action.c(48):     and anything you might have done that may have\n
+Action.c(48):     caused the error.</p>\n
+Action.c(48):     <p>More information about this error may be available\n
+Action.c(48):     in the server error log.</p>\n
+Action.c(48):     </body></html>\n
+Action.c(48): Error -26612: HTTP Status-Code=500 (Internal Server Error) for "http://localhost:1080/cgi-bin/welcome.pl?signOff=true"  	[MsgId: MERR-26612]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 9.	[MsgId: MMSG-10545]
+Action.c(48): t=1036945ms: Closing connection [0] to server localhost - server indicated that the connection should be closed  	[MsgId: MMSG-26000]
+Action.c(48): t=1036945ms: Closed connection [0] to localhost:1080 after completing 1 request(s)  	[MsgId: MMSG-26000]
+Action.c(48): t=1036946ms: Request done "http://localhost:1080/cgi-bin/welcome.pl?signOff=true"  	[MsgId: MMSG-26000]
+Action.c(48): Search registration for "userSession" parameter is filtered by "Request URL"  	[MsgId: MMSG-26000]
+Action.c(48): Notify: Saving Parameter "userSession = ".	[MsgId: MMSG-13798]
+Action.c(48): Error -35048: No match found for the requested parameter "userSession". Check whether the tag with specific attributes exists in the response data  	[MsgId: MERR-35048]
+Action.c(48): Error -26366: "Text=Welcome to the Web Tours site." not found for web_reg_find  	[MsgId: MERR-26366]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
