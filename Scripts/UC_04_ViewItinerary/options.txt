@@ -3,7 +3,7 @@
 -D_IDA_XL
 -DWINNT
 -IC:\Users\Надя\OneDrive\Документы\VuGen\Scripts\UC_04_ViewItinerary
--IC:\Program Files (x86)\Micro Focus\LoadRunner\include
+-ID:\microfocus\LoadRunner\include
 -ec:\users\надя\onedrive\документы\vugen\scripts\uc_04_viewitinerary\\logfile.log
 c:\users\надя\onedrive\документы\vugen\scripts\uc_04_viewitinerary\\combined_UC_04_ViewItinerary.c
 c:\users\надя\onedrive\документы\vugen\scripts\uc_04_viewitinerary\\pre_cci.c

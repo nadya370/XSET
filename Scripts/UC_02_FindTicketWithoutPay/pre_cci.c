@@ -1,5 +1,5 @@
 # 1 "c:\\users\\\355\340\344\377\\onedrive\\\344\356\352\363\354\345\355\362\373\\vugen\\scripts\\uc_02_findticketwithoutpay\\\\combined_UC_02_FindTicketWithoutPay.c"
-# 1 "C:\\Program Files (x86)\\Micro Focus\\LoadRunner\\include/lrun.h" 1
+# 1 "D:\\microfocus\\LoadRunner\\include/lrun.h" 1
  
  
 
@@ -26,7 +26,7 @@
 
 
 
-# 103 "C:\\Program Files (x86)\\Micro Focus\\LoadRunner\\include/lrun.h"
+# 103 "D:\\microfocus\\LoadRunner\\include/lrun.h"
 
 
 
@@ -187,7 +187,7 @@ int lr_generate_uuid_free(lr_uuid_t uuid);
 int lr_generate_uuid_on_buf(lr_uuid_t buf);
 
    
-# 273 "C:\\Program Files (x86)\\Micro Focus\\LoadRunner\\include/lrun.h"
+# 273 "D:\\microfocus\\LoadRunner\\include/lrun.h"
 int lr_start_distributed_transaction  (char * transaction_name, lr_uuid_t correlator, long timeout  );
 
    
@@ -428,11 +428,11 @@ int   lr_msg (char * fmt, ...);
 int   lr_debug_message (unsigned int msg_class,
 									    char * format,
 										...);
-# 513 "C:\\Program Files (x86)\\Micro Focus\\LoadRunner\\include/lrun.h"
+# 513 "D:\\microfocus\\LoadRunner\\include/lrun.h"
 void   lr_new_prefix (int type,
                                  char * filename,
                                  int line);
-# 516 "C:\\Program Files (x86)\\Micro Focus\\LoadRunner\\include/lrun.h"
+# 516 "D:\\microfocus\\LoadRunner\\include/lrun.h"
 int   lr_log_message (char * fmt, ...);
 int   lr_message (char * fmt, ...);
 int   lr_error_message (char * fmt, ...);
@@ -446,7 +446,7 @@ int   lr_fail_trans_with_error (char * fmt, ...);
  
  
  
-# 540 "C:\\Program Files (x86)\\Micro Focus\\LoadRunner\\include/lrun.h"
+# 540 "D:\\microfocus\\LoadRunner\\include/lrun.h"
 
  
  
@@ -481,7 +481,7 @@ int   lr_eval_string_ext (const char *in_str,
                                      unsigned long const options,
                                      const char *file,
 								     long const line);
-# 574 "C:\\Program Files (x86)\\Micro Focus\\LoadRunner\\include/lrun.h"
+# 574 "D:\\microfocus\\LoadRunner\\include/lrun.h"
 void   lr_eval_string_ext_free (char * * pstr);
 
  
@@ -505,7 +505,7 @@ void   lr_eval_string_ext_free (char * * pstr);
  
 int lr_param_increment (char * dst_name,
                               char * src_name);
-# 597 "C:\\Program Files (x86)\\Micro Focus\\LoadRunner\\include/lrun.h"
+# 597 "D:\\microfocus\\LoadRunner\\include/lrun.h"
 
 
 
@@ -530,7 +530,7 @@ int	  lr_save_var (char *              param_val,
 							  unsigned long const param_val_len,
 							  unsigned long const options,
 							  char *			  param_name);
-# 621 "C:\\Program Files (x86)\\Micro Focus\\LoadRunner\\include/lrun.h"
+# 621 "D:\\microfocus\\LoadRunner\\include/lrun.h"
 int   lr_save_string (const char * param_val, const char * param_name);
 
 
@@ -554,7 +554,7 @@ int   lr_convert_double_to_double (const char *source_param_name, const char *fo
  
  
  
-# 700 "C:\\Program Files (x86)\\Micro Focus\\LoadRunner\\include/lrun.h"
+# 700 "D:\\microfocus\\LoadRunner\\include/lrun.h"
 void   lr_save_datetime (const char *format, int offset, const char *name);
 
 
@@ -616,7 +616,7 @@ char * lr_table_get_cell_by_col_name (char * param_name, int row, const char* co
 int lr_table_get_column_name_by_index (char * param_name, int col, 
 											char * * const col_name,
 											size_t * col_name_len);
-# 761 "C:\\Program Files (x86)\\Micro Focus\\LoadRunner\\include/lrun.h"
+# 761 "D:\\microfocus\\LoadRunner\\include/lrun.h"
 
 int lr_table_get_column_name_by_index_free (char * col_name);
 
@@ -624,7 +624,7 @@ int lr_table_get_column_name_by_index_free (char * col_name);
  
  
  
-# 776 "C:\\Program Files (x86)\\Micro Focus\\LoadRunner\\include/lrun.h"
+# 776 "D:\\microfocus\\LoadRunner\\include/lrun.h"
 int   lr_zip (const char* param1, const char* param2);
 int   lr_unzip (const char* param1, const char* param2);
 
@@ -649,12 +649,12 @@ int   lr_param_substit (char * file,
                                    size_t const in_len,
                                    char * * const out_str,
                                    size_t * const out_len);
-# 800 "C:\\Program Files (x86)\\Micro Focus\\LoadRunner\\include/lrun.h"
+# 800 "D:\\microfocus\\LoadRunner\\include/lrun.h"
 void   lr_param_substit_free (char * * pstr);
 
 
  
-# 812 "C:\\Program Files (x86)\\Micro Focus\\LoadRunner\\include/lrun.h"
+# 812 "D:\\microfocus\\LoadRunner\\include/lrun.h"
 
 
 
@@ -663,14 +663,14 @@ void   lr_param_substit_free (char * * pstr);
 char *   lrfnc_eval_string (char * str,
                                       char * file_name,
                                       long const line_num);
-# 820 "C:\\Program Files (x86)\\Micro Focus\\LoadRunner\\include/lrun.h"
+# 820 "D:\\microfocus\\LoadRunner\\include/lrun.h"
 
 
 int   lrfnc_save_string ( const char * param_val,
                                      const char * param_name,
                                      const char * file_name,
                                      long const line_num);
-# 826 "C:\\Program Files (x86)\\Micro Focus\\LoadRunner\\include/lrun.h"
+# 826 "D:\\microfocus\\LoadRunner\\include/lrun.h"
 
 int   lrfnc_free_parameter (const char * param_name );
 
@@ -697,7 +697,7 @@ int lr_save_searched_string(char * buffer, long buf_size, unsigned int occurrenc
 char *   lr_string (char * str);
 
  
-# 929 "C:\\Program Files (x86)\\Micro Focus\\LoadRunner\\include/lrun.h"
+# 929 "D:\\microfocus\\LoadRunner\\include/lrun.h"
 
 int   lr_save_value (char * param_val,
                                 unsigned long const param_val_len,
@@ -705,7 +705,7 @@ int   lr_save_value (char * param_val,
                                 char * param_name,
                                 char * file_name,
                                 long const line_num);
-# 936 "C:\\Program Files (x86)\\Micro Focus\\LoadRunner\\include/lrun.h"
+# 936 "D:\\microfocus\\LoadRunner\\include/lrun.h"
 
 
  
@@ -728,7 +728,7 @@ int   lr_printf (char * fmt, ...);
  
 int   lr_set_debug_message (unsigned int msg_class,
                                        unsigned int swtch);
-# 958 "C:\\Program Files (x86)\\Micro Focus\\LoadRunner\\include/lrun.h"
+# 958 "D:\\microfocus\\LoadRunner\\include/lrun.h"
 unsigned int   lr_get_debug_message (void);
 
 
@@ -758,7 +758,7 @@ int *   lr_localtime (long offset);
 int   lr_send_port (long port);
 
 
-# 1034 "C:\\Program Files (x86)\\Micro Focus\\LoadRunner\\include/lrun.h"
+# 1034 "D:\\microfocus\\LoadRunner\\include/lrun.h"
 
 
 
@@ -776,10 +776,10 @@ void vuser_declaration (void);
 
 
 
-# 1063 "C:\\Program Files (x86)\\Micro Focus\\LoadRunner\\include/lrun.h"
+# 1063 "D:\\microfocus\\LoadRunner\\include/lrun.h"
 
 
-# 1075 "C:\\Program Files (x86)\\Micro Focus\\LoadRunner\\include/lrun.h"
+# 1075 "D:\\microfocus\\LoadRunner\\include/lrun.h"
 
 
 
@@ -970,7 +970,7 @@ int lr_db_getvalue(char * pFirstArg, ...);
 
 # 1 "c:\\users\\\355\340\344\377\\onedrive\\\344\356\352\363\354\345\355\362\373\\vugen\\scripts\\uc_02_findticketwithoutpay\\\\combined_UC_02_FindTicketWithoutPay.c" 2
 
-# 1 "C:\\Program Files (x86)\\Micro Focus\\LoadRunner\\include/SharedParameter.h" 1
+# 1 "D:\\microfocus\\LoadRunner\\include/SharedParameter.h" 1
 
 
 
@@ -978,7 +978,7 @@ int lr_db_getvalue(char * pFirstArg, ...);
  
  
  
-# 100 "C:\\Program Files (x86)\\Micro Focus\\LoadRunner\\include/SharedParameter.h"
+# 100 "D:\\microfocus\\LoadRunner\\include/SharedParameter.h"
 
 
 
@@ -1145,7 +1145,7 @@ extern VTCERR2  lrvtc_noop();
  
  
 
-# 1 "C:\\Program Files (x86)\\Micro Focus\\LoadRunner\\include/web_api.h" 1
+# 1 "D:\\microfocus\\LoadRunner\\include/web_api.h" 1
 
 
 
@@ -1153,7 +1153,7 @@ extern VTCERR2  lrvtc_noop();
 
 
 
-# 1 "C:\\Program Files (x86)\\Micro Focus\\LoadRunner\\include/as_web.h" 1
+# 1 "D:\\microfocus\\LoadRunner\\include/as_web.h" 1
 
 
 
@@ -1932,13 +1932,10 @@ extern VTCERR2  lrvtc_noop();
 
 
 
-# 789 "C:\\Program Files (x86)\\Micro Focus\\LoadRunner\\include/as_web.h"
+# 789 "D:\\microfocus\\LoadRunner\\include/as_web.h"
 
 
-# 802 "C:\\Program Files (x86)\\Micro Focus\\LoadRunner\\include/as_web.h"
-
-
-
+# 802 "D:\\microfocus\\LoadRunner\\include/as_web.h"
 
 
 
@@ -1963,7 +1960,10 @@ extern VTCERR2  lrvtc_noop();
 
 
 
-# 840 "C:\\Program Files (x86)\\Micro Focus\\LoadRunner\\include/as_web.h"
+
+
+
+# 840 "D:\\microfocus\\LoadRunner\\include/as_web.h"
 
  
  
@@ -2010,7 +2010,7 @@ extern VTCERR2  lrvtc_noop();
 
 
 
-# 908 "C:\\Program Files (x86)\\Micro Focus\\LoadRunner\\include/as_web.h"
+# 908 "D:\\microfocus\\LoadRunner\\include/as_web.h"
 
 
   int
@@ -2105,7 +2105,7 @@ web_stream_set_custom_mpd(
 
 
 
-# 9 "C:\\Program Files (x86)\\Micro Focus\\LoadRunner\\include/web_api.h" 2
+# 9 "D:\\microfocus\\LoadRunner\\include/web_api.h" 2
 
 
 
@@ -2608,6 +2608,8 @@ Action()
 
 	lr_start_transaction("UC_02_FindTicketWithoutPay");
 	
+	lr_think_time(5);
+	
 	lr_start_transaction("open_home_page");
 	
 	web_reg_find("Text/IC= A Session ID has been created and loaded into a cookie called MSO.",
@@ -2656,6 +2658,8 @@ Action()
 	web_set_sockets_option("SSL_VERSION", "AUTO");
 	
 	lr_end_transaction("open_home_page",2);
+	
+	lr_think_time(5);
 
 	lr_start_transaction("login");
 	
@@ -2675,8 +2679,6 @@ Action()
 	web_add_auto_header("Sec-Fetch-Site", 
 		"same-origin");
 
-	lr_think_time(9);
-
 	web_submit_data("login.pl",
 		"Action=http://localhost:1080/cgi-bin/login.pl",
 		"Method=POST",
@@ -2695,6 +2697,8 @@ Action()
 		"LAST");
 
 	lr_end_transaction("login",2);
+	
+	lr_think_time(5);
 
 	lr_start_transaction("choose_flight");
 	
@@ -2707,8 +2711,6 @@ Action()
 	web_add_auto_header("Upgrade-Insecure-Requests", 
 		"1");
 
-	lr_think_time(14);
-
 	web_url("Search Flights Button", 
 		"URL=http://localhost:1080/cgi-bin/welcome.pl?page=search", 
 		"TargetFrame=body", 
@@ -2720,6 +2722,8 @@ Action()
 		"LAST");
 
 	lr_end_transaction("choose_flight",2);
+	
+	lr_think_time(5);
 
 	lr_start_transaction("flight_detail");
 	
@@ -2728,8 +2732,6 @@ Action()
 
 	web_add_auto_header("Origin", 
 		"http://localhost:1080");
-
-	lr_think_time(44);
 
  
 	web_reg_save_param_attrib(
@@ -2768,7 +2770,7 @@ Action()
 
 	lr_end_transaction("flight_detail",2);
 
-	lr_think_time(7);
+	lr_think_time(5);
 
 	lr_start_transaction("departure_time");
 	

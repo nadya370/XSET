@@ -14,6 +14,9 @@
     <FileEntry Name="UC_06_UserRegistration.prm" Filter="2" />
     <FileEntry Name="globals.h" Filter="2" />
     <FileEntry Name="login.dat" Filter="2" />
+    <FileEntry Name="combined_UC_06_UserRegistration.c" Filter="2" />
+    <FileEntry Name="pre_cci.c" Filter="2" />
+    <FileEntry Name="27574206440.idx" Filter="1" />
     <FileEntry Name="Bookmarks.xml" Filter="1" />
     <FileEntry Name="Breakpoints.xml" Filter="1" />
     <FileEntry Name="CompilerLogMetadata.xml" Filter="1" />
@@ -32,6 +35,8 @@
     <FileEntry Name="ScriptUploadMetadata.xml" Filter="1" />
     <FileEntry Name="TransactionsData.db" Filter="1" />
     <FileEntry Name="UC6_UserRegistration.prm.bak" Filter="1" />
+    <FileEntry Name="UC_06_UserRegistration.c.pickle" Filter="1" />
+    <FileEntry Name="UC_06_UserRegistration.ci" Filter="1" />
     <FileEntry Name="UC_06_UserRegistration.prm.bak" Filter="1" />
     <FileEntry Name="UserTasks.xml" Filter="1" />
     <FileEntry Name="data\" Filter="1" />

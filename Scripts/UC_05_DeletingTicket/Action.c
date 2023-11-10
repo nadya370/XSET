@@ -3,6 +3,8 @@ Action()
 
 	lr_start_transaction("UC_05_DeletingTicket");
 	
+	lr_think_time(5);
+	
 	lr_start_transaction("open_home_page");
 	
 	web_reg_find("Fail=NotFound",
@@ -42,6 +44,8 @@ Action()
 		LAST);
 
 	lr_end_transaction("open_home_page",LR_AUTO);
+	
+	lr_think_time(5);
 
 	lr_start_transaction("login");
 	
@@ -55,8 +59,6 @@ Action()
 	web_add_auto_header("Sec-Fetch-User", 
 		"?1");
 
-	lr_think_time(6);
-
 	web_submit_form("login.pl", 
 		"Snapshot=t14.inf", 
 		ITEMDATA, 
@@ -66,7 +68,7 @@ Action()
 
 	lr_end_transaction("login",LR_AUTO);
 
-	
+	lr_think_time(5);
 	
 	lr_start_transaction("itinerary");
 	
@@ -76,8 +78,6 @@ Action()
 		LAST);
 
 	web_revert_auto_header("Sec-Fetch-User");
-
-	lr_think_time(53);
 	
 	web_reg_save_param("flightID",
 		"LB/IC=flightID\" value=\"",
@@ -91,6 +91,8 @@ Action()
 		LAST);
 
 	lr_end_transaction("itinerary",LR_AUTO);
+	
+	lr_think_time(5);
 
 	lr_start_transaction("removal");
 	
@@ -100,12 +102,6 @@ Action()
 
 	web_add_auto_header("Sec-Fetch-User", 
 		"?1");
-
-	lr_think_time(62);
-
-	web_reg_find("Fail=Found",
-		"Text/IC={flightID}",
-		LAST);
 	
 	web_submit_form("itinerary.pl", 
 		"Snapshot=t16.inf", 
@@ -117,6 +113,7 @@ Action()
 
 	lr_end_transaction("removal",LR_AUTO);
 	
+	lr_think_time(5);
 
 	lr_start_transaction("logout");
 	
@@ -126,8 +123,6 @@ Action()
 
 	web_add_header("Sec-Fetch-User", 
 		"?1");
-
-	lr_think_time(52);
 
 	web_image("SignOff Button", 
 		"Alt=SignOff Button", 

@@ -1,0 +1,1 @@
+Action.c(62): Error -26612: HTTP Status-Code=500 (Internal Server Error) for "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=home"  	[MsgId: MERR-26612]

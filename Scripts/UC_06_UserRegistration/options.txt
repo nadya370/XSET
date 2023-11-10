@@ -2,8 +2,8 @@
 -DCCI
 -D_IDA_XL
 -DWINNT
--IC:\Users\Admin\Documents\GitHub\XSET\Scripts\UC6_UserRegistration
--IC:\Program Files (x86)\Micro Focus\LoadRunner\include
--ec:\users\admin\documents\github\xset\scripts\uc6_userregistration\\logfile.log
-c:\users\admin\documents\github\xset\scripts\uc6_userregistration\\combined_UC6_UserRegistration.c
-c:\users\admin\documents\github\xset\scripts\uc6_userregistration\\pre_cci.c
+-IC:\Users\Надя\OneDrive\Документы\VuGen\Scripts\UC_06_UserRegistration
+-ID:\microfocus\LoadRunner\include
+-ec:\users\надя\onedrive\документы\vugen\scripts\uc_06_userregistration\\logfile.log
+c:\users\надя\onedrive\документы\vugen\scripts\uc_06_userregistration\\combined_UC_06_UserRegistration.c
+c:\users\надя\onedrive\документы\vugen\scripts\uc_06_userregistration\\pre_cci.c

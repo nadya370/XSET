@@ -3,6 +3,8 @@ Action()
 
 	lr_start_transaction("UC_06_UserRegistration");
 	
+	lr_think_time(5);
+	
 	lr_start_transaction("open_home_page");
 	
 	web_reg_find("Fail=NotFound",
@@ -56,6 +58,8 @@ Action()
 		LAST);
 	
 	lr_end_transaction("open_home_page",LR_AUTO);
+	
+	lr_think_time(5);
 
 	lr_start_transaction("user_registration");
 	
@@ -65,8 +69,6 @@ Action()
 
 	web_add_auto_header("Sec-Fetch-User", 
 		"?1");
-
-	lr_think_time(24);
 
 	web_url("login.pl", 
 		"URL=http://localhost:1080/cgi-bin/login.pl?username=&password=&getInfo=true", 
@@ -79,6 +81,8 @@ Action()
 		LAST);
 
 	lr_end_transaction("user_registration",LR_AUTO);
+	
+	lr_think_time(5);
 
 	lr_start_transaction("customer_profile");
 	
@@ -90,8 +94,6 @@ Action()
 
 	web_add_header("Origin", 
 		"http://localhost:1080");
-
-	lr_think_time(75);
 
 	web_submit_data("login.pl_2", 
 		"Action=http://localhost:1080/cgi-bin/login.pl", 
@@ -115,6 +117,8 @@ Action()
 
 	lr_end_transaction("customer_profile",LR_AUTO);
 	
+	lr_think_time(5);
+	
 	lr_start_transaction("home");
 	
 	web_reg_find("Fail=NotFound",
@@ -125,8 +129,6 @@ Action()
 
 	web_add_auto_header("Sec-Fetch-User", 
 		"?1");
-
-	lr_think_time(32);
 
 	web_url("button_next.gif", 
 		"URL=http://localhost:1080/cgi-bin/welcome.pl?page=menus", 
@@ -140,6 +142,7 @@ Action()
 
 	lr_end_transaction("home",LR_AUTO);
 
+	lr_think_time(5);
 	
 	lr_start_transaction("logout");
 	
@@ -148,8 +151,6 @@ Action()
 			LAST);
 	
 	web_revert_auto_header("Sec-Fetch-User");
-
-	lr_think_time(28);
 
 	web_url("SignOff Button", 
 		"URL=http://localhost:1080/cgi-bin/welcome.pl?signOff=1", 

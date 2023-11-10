@@ -3,6 +3,8 @@ Action()
 
 	lr_start_transaction("UC_02_FindTicketWithoutPay");
 	
+	lr_think_time(5);
+	
 	lr_start_transaction("open_home_page");
 	
 	web_reg_find("Text/IC= A Session ID has been created and loaded into a cookie called MSO.",
@@ -51,6 +53,8 @@ Action()
 	web_set_sockets_option("SSL_VERSION", "AUTO");
 	
 	lr_end_transaction("open_home_page",LR_AUTO);
+	
+	lr_think_time(5);
 
 	lr_start_transaction("login");
 	
@@ -70,8 +74,6 @@ Action()
 	web_add_auto_header("Sec-Fetch-Site", 
 		"same-origin");
 
-	lr_think_time(9);
-
 	web_submit_data("login.pl",
 		"Action=http://localhost:1080/cgi-bin/login.pl",
 		"Method=POST",
@@ -90,6 +92,8 @@ Action()
 		LAST);
 
 	lr_end_transaction("login",LR_AUTO);
+	
+	lr_think_time(5);
 
 	lr_start_transaction("choose_flight");
 	
@@ -102,8 +106,6 @@ Action()
 	web_add_auto_header("Upgrade-Insecure-Requests", 
 		"1");
 
-	lr_think_time(14);
-
 	web_url("Search Flights Button", 
 		"URL=http://localhost:1080/cgi-bin/welcome.pl?page=search", 
 		"TargetFrame=body", 
@@ -115,6 +117,8 @@ Action()
 		LAST);
 
 	lr_end_transaction("choose_flight",LR_AUTO);
+	
+	lr_think_time(5);
 
 	lr_start_transaction("flight_detail");
 	
@@ -123,8 +127,6 @@ Action()
 
 	web_add_auto_header("Origin", 
 		"http://localhost:1080");
-
-	lr_think_time(44);
 
 /*Correlation comment - Do not change!  Original value='010;386;10/29/2023' Name ='outboundFlight' Type ='ResponseBased'*/
 	web_reg_save_param_attrib(
@@ -163,7 +165,7 @@ Action()
 
 	lr_end_transaction("flight_detail",LR_AUTO);
 
-	lr_think_time(7);
+	lr_think_time(5);
 
 	lr_start_transaction("departure_time");
 	

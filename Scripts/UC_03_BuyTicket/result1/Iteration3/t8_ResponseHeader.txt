@@ -1,0 +1,10 @@
+HTTP/1.1 200 OK
+Date: Sat, 04 Nov 2023 17:26:32 GMT
+Server: Apache/2.2.21 (Win32)
+Expires: Fri, 03 Nov 2023 17:26:32 GMT
+Set-Cookie: MTUserInfo=firstName&padme&username&padme&address2&London&hash&69&expDate&03%2F04&creditCard&1234123456785678&address1&zelenaya&lastName&amidala%0A; path=/
+Keep-Alive: timeout=5, max=90
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=ISO-8859-1
+
