@@ -1,4 +1,0 @@
-"firstName=Graf&lastName=Duku&address1=centralnaya&address2=Zurich&pass1=Graf+Duku&creditCard=1"
-"357246875318642&expDate=07%2F08&saveCC=on&oldCCOption=on&numPassengers=1&seatType=Coach&seatPr"
-"ef=None&outboundFlight=980%3B1073%3B11%2F04%2F2023&advanceDiscount=0&returnFlight=&JSFormSubmi"
-"t=off&buyFlights.x=49&buyFlights.y=9&.cgifields=saveCC"

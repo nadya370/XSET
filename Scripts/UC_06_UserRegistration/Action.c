@@ -47,15 +47,7 @@ Action()
 		LAST);
 
 
-	web_url("welcome.pl", 
-		"URL=http://localhost:1080/cgi-bin/welcome.pl?signOff=true", 
-		"TargetFrame=", 
-		"Resource=0", 
-		"RecContentType=text/html", 
-		"Referer=http://localhost:1080/WebTours/", 
-		"Snapshot=t1.inf", 
-		"Mode=HTML", 
-		LAST);
+	homepage();
 	
 	lr_end_transaction("open_home_page",LR_AUTO);
 	
@@ -86,10 +78,10 @@ Action()
 
 	lr_start_transaction("customer_profile");
 	
-	lr_save_string("login_rnd", lr_eval_string("{login}{rnd}"));
+	lr_save_string(lr_eval_string("{randomName}{randomPart}{randomPart2}{randomPart3}{randomName}{randomPart}{randomPart2}{randomPart3}"), "username_rnd");
 	
 	web_reg_find("Fail=NotFound",
-		"Text/IC=Thank you, <b>{login}{rnd}</b>",
+		"Text/IC=Thank you, <b>{username_rnd}</b>",
 		LAST);
 
 	web_add_header("Origin", 
@@ -104,11 +96,11 @@ Action()
 		"Snapshot=t3.inf", 
 		"Mode=HTML", 
 		ITEMDATA, 
-		"Name=username", "Value={login}{rnd}", ENDITEM, 
+		"Name=username", "Value={username_rnd}", ENDITEM, 
 		"Name=password", "Value={password}", ENDITEM, 
 		"Name=passwordConfirm", "Value={password}", ENDITEM, 
-		"Name=firstName", "Value={firstName}", ENDITEM, 
-		"Name=lastName", "Value={lastName}", ENDITEM, 
+		"Name=firstName", "Value={username_rnd}", ENDITEM, 
+		"Name=lastName", "Value={randomLast}", ENDITEM, 
 		"Name=address1", "Value={address1}", ENDITEM, 
 		"Name=address2", "Value={address2}", ENDITEM, 
 		"Name=register.x", "Value=64", ENDITEM, 

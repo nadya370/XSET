@@ -1,2 +1,0 @@
-"userSession=137636.193033617HAHQzzVpzHQVzzzHtctHHpQHAAHf&username=django&password=fett&login.x"
-"=58&login.y=9&JSFormSubmit=off"

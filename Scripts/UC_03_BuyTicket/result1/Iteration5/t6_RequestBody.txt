@@ -1,3 +1,0 @@
-"advanceDiscount=0&depart=Portland&departDate=11%2F04%2F2023&arrive=Zurich&returnDate=11%2F04%2"
-"F2023&numPassengers=1&seatPref=Window&seatType=Business&findFlights.x=64&findFlights.y=3&.cgif"
-"ields=roundtrip&.cgifields=seatType&.cgifields=seatPref"

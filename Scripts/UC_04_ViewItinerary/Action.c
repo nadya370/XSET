@@ -33,14 +33,7 @@ Action()
 	web_add_auto_header("sec-ch-ua-platform", 
 		"\"Windows\"");
 
-	web_url("welcome.pl", 
-		"URL=http://localhost:1080/cgi-bin/welcome.pl?signOff=true", 
-		"Resource=0", 
-		"RecContentType=text/html", 
-		"Referer=http://localhost:1080/WebTours/", 
-		"Snapshot=t13.inf", 
-		"Mode=HTML", 
-		LAST);
+	homepage();
 
 	lr_end_transaction("open_home_page",LR_AUTO);
 	

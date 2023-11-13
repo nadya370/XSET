@@ -10,45 +10,8 @@ Action()
 	web_reg_find("Text/IC= A Session ID has been created and loaded into a cookie called MSO.",
 		LAST);
 
-	web_add_auto_header("Sec-Fetch-Dest", 
-		"document");
 
-	web_add_auto_header("Sec-Fetch-Site", 
-		"none");
-
-	web_add_auto_header("Sec-Fetch-Mode", 
-		"navigate");
-
-	web_add_auto_header("DNT", 
-		"1");
-
-	web_add_auto_header("Sec-Fetch-User", 
-		"?1");
-
-	web_add_auto_header("Upgrade-Insecure-Requests", 
-		"1");
-
-	/*Correlation comment - Do not change!  Original value='137587.555366545HAHHVfQpiHQVzzzHtctzcpQfQcHf' Name ='userSession' Type ='ResponseBased'*/
-	web_reg_save_param_attrib(
-		"ParamName=userSession",
-		"TagName=input",
-		"Extract=value",
-		"Name=userSession",
-		"Type=hidden",
-		SEARCH_FILTERS,
-		"IgnoreRedirections=No",
-		"RequestUrl=*/nav.pl*",
-		LAST);
-
-	web_url("webtours", 
-		"URL=http://localhost:1080/webtours/", 
-		"TargetFrame=", 
-		"Resource=0", 
-		"RecContentType=text/html", 
-		"Referer=", 
-		"Snapshot=t1.inf", 
-		"Mode=HTML", 
-		LAST);
+	open_homepage();
 
 	web_set_sockets_option("SSL_VERSION", "AUTO");
 	
@@ -153,7 +116,7 @@ Action()
 		"Name=departDate", "Value={departDate}", ENDITEM, 
 		"Name=arrive", "Value={arrive}", ENDITEM, 
 		"Name=returnDate", "Value={returnDate}", ENDITEM, 
-		"Name=numPassengers", "Value=1", ENDITEM, 
+		"Name=numPassengers", "Value=3", ENDITEM, 
 		"Name=seatPref", "Value={seatPref}", ENDITEM, 
 		"Name=seatType", "Value={seatType}", ENDITEM, 
 		"Name=findFlights.x", "Value=64", ENDITEM, 
@@ -182,7 +145,7 @@ Action()
 		"Mode=HTML",
 		ITEMDATA,
 		"Name=outboundFlight", "Value={outboundFlight}", ENDITEM,
-		"Name=numPassengers", "Value=1", ENDITEM,
+		"Name=numPassengers", "Value=3", ENDITEM,
 		"Name=advanceDiscount", "Value=0", ENDITEM,
 		"Name=seatType", "Value={seatType}", ENDITEM,
 		"Name=seatPref", "Value={seatPref}", ENDITEM,
@@ -221,12 +184,14 @@ Action()
 		"Name=lastName", "Value={lastName}", ENDITEM, 
 		"Name=address1", "Value={address1}", ENDITEM, 
 		"Name=address2", "Value={address2}", ENDITEM, 
-		"Name=pass1", "Value={pass1}", ENDITEM, 
+		"Name=pass1", "Value={pass1}", ENDITEM,
+		"Name=pass2", "Value={pass2}", ENDITEM, 
+		"Name=pass3", "Value={pass3}", ENDITEM, 		
 		"Name=creditCard", "Value={creditCard}", ENDITEM, 
 		"Name=expDate", "Value={expDate}", ENDITEM, 
 		"Name=saveCC", "Value=on", ENDITEM, 
 		"Name=oldCCOption", "Value=on", ENDITEM, 
-		"Name=numPassengers", "Value=1", ENDITEM, 
+		"Name=numPassengers", "Value=3", ENDITEM, 
 		"Name=seatType", "Value={seatType}", ENDITEM, 
 		"Name=seatPref", "Value={seatPref}", ENDITEM, 
 		"Name=outboundFlight", "Value={outboundFlight}", ENDITEM, 

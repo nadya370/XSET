@@ -1,7 +1,7 @@
 HTTP/1.1 200 OK
-Date: Sat, 04 Nov 2023 17:26:27 GMT
+Date: Mon, 13 Nov 2023 13:52:19 GMT
 Server: Apache/2.2.21 (Win32)
-Expires: Fri, 03 Nov 2023 17:26:27 GMT
+Expires: Sun, 12 Nov 2023 13:52:19 GMT
 Set-Cookie: MTUserInfo=firstName&dart&username&dart&address2&Moscow&hash&52&expDate&01%2F02&creditCard&1234567812345678&address1&kalarash&lastName&veyder%0A; path=/
 Keep-Alive: timeout=5, max=90
 Connection: Keep-Alive

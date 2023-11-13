@@ -10,45 +10,7 @@ Action()
 			"Text/IC=Welcome to the Web Tours site.",
 			LAST);
 
-	web_add_auto_header("Sec-Fetch-Dest", 
-		"document");
-
-	web_add_auto_header("Sec-Fetch-Site", 
-		"none");
-
-	web_add_auto_header("Sec-Fetch-Mode", 
-		"navigate");
-
-	web_add_auto_header("DNT", 
-		"1");
-
-	web_add_auto_header("Sec-Fetch-User", 
-		"?1");
-
-	web_add_auto_header("Upgrade-Insecure-Requests", 
-		"1");
-
-/*Correlation comment - Do not change!  Original value='137586.852895909HAHHVcDpHtfiDDDDtctzcpHtctHf' Name ='userSession' Type ='ResponseBased'*/
-	web_reg_save_param_attrib(
-		"ParamName=userSession",
-		"TagName=input",
-		"Extract=value",
-		"Name=userSession",
-		"Type=hidden",
-		SEARCH_FILTERS,
-		"IgnoreRedirections=No",
-		"RequestUrl=*/nav.pl*",
-		LAST);
-
-	web_url("webtours", 
-		"URL=http://localhost:1080/webtours/", 
-		"TargetFrame=", 
-		"Resource=0", 
-		"RecContentType=text/html", 
-		"Referer=", 
-		"Snapshot=t1.inf", 
-		"Mode=HTML", 
-		LAST);
+	open_homepage();
 	lr_end_transaction("open_home_page", LR_AUTO);
 
 

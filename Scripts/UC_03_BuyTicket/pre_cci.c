@@ -2588,35 +2588,8 @@ void
 
 # 8 "globals.h" 2
 
-
-
- 
- 
-
-
-
-# 3 "c:\\users\\\355\340\344\377\\onedrive\\\344\356\352\363\354\345\355\362\373\\vugen\\scripts\\uc_03_buyticket\\\\combined_UC_03_BuyTicket.c" 2
-
-# 1 "vuser_init.c" 1
-vuser_init()
-{
-	return 0;
-}
-# 4 "c:\\users\\\355\340\344\377\\onedrive\\\344\356\352\363\354\345\355\362\373\\vugen\\scripts\\uc_03_buyticket\\\\combined_UC_03_BuyTicket.c" 2
-
-# 1 "Action.c" 1
-Action()
-{
-
-	lr_start_transaction("UC_03_BuyTicket");
-	
-	lr_think_time(5);
-	
-	lr_start_transaction("open_home_page");
-	
-	web_reg_find("Text/IC= A Session ID has been created and loaded into a cookie called MSO.",
-		"LAST");
-
+# 1 "..\\\\lib\\\\open_homepage.h" 1
+open_homepage(){
 	web_add_auto_header("Sec-Fetch-Dest", 
 		"document");
 
@@ -2656,6 +2629,41 @@ Action()
 		"Snapshot=t1.inf", 
 		"Mode=HTML", 
 		"LAST");
+	return 0;
+}
+# 9 "globals.h" 2
+
+
+
+ 
+ 
+
+
+
+# 3 "c:\\users\\\355\340\344\377\\onedrive\\\344\356\352\363\354\345\355\362\373\\vugen\\scripts\\uc_03_buyticket\\\\combined_UC_03_BuyTicket.c" 2
+
+# 1 "vuser_init.c" 1
+vuser_init()
+{
+	return 0;
+}
+# 4 "c:\\users\\\355\340\344\377\\onedrive\\\344\356\352\363\354\345\355\362\373\\vugen\\scripts\\uc_03_buyticket\\\\combined_UC_03_BuyTicket.c" 2
+
+# 1 "Action.c" 1
+Action()
+{
+
+	lr_start_transaction("UC_03_BuyTicket");
+	
+	lr_think_time(5);
+	
+	lr_start_transaction("open_home_page");
+	
+	web_reg_find("Text/IC= A Session ID has been created and loaded into a cookie called MSO.",
+		"LAST");
+
+
+	open_homepage();
 
 	web_set_sockets_option("SSL_VERSION", "AUTO");
 	
@@ -2760,7 +2768,7 @@ Action()
 		"Name=departDate", "Value={departDate}", "ENDITEM", 
 		"Name=arrive", "Value={arrive}", "ENDITEM", 
 		"Name=returnDate", "Value={returnDate}", "ENDITEM", 
-		"Name=numPassengers", "Value=1", "ENDITEM", 
+		"Name=numPassengers", "Value=3", "ENDITEM", 
 		"Name=seatPref", "Value={seatPref}", "ENDITEM", 
 		"Name=seatType", "Value={seatType}", "ENDITEM", 
 		"Name=findFlights.x", "Value=64", "ENDITEM", 
@@ -2789,7 +2797,7 @@ Action()
 		"Mode=HTML",
 		"ITEMDATA",
 		"Name=outboundFlight", "Value={outboundFlight}", "ENDITEM",
-		"Name=numPassengers", "Value=1", "ENDITEM",
+		"Name=numPassengers", "Value=3", "ENDITEM",
 		"Name=advanceDiscount", "Value=0", "ENDITEM",
 		"Name=seatType", "Value={seatType}", "ENDITEM",
 		"Name=seatPref", "Value={seatPref}", "ENDITEM",
@@ -2828,12 +2836,14 @@ Action()
 		"Name=lastName", "Value={lastName}", "ENDITEM", 
 		"Name=address1", "Value={address1}", "ENDITEM", 
 		"Name=address2", "Value={address2}", "ENDITEM", 
-		"Name=pass1", "Value={pass1}", "ENDITEM", 
+		"Name=pass1", "Value={pass1}", "ENDITEM",
+		"Name=pass2", "Value={pass2}", "ENDITEM", 
+		"Name=pass3", "Value={pass3}", "ENDITEM", 		
 		"Name=creditCard", "Value={creditCard}", "ENDITEM", 
 		"Name=expDate", "Value={expDate}", "ENDITEM", 
 		"Name=saveCC", "Value=on", "ENDITEM", 
 		"Name=oldCCOption", "Value=on", "ENDITEM", 
-		"Name=numPassengers", "Value=1", "ENDITEM", 
+		"Name=numPassengers", "Value=3", "ENDITEM", 
 		"Name=seatType", "Value={seatType}", "ENDITEM", 
 		"Name=seatPref", "Value={seatPref}", "ENDITEM", 
 		"Name=outboundFlight", "Value={outboundFlight}", "ENDITEM", 

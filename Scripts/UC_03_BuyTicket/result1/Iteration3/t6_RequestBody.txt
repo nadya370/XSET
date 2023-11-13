@@ -1,3 +1,0 @@
-"advanceDiscount=0&depart=London&departDate=11%2F04%2F2023&arrive=Paris&returnDate=11%2F04%2F20"
-"23&numPassengers=1&seatPref=None&seatType=Coach&findFlights.x=64&findFlights.y=3&.cgifields=ro"
-"undtrip&.cgifields=seatType&.cgifields=seatPref"

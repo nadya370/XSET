@@ -1,4 +1,0 @@
-"firstName=Meis&lastName=Windu&address1=sadovaya&address2=Sydney&pass1=Meis+Windu&creditCard=18"
-"27372367643236&expDate=08%2F09&saveCC=on&oldCCOption=on&numPassengers=1&seatType=First&seatPre"
-"f=Aisle&outboundFlight=800%3B1485%3B11%2F04%2F2023&advanceDiscount=0&returnFlight=&JSFormSubmi"
-"t=off&buyFlights.x=49&buyFlights.y=9&.cgifields=saveCC"

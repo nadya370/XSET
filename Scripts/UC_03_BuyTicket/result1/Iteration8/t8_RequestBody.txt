@@ -1,4 +1,0 @@
-"firstName=Django&lastName=Fett&address1=komsomolskaya&address2=Denver&pass1=Django+Fett&credit"
-"Card=5432112345678900&expDate=09%2F10&saveCC=on&oldCCOption=on&numPassengers=1&seatType=Busine"
-"ss&seatPref=Window&outboundFlight=070%3B424%3B11%2F04%2F2023&advanceDiscount=0&returnFlight=&J"
-"SFormSubmit=off&buyFlights.x=49&buyFlights.y=9&.cgifields=saveCC"

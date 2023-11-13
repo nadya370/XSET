@@ -2588,6 +2588,20 @@ void
 
 # 8 "globals.h" 2
 
+# 1 "..\\\\lib\\\\homepage.h" 1
+homepage(){
+	web_url("welcome.pl", 
+		"URL=http://localhost:1080/cgi-bin/welcome.pl?signOff=true", 
+		"Resource=0", 
+		"RecContentType=text/html", 
+		"Referer=http://localhost:1080/WebTours/", 
+		"Snapshot=t13.inf", 
+		"Mode=HTML", 
+		"LAST");
+		return 0;
+}
+# 9 "globals.h" 2
+
 
  
  
@@ -2638,14 +2652,7 @@ Action()
 	web_add_auto_header("sec-ch-ua-platform", 
 		"\"Windows\"");
 
-	web_url("welcome.pl", 
-		"URL=http://localhost:1080/cgi-bin/welcome.pl?signOff=true", 
-		"Resource=0", 
-		"RecContentType=text/html", 
-		"Referer=http://localhost:1080/WebTours/", 
-		"Snapshot=t13.inf", 
-		"Mode=HTML", 
-		"LAST");
+	homepage();
 
 	lr_end_transaction("open_home_page",2);
 	

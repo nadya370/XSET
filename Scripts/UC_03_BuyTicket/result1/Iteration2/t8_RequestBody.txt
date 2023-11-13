@@ -1,4 +1,0 @@
-"firstName=Obi&lastName=Kenobi&address1=popova&address2=Frankfurt&pass1=Obi+Kenobi&creditCard=8"
-"765432187654321&expDate=02%2F03&saveCC=on&oldCCOption=on&numPassengers=1&seatType=Business&sea"
-"tPref=Window&outboundFlight=120%3B385%3B11%2F04%2F2023&advanceDiscount=0&returnFlight=&JSFormS"
-"ubmit=off&buyFlights.x=49&buyFlights.y=9&.cgifields=saveCC"

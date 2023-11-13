@@ -2589,6 +2589,51 @@ void
 
 # 8 "globals.h" 2
 
+# 1 "..\\\\lib\\\\open_homepage.h" 1
+open_homepage(){
+	web_add_auto_header("Sec-Fetch-Dest", 
+		"document");
+
+	web_add_auto_header("Sec-Fetch-Site", 
+		"none");
+
+	web_add_auto_header("Sec-Fetch-Mode", 
+		"navigate");
+
+	web_add_auto_header("DNT", 
+		"1");
+
+	web_add_auto_header("Sec-Fetch-User", 
+		"?1");
+
+	web_add_auto_header("Upgrade-Insecure-Requests", 
+		"1");
+
+	 
+	web_reg_save_param_attrib(
+		"ParamName=userSession",
+		"TagName=input",
+		"Extract=value",
+		"Name=userSession",
+		"Type=hidden",
+		"SEARCH_FILTERS",
+		"IgnoreRedirections=No",
+		"RequestUrl=*/nav.pl*",
+		"LAST");
+
+	web_url("webtours", 
+		"URL=http://localhost:1080/webtours/", 
+		"TargetFrame=", 
+		"Resource=0", 
+		"RecContentType=text/html", 
+		"Referer=", 
+		"Snapshot=t1.inf", 
+		"Mode=HTML", 
+		"LAST");
+	return 0;
+}
+# 9 "globals.h" 2
+
 
  
  
@@ -2616,45 +2661,7 @@ Action()
 			"Text/IC=Welcome to the Web Tours site.",
 			"LAST");
 
-	web_add_auto_header("Sec-Fetch-Dest", 
-		"document");
-
-	web_add_auto_header("Sec-Fetch-Site", 
-		"none");
-
-	web_add_auto_header("Sec-Fetch-Mode", 
-		"navigate");
-
-	web_add_auto_header("DNT", 
-		"1");
-
-	web_add_auto_header("Sec-Fetch-User", 
-		"?1");
-
-	web_add_auto_header("Upgrade-Insecure-Requests", 
-		"1");
-
- 
-	web_reg_save_param_attrib(
-		"ParamName=userSession",
-		"TagName=input",
-		"Extract=value",
-		"Name=userSession",
-		"Type=hidden",
-		"SEARCH_FILTERS",
-		"IgnoreRedirections=No",
-		"RequestUrl=*/nav.pl*",
-		"LAST");
-
-	web_url("webtours", 
-		"URL=http://localhost:1080/webtours/", 
-		"TargetFrame=", 
-		"Resource=0", 
-		"RecContentType=text/html", 
-		"Referer=", 
-		"Snapshot=t1.inf", 
-		"Mode=HTML", 
-		"LAST");
+	open_homepage();
 	lr_end_transaction("open_home_page", 2);
 
 
